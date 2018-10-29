@@ -1,0 +1,38 @@
+Sala persona puno cerrado mano llena anillos pegaba cara hija sentado adelante tupaqueros
+NO_podia
+habla jujena Carmen Rosa Fernandez relato grupo denunciantes Sala brindo ayer tarde organismo Amnistia Internacional
+temprano presentado Corte Suprema Justicia escrito solicitar audiencia publica NO_pedir NO_liberen NO_Sala
+NO_llega NO_salir dijo Clarin firmantes petitorio
+total nueve personas nuclearon Milagro denunciantes
+Ayer acudieron Maximo NO_Tribunal NO_debe NO_dictaminar NO_levanta NO_prision NO_preventiva NO_exigir conozca cara historia
+disponga audiencia publica fines podamos exponer riesgo implica vidas derechos familias cese prision resume documento
+Milagro Sala recibio representantes CIDH celda
+denuncias empezaron
+primeros acusar lider Tupac Justicia Victor Mendoza gremio docente ADEP
+Asegura despues lista impusiera Sala elecciones sindicales pegaron sacaron casa rompieron muebles
+sacaron casa golpearon hijo policias Milagro pusieron droga casa denunciaron cuenta Maria Carmen Gonzalez
+explica
+Tupac dado casa enteraron lista postulantes Sindicato Empleados Obreros Municipales NO_Santillan NO_empezaron NO_amenazar
+NO_miedo NO_aseguran NO_ceso NO_NO_detencion NO_dirigente sufrieron amenazas extorsiones prision
+banco pibe tira piso roba sale corriendo
+pasa auto cerca pisa relata Gonzalez
+noviembre despues hecho declaraciones canal tele golpearon baje colectivo
+encapuchados dijeron
+cagar hija agrega Ivana Velazquez ex cooperativistas asegura empezo sufrir ataques quiso renunciar Tupac
+carta llevaron Corte aclara
+seguridad personal encuentra riesgo actual grave
+dudas situacion empeorar caso producirse cese prision preventiva Sala viene cumpliendo
+temor libertad Sala posibles represalias ultimos meses grupo comenzo exigir escuchado
+mayo reunieron Grupo ONU visito pais mes pasado despues papa Francisco respondiera carta Milagro Sala dijo comprender dolor enviaron escrito Vaticano
+cuenta pidieron
+Sala detenida enero tumultos instigacion cometer delitos raiz acampe mes Tupac mantuvo frente Gobernacion jujena
+Dias despues liberada causa quedo imputada detenida asociacion ilicita fraude administracion publica extorsion acusada desviar fondos nacionales destinados construccion viviendas Jujuy
+abogados defensores Sala agrupaciones acompanan lanzaron semana paralelo inicio sesiones extraordinarias Comision Interamericana Derechos Humanos campana internacional Sala
+Entregaron cajas repletas cartas reclaman liberacion Corte Suprema lanzaron plataforma web juntan firmas enviarle Mauricio Macri texto solicitando ponga violaciones derechos humanos
+momento recolectaron firmas virtuales ex presidenta Cristina Fernandez Kirchner fundador WikiLeaks Julian Assange
+diciembre pasado Sala condenada tres prision suspenso escrache cooperativistas realizaron gobernador Gerardo Morales
+mes Camara Federal Casacion confirmo condena ahora defensa recurrio Corte Suprema tema
+[u'Milagro Sala', u'Corte Suprema', u'Victor Mendoza', u'Obreros Municipales', u'Maximo Tribunal', u'Mauricio Macri', u'La Tupac', u'Julian Assange', u'Ivana Velazquez', u'Gerardo Morales', u'El Perro', u'Derechos Humanos', u'Cristina Fernandez', u'Comision Interamericana', u'Carmen Rosa', u'Carmen Gonzalez', u'Camara Federal', u'Amnistia Internacional']
+[4, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Carmen Rosa Fernandez']
+[1]

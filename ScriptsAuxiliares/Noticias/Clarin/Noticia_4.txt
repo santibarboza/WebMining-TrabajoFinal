@@ -1,0 +1,26 @@
+medio debate desafuero Julio Vido diputados Sergio Massa Margarita Stolbizer legisladores candidatos anunciaron mediodia renuncia privilegio fueros inmunidad correspondiera condicion diputado senador
+eleccion privilegios esperamos pais fuerzas politicas hagan aseguro Massa
+parte Stolbizer sostuvo mayor problema NO_corrupcion NO_impunidad NO_corruptos interpelo NO_Judicial demostrar complice avanzar investigaciones
+Massa Stolbizer Colegio Publico Abogados
+Foto
+Luciano Thieberger fiscal Carlos Stornelli pidio martes desafuero detencion ex ministro Planificacion kirchnerismo causa Rio Turbio
+oficialismo gran parte oposicion dispuestos votar favor Camara Diputados llegar orden juez Luis Rodriguez debe aprobar pedido Stornelli
+Ademas lider GEN refirio nombrarla Elisa Carrio asegurar accion deja evidencia utilizan maniobra electoral idea unicos defensores tratando poner lado
+Stolbizer apunto Carlos Menem Cristina Kirchner
+fueros implican hoy senador Camara condenas candidata busca curva propia ocultar impunidad disparo
+pasado juez ordenado allanamiento departamento diputado marco causa enriquecimiento ilicito
+camara baja tardo mes dar visto bueno
+Elisa Carrio primera denunciar Vido describiendolo cajero Kirchner
+Stolbizer Massa sumaron cruzada disputan primer puesto honestidad
+Massa Stolbizer Colegio Publico Abogados
+Foto
+Luciano Thieberger disenan proyecto propio trate situacion Vido Congreso esperar juez NO_Luis NO_Rodriguez NO_decida acepta pedido desafuero
+Massa pego Gobierno demora
+vez miedo Vido hable Calcaterra primo presidente NO_Mauricio
+NO_Congreso utilizarse lugar evasion Justicia Congreso volver Honorable
+compromiso antifueros renuncia fueros by Clarin
+com on Scribd
+[u'De Vido', u'Luis Rodriguez', u'Luciano Thieberger', u'Elisa Carrio', u'Colegio Publico', u'Sergio Massa', u'Rio Turbio', u'Poder Judicial', u'Pero Stolbizer', u'Mauricio Macri', u'Margarita Stolbizer', u'Julio De', u'El Congreso', u'Cristina Kirchner', u'Carlos Stornelli', u'Carlos Menem']
+[4, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Luciano Thieberger El', u'Julio De Vido']
+[1, 1]

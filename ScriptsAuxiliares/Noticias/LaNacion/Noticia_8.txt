@@ -1,0 +1,15 @@
+exclusion diputadoo senador cuerpo situacion atravesar Julio Vido Congreso producirse medio mecanismos
+juez solicita expresamente desafuero camara respectiva concede tercios votos legisladores presentes
+segundo mecanismo consagrado articulo Constitucion nacional faculta camara parlamentaria corregir miembros desorden conducta ejercicio funciones
+dicho articulo permite removerlo inhabilidad fisica moral sobreviniente incorporacion excluirlo seno
+buen romance diputado senador expulsado camara respectiva pares tercios votos consideran incurrio conducta impropia
+conductas tipificadas reglamentos ambas camaras
+referencia alusiones irrespetuosas imputaciones mala intencion moviles ilegitimos insultos expresiones ofensivas
+Camara Diputados antecedentes expulsion desorden conducta
+ex diputado nacional Angel Luque separado Camara baja consecuencia escandalo asesinato joven Maria Soledad Morales
+caso Norma Godoy diputada menemista expulsada declaraciones recargadas improperios hechas camara oculta programa televisivo
+cerrar
+[u'Norma Godoy', u'Maria Soledad', u'Julio De', u'Angel Luque']
+[1, 1, 1, 1]
+[u'Maria Soledad Morales', u'Julio De Vido']
+[1, 1]

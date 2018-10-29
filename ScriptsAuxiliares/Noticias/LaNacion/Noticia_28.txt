@@ -1,0 +1,29 @@
+RIO GALLEGOS
+voluntad propia presidenta Consejo Provincial Educacion Cecilia Velazquez permanecia atrincherada madrugada segunda noche consecutiva salir despacho raiz protesta docentes llevan edificio
+ministra reconocio quedaba interior decision propia responsabilidad comparo gremio docente agrupacion Quebracho
+contraprotesta ministra inicio miercoles tarde luego asamblea docentes decidiera ocupar edificio funciona Consejo Provincial Educacion protesta descuentos indiscriminados sufrieron sueldos
+docentes cobraron junio asistencia gobierno nacional envio millones pagar sueldos aguinaldos
+embargo fondos llegaron descuentos paros abril
+equipo funcionarios retiro miercoles noche Velazquez vicepresidente Ismael Enrique reducido grupo colaboradores permanecio planta alta edificio
+Consejo Educacion responsabilidad velar educacion provincia seguire tareas
+NO_podido NO_mover declaro Velazquez radio local FM
+docentes permanecen edificio aseguran momento impidio salir edificio
+Ayer mediodia sorprendio llegada camioneta instalo debajo balcon oficina Velazquez arrojo bolsa alimentos funcionarios atrincherados
+momento intentaron pasar puerta nadie prohibio paso afirmo NACION Ezequiel Alos Asociacion Docentes Santa Cruz
+dialoga
+NO_condiciones dialoga
+Hicimos siete paritarias afirmo Velazquez
+Dijo principal objetivo garantizar recuperacion dias clases perdidos paros fustigo docentes jubilados viajar exterior
+Ademas maestra jardinera Velazquez fuerte militancia Kolina
+Ayer acuso violentos docentes
+Alicia Kirchner Quebracho pudo afirmo ministra jefa gabinete asesores Ministerio Desarrollo Social Nacion
+pesa denuncia penal facturacion apocrifa
+docentes cumplen dias paro reclamo aumentos pago desdoblado sueldos
+envio fondos Nacion docentes cobraron fuertes descuentos
+Velazquez responsabilizo NO_directivos NO_informar NO_planillas docentes huelga
+Ministra Educacion Maestra jardinera jefa asesores ministra Desarrollo Social
+reconocida militante agrupacion Kolina directora Casa Santa Cruz Buenos Aires diciembre
+[u'Santa Cruz', u'Desarrollo Social', u'Consejo Provincial', u'Ismael Enrique', u'Ezequiel Alos', u'Cecilia Velazquez', u'Buenos Aires', u'Alicia Kirchner']
+[2, 2, 2, 1, 1, 1, 1, 1]
+[]
+[]

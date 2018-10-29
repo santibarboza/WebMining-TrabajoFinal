@@ -1,0 +1,14 @@
+juez federal Rioja rechazo grosera presentacion judicial Carlos Saul Menem NO_pueda NO_competir NO_dio NO_via NO_libre NO_ex NO_Presidente NO_Nacion NO_postulacion NO_candidato NO_senador NO_nacional NO_provincia
+presentacion judicial luego Camara Casacion dejara firme condena ex Presidente venta ilegal armas Croacia Ecuador
+Menem detenido investigacion junio diciembre
+Ahora Menem via libre competir provincia favorito reelegido senador nacional
+Conocido fallo hablo ex gobernador peronista Luis Beder Herrera
+justicia emitio fallo correcto sostuvo diputado nacional presidente Justicialismo Rioja conocerse decision juez Federal Daniel Herrera Piedrabuena rechazo plano grosera impugnacion impedia Carlos Menem pueda presentarse pre candidato senador nacional proximas elecciones
+Beder Herrera manifesto grosero ciudadano NO_Buenos NO_Aires NO_recuse NO_candidato senador Rioja legitimidad hacerlo agrego veo juez entendio fallando correctamente
+presentacion hecha ciudadano Cesar domicilio localidad Rafael Castillo partido Matanza
+da enorme tranquilidad riojanos pais dijo Beder Herrera amplio tranquilos Julio seguir trabajando victoria NO_candidatos NO_reafirmar NO_proyecto NO_politico NO_Rioja ver NO_proyecto NO_politico NO_Mauricio Macri Julio Martinez sojuzga pueblo desgracia someter gente humilde preserva
+Dijo ademas gente mal consumo caido oponemos politicas Mauricio Macri costo pagar gente Rioja
+[u'La Rioja', u'Beder Herrera', u'Mauricio Macri', u'Ramon Cesar', u'Rafael Castillo', u'Luis Beder', u'La Matanza', u'Julio Martinez', u'Herrera Piedrabuena', u'Federal Daniel', u'Carlos Saul', u'Carlos Menem', u'Buenos Aires']
+[5, 3, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Ramon Cesar Hernandez', u'Luis Beder Herrera', u'Federal Daniel Herrera', u'Carlos Saul Menem']
+[1, 1, 1, 1]

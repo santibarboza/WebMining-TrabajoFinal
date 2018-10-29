@@ -1,0 +1,15 @@
+HAMBURGO
+manifestantes impidieron hoy Melania Trump esposa presidente Unidos Donald Trump pudiese salir edificio gobierno Hamburgo aloja motivo celebracion cumbre jefes Gobierno
+ahora Policia NO_dado NO_ok NO_seguridad NO_abandonar NO_residencia declaro portavoz primera dama estadounidense DPA
+cerrar bloqueo vio afectada impidio unirse puntualidad programa acompanantes participan mujeres maridos mandatarios anfitrion esposo Angela NO_Merkel Joachim Sauer
+Melania Trump pudo participar paseo barco previsto consortes lideres realizaran manana parejas NO_reunen primera sesion
+obstante espera primera dama Unidos pueda sumar comida conjunta figura segunda actividad programa acompanantes posteriormente visite Centro Aleman Investigacion Climatica organismo estudia clima mediante computacion NO_alto NO_rendimiento
+NO_esposa NO_Trump NO_unico NO_miembro NO_delegacion NO_estadounidense sufrio inconvenientes protestas
+secretario pais norteamericano Rex Tillerson encontro camino encapuchados disponia cumplir agenda dia
+paseo barco Elba acudieron mujer presidente frances Emmanuel Macron Brigitte Macron marido premier britanica Theresa May Philip May
+Asimismo presente primera dama canadiense Sophie Gregoire Trudeau acudio acompanada hijo pequeno Hadrien
+Agencia DPA
+[u'Melania Trump', u'Estados Unidos', u'Theresa May', u'Sophie Gregoire', u'Rex Tillerson', u'Philip May', u'Joachim Sauer', u'Investigacion Climatica', u'Emmanuel Macron', u'Donald Trump', u'Centro Aleman', u'Brigitte Macron', u'Angela Merkel']
+[2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Sophie Gregoire Trudeau']
+[1]

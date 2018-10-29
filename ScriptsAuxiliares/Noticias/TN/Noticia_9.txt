@@ -1,0 +1,19 @@
+Canciller Nestor Cristina Kirchner legislador porteno diputado Parlasur Jorge Taiana reaparecio politica nacional
+expresidenta designo companero formula precandidatos senadores nacionales Unidad Ciudadana provincia Buenos Aires
+diplomatico cuido palabras sugirio pedido detencion exministro Planificacion Federal Julio Vido parte campana
+Taiana explico Codigo Politico
+sorprendio planteo fiscal federal Carlos Stornelli empleado Mauricio Macri presidente pedir desafuero detencion Vido
+fueros garantizar labor parlamentaria NO_impunidad
+Gobierno funcionarios imputados medio
+segundo precandidato senador espacio Cristina metio lleno campana
+Gobierno haciendo NO_cosa NO_sale medio
+Deteriora indices heredo kirchnerismo
+NO_seguimos NO_rumbo NO_futuro mejor presente
+inmediato darle fuerte mensaje politico beneficiar sufrir mayoria
+Finalmente excanciller conto expresidenta precandidata
+candidatura responde necesidad politica
+gente barrios populares pide vuelva Cristina
+[u'De Vido', u'Unidad Ciudadana', u'Planificacion Federal', u'Mauricio Macri', u'Julio De', u'Jorge Taiana', u'Este Gobierno', u'El Gobierno', u'Cristina Kirchner', u'Codigo Politico', u'Carlos Stornelli', u'Buenos Aires']
+[2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Julio De Vido']
+[1]

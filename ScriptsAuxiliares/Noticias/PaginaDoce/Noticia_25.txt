@@ -1,0 +1,36 @@
+juez Luis Rodriguez rechazo pedido desafuero detencion ex ministro Planificacion actual diputado Julio Vido ordeno serie medidas causa convenios mina Rio Turbio dispuso implementar secreto sumario
+decision magistrado descoloco legisladores oficialismo massismo respuesta centro Stornelli tiro campana electoral salieron anunciar bombos platillos despojan fueros
+vez tema volvio fiscal raiz filtracion solicitud desafuero Vido investigado delito juez federal Marcelo Martinez Giorgi
+anuncio renuncia fueros hicieron macristas massistas ultima vuelta tuerca puesta escena arranco martes pedido Stornelli procediera desafuero Vido indagarlo detenerlo incluyo posterior aparicion propio Mauricio Macri comunicar bloque Cambiemos apoyaria solicitud Diputados
+Camara baja debate respecto Rodriguez NO_hizo NO_lugar NO_solicitud NO_NO_fiscal
+NO_juez NO_hizo NO_lugar NO_pedido NO_Stornelli NO_NO_considerar NO_NO_que NO_NO_pruebas NO_NO_reunidas NO_NO_hasta NO_NO_el NO_NO_momento NO_NO_no NO_NO_permiten NO_NO_conformar NO_NO_el NO_NO_estado NO_NO_de NO_NO_suficiente NO_detener NO_Vido
+NO_preciso NO_comunicado NO_dio NO_cuenta NO_decision investigacion implantar secreto sumario asegurar realizacion diligencias
+nbsp
+NO_causa Stornelli pidio detener ex ministro Planificacion referida desarrollo mina carbon tren usinas Rio Turbio comenzo medio
+imputacion ver coimas sobreprecios facturas truchas firma convenios Yacimientos Carboniferos Rio Turbio regional Santa Cruz Universidad Tecnologica Nacional recurrio lugar consultoras evaluacion tecnica plan
+nbsp
+proyecto consistia carbon extraido mina Rio Turbio cuenta reservas utilizado usinas instaladas impulsar desarrollo lejana ciudad patagonica
+recursos desarrollo votados Congreso
+nbsp
+Ademas Vido causa imputados
+NO_Rodriguez NO_otorgo NO_eximicion NO_prision NO_tres
+NO_Fernando NO_Lisse NO_Miguel NO_Larregina NO_Marta NO_Perez
+NO_Rodriguez NO_hizo NO_lugar NO_pedido NO_eximicion prision entendio actividad procesal desplegada vio afectada intervencion personas dijo dificil sostener ocurrir partir
+NO_Anticipo criterio rechazar detencion Vido
+decision Rodriguez decretar paralelo rechazo detenciones secreto sumario apunta NO_tratar NO_garantizar NO_exito NO_serie NO_medidas NO_NO_tambien NO_NO_dispuso NO_NO_en NO_NO_la NO_NO_causa
+NO_NO_Si NO_NO_bien NO_NO_el NO_NO_juez NO_NO_no NO_NO_preciso NO_NO_en NO_consisten conocen expediente adelantan posibles allanamientos YCRT regional Santa Cruz UTN busca documentacion relativa convenios firmados
+Explican NO_motivos NO_procedimientos propiedades Vido ex ministro intervencion acuerdos
+parte profundizacion investigacion Rodriguez decidio darle participacion Unidad Informacion Financiera
+organismo hara dictamen movimientos economicos relacionados convenios
+rechazo pedido desafuero detencion Vido ayer unico reves Stornelli quedo lupa filtracion resolucion prensa
+Fuentes judiciales consignaron denuncia penal titular Fiscalia presentada abogado Adrian Daniel Albor defensor Lisse ex directivo Yacimiento Carbonifero Rio Turbio
+defensor argumento entero medios comunicacion cliente afrontaba pedido detencion indagatoria hecho Stornelli vez tomado conocimiento sistema habitual acceso expediente leer novedades procesales
+propio juez federal Luis Rodriguez considerado anteayer defensa Lisse dictamen Stornelli llego juzgado martes
+luego salto medios comunicacion partes podido acceder vista
+ende frente postura defensa posible comision delito revelado secretos previsto articulo
+corresponde extraer testimonios correspondientes juez intervenga afirmo magistrado
+investigacion desempeno Stornelli quedo manos juez Martinez Giorgi
+[u'De Vido', u'Rio Turbio', u'Santa Cruz', u'Luis Rodriguez', u'Yacimientos Carboniferos', u'Yacimiento Carbonifero', u'Universidad Tecnologica', u'Miguel Larregina', u'Mauricio Macri', u'Marta Perez', u'Marcelo Martinez', u'Julio De', u'Informacion Financiera', u'Fernando Lisse', u'Adrian Daniel']
+[8, 5, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Yacimientos Carboniferos Rio', u'Universidad Tecnologica Nacional', u'Julio De Vido', u'Adrian Daniel Albor']
+[1, 1, 1, 1]

@@ -1,0 +1,98 @@
+Gobierno descarto contar economia arma electoral
+crecimiento amarrete gente NO_percibe
+inflacion creian podia exito mostrar repunto alimentada dolar nafta
+Cristina Kirchner quiere ocupar espacio hablando ajuste macrista
+Gobierno decidio apelara vivienda bandera campana
+Planes sociales Procrear creditos hipotecarios
+veces diablo metio NO_cola NO_sale NO_esperaban
+Pasen vean
+Ayer Banco Central informo junio prestamos hipotecarios continuaron alentados denominados capital ajusta inflacion
+mes pasado sumaron
+millones
+dato aceleracion
+junio otorgaron prestamos UVA firmaron lanzamiento sistema
+punto coinciden bancos
+demanda alcanzan fondos frases escuchadas altos ejecutivos entidades publicas
+problema oportunidad
+justamente Mauricio Macri piensa explorar
+jueves ministro Interior puso blanco negro
+diciembre millones destinados creditos hipotecarios medio despues
+millones decir pasamos problema darle realidad familiar solucion terminos NO_remarco
+NO_cifras NO_coinciden Banco Central intencion politica queda clara
+dijo gobernador Corrientes Ricardo Colombi aliado clave firmo construccion provincia viviendas
+campana
+Podra decirse
+hecho gestion
+bandera flameando
+Pese Gobierno enojado gobernadores tema quiere sacarles fondos
+tema trataremos adelante volvamos financiacion vivienda gente corriente
+ministro Frigerio gobernadror Colombi anuncian inversion millones construir viviendas Corrientes
+bancos oficiales preparando bateria anuncios proximas semanas
+campana coincidencia claro
+Veamos
+dias Ciudad lanza nueva version hipotecarios UVA constructores puedan financiar edificios luego comprador propio prestamo NO_banco propiedad todavia construida
+entusiasmados sistema proximos dias saldran ofrecer creditos personales ajustables UVA
+Aseguran
+bajar cuota
+pesos mensuales
+Hipotecario trabajando lineas
+acaban lanzar
+financiacion
+cuesta instalar gas casa red puerta
+Creen
+NO_familias siguen usando garrafa pagar monto
+cuota similar costo garrafas
+entregaron creditos esperan llegar
+fines proximo
+lanzando linea acuerdo corralones materiales financiar compra ladrillos cemento ceramica
+propia obra
+Provincia parte acaba salir Hipotecario familias ganan
+exigencias recibo sueldo apto corralones
+clave solicita ahorro previo meses
+igual Ciudad trabajando sistemas valuacion NO_flexibles NO_NO_poder NO_incorporar NO_NO_como NO_NO_garantia NO_NO_a NO_NO_propiedades titulos perfectos declararon ampliaciones escrituradas
+Despues Procrear creacion kirchnerista Cambiemos apropio usaran campana
+viviendas construidas plan entregar distintos desarrollos urbanisticos
+actos
+creditos Procrear particulares compra construccion
+Ahora subsidio pesos
+toma prestamos millon paga millon resto cancela
+otorgaron
+subsidios
+gente tramitandolo dicen bancos
+fuerte Nacion
+Procrear acumulados
+millones
+camino recorrer confian funcionarios
+volvamos ahora planes oficiales viviendas construye
+Hoy Plan Vivienda
+casas ejecucion
+tercios Institutos Provinciales Vivienda resto municipios
+tension
+jueves Frigerio encabezo reunion Consejo Nacional Vivienda Corrientes
+destaco primera vez historia existe estrategia nacional
+elogios publico
+privado voces Nacion criticas
+dicen IPV demoran obras frena concrecion obras pagos constructoras
+medio juegan razones
+NO_semana NO_sindicalistas empresarios juntaron reclamarle ministerio Frigerio atrasos pagos
+ahora afectan dijeron UOCRA
+pagando
+millones mes junio bajaron millones queremos planteo camara sector CAC
+respuesta sorprendido
+quedado plata
+Hacienda otorga ministerio cuota mensual fondos dispone paga periodo
+junio Interior frente gastos extraordinarios elecciones decidio posponer constructoras
+mes pagos normalizan coincidieron secretarios NO_ministerios NO_diferentes
+Claro NO_electoral NO_querria NO_falta NO_pago NO_afecte NO_bandera campana
+unica puja
+atrasos conflicto importante Plan Viviendas oficial
+Casa Rosada quiere manejarlo forma directa injerencia gobernadores
+buscando financiacion lanzar planes propios
+conto columna negociado empresas chinas ofrecian casas prefabricadas
+descarto multiples reclamos calidad viviendas
+Ahora negocio parece encaminado companias espanolas
+elecciones
+[u'El Gobierno', u'Banco Central', u'Ricardo Colombi', u'Mauricio Macri', u'La Casa', u'Institutos Provinciales', u'El Provincia', u'El Procrear', u'Cristina Kirchner', u'Credito Hipotecario', u'Consejo Nacional']
+[2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'La Casa Rosada', u'Credito Hipotecario Social']
+[1, 1]

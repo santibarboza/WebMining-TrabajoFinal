@@ -1,0 +1,30 @@
+empresa hotelera Cristina Kirchner suma dificultades
+Investigada lavado dinero intervencion veedores informantes decidio juez Julian Ercolini Inspeccion General Justicia sometio fiscalizacion permanente firma duena hotel Alto Calafate cumplir medida judicial incluye prohibicion modificaciones composicion accionaria distribucion dividendos
+Ademas dieron diez dias presente documentacion contable adeudada
+momento
+Lazaro Baez sale presidenta Cristina Kirchner mausoleo guarda restos ex presidente Nestor Kirchner Rio Gallegos
+SANTA CRUZ perder administracion empresa empresa familia Kirchner doblemente controlada
+lado decision podra hotel Alto Calafate contar dictamen equipo AFIP nombrados veedores informantes juez Ercolini marco causa Hotesur SA
+decision tomo impedir vea alterado bienes asegurar eficacia sentencia pueda reconocer derecho sociedad busca adecuada fiscalizacion actividad firmas correcta identificacion localizacion inventario valuacion totalidad bienes
+veeduria juez pidio IGJ corrobore NO_realicen NO_modificaciones NO_composicion NO_accionaria NO_empresa cumpla prohibicion distribucion dividendos
+tipo sociedad Hotesur NO_Inspeccion NO_Justicia NO_podia dar cuenta dicha informacion
+Hotel familia Kirchner Alto Calafate Foto
+OPI NO_Santa NO_Cruz
+NO_situacion NO_detectando NO_contaba NO_informacion NO_actualizada actuaciones firma duena Alto Calafate IGJ considero debia ecabar mayores datos verificar pedido Justicia adecuado funcionamiento sociedad
+firmo Resolucion dictamino someter firma fiscalizacion estatal permanente notifico empresa jueves tarde
+Hotesur ademas presento irregularidades
+Adeuda balance pago tasas anuale envio inspeccion realizo correspondiente intimacion firma diez dias regularice presentacion documentacion contable
+Cristina hijos Maximo Florencia duenos Alto Calafate hotel intervendo Justicia
+IGJ indico directorio informo firma Kirchner deberia haberse actualizado cuenta plazos vencidos NO_indicaron NO_fuentes NO_oficiales NO_Clarin NO_cuenta observaciones
+DNI directores coinciden volcados acta asamblea
+consignaron diferencias cantidad NO_acciones depositadas total expresado registro asistencia
+inspeccion observo depositaron indica ley acciones Clase cuyo director titular ex gobernador suplente Florencia Kirchner
+hija ex Presidenta embargados causa Hotesur millones dolares
+intervencion judicial alcanza hoteles ex Presidenta
+Dunas Aldea Chalten
+vez nombraron veedores Valle Mitre SRL propiedad Lazaro Baez firma gerenciaron tres hoteles julio
+administracion quedo manos Idea SA Osvaldo Sanfelice intervenida
+[u'Alto Calafate', u'Lazaro Baez', u'Cristina Kirchner', u'Valle Mitre', u'Santa Cruz', u'Rio Gallegos', u'Osvaldo Sanfelice', u'Nestor Kirchner', u'Las Dunas', u'La Aldea', u'Kirchner Alto', u'Julian Ercolini', u'Inspeccion General', u'Florencia Kirchner', u'El Hotel', u'El Chalten', u'Calafate Foto']
+[5, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Kirchner Alto Calafate']
+[1]

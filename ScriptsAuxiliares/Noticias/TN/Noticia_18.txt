@@ -1,0 +1,22 @@
+Argentina cuatro categorias empleados Nacional privilegio diferencia resto hombres mujeres pie
+Diputados Senadores funcionarios magistrados gozan Ley
+famosos fueros dan inmunidad pedido prision allanamiento parte Justicia
+caso hoy diputado nacional Julio Vido investigado presunta administracion fraudulenta dinero desarrollo yacimiento carbonifero Rio Turbio gestion frente Ministerio Planificacion Federal
+Ley establece fueros eliminados via parlamentaria diputados presentes recinto votan positivamente
+situacion Julio Vido contexto eventual pedido desafuero
+Suponiendo diputados conforman Camara presentes momento votacion necesitarian votos
+dias conociera pedido fiscal Carlos Stornelli rechazado juez Luis Rodriguez legisladores favor desafuero
+Diputados Cambiemos
+Diputados Frente
+Diputados PJ
+Diputados Progresismo
+Diputados Argentina Diputado Claudio Poggi
+Diputados Peronismo Victoria
+bloque Movimiento Evita historicamente pronuncio fueros
+listado total votos decir necesarios llegar tercios numero momento votacion diputados presentes
+lado Diputados Frente Victoria aliados sumarles legisladores responden hermanos Rodriguez Saa llamativamente vinculados Kirchnerismo medio quedan diputados NO_pronunciaron
+responden exgobernador Santiago Estero Gerardo Zamora actual diputado exgobernador Misiones Maurice Closs
+[u'Rodriguez Saa', u'Rio Turbio', u'Planificacion Federal', u'Peronismo Para', u'Movimiento Evita', u'Maurice Closs', u'Luis Rodriguez', u'La Victoria', u'La Ley', u'Julio De', u'Gerardo Zamora', u'Frente Renovador', u'Frente Para', u'Estado Nacional', u'Diputado Claudio', u'Carlos Stornelli']
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Julio De Vido', u'Frente Para La', u'Diputado Claudio Poggi']
+[1, 1, 1]

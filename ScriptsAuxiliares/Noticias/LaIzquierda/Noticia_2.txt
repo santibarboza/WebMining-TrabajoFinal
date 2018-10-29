@@ -1,0 +1,42 @@
+Maria Rosa Muinos legisladora Ciudad Autonoma Buenos Aires
+Integra agrupacion conduce Victor Santa Maria forma parte gremio Union Personal Civil Nacion
+Septiembre Muinos legisladora Silvia Gottero Claudio Heredia anunciaron retiro Frente Victoria conformaron nuevo Bloque Peronista
+meses tarde Bloque Peronista acompano votacion presupuesto Ciudad
+presupuesto porteno sancionado votos positivos PRO integrantes bloque Confianza Publica lidera Graciela Ocana bloque Peronista
+abstuvieron diputados bancadas Socialismo Coalicion Civica Frente Renovador
+pronunciaron manera negativa diputados Frente Izquierda Frente Victoria Socialista Autentico
+presupuesto educacion significo historia Ciudad
+verdadero ajuste
+presupuesto educativo paso representar
+cayo
+historico
+presupuesto votado candidata Unidad Portena incluye
+intereses gastos deuda
+terminos subsidios educacion privada pasaron representar
+presupuesto educativo
+declaracion principios
+escuelas construir monto
+seguridad suba increible
+presupuesto
+pasado proponen presupuesto
+enorme suba dinero
+universalizar acceso comedores escolares comida calidad
+becas otorgar
+ver votacion Muinos presupuesto Unidad Portena rejunte pejotistas kirchneristas centroizquierdistas lodo
+lado traidores
+destacar espacio dice opositor camaras TV Legislatura Ciudad votado decenas leyes Macrismo
+FpV voto PRO concesion tierras Autodromo beneficiar grandes pulpos inmobiliarios plena Comuna zonas castigadas pobreza Ciudad
+recordar escandalosa entrega Parque Victorias Club golf votado PRO FpV
+concesionaron hectareas veinte justo frente Barrio Papa Francisco cientos vecinos exigen viviendas emergencia habitacional afecta personas Ciudad
+sola vivienda construyeron zona
+tema ley creo Agencia Bienes ente disenado PRO rematar espacios publicos Ciudad incumpliendo constitucion continuando entrega terrenos publicos negocios privados
+primera lectura votada sectores Gabriela Cerrutti Nuevo Encuentro Alegre Aragon Fuks Gullo Ibarra Penacca Muinos Munoz Neira Rachid Taiana
+Gracias votacion ley habilitada segunda lectura
+instancia parte bloque FPV debio retroceder repudio vecinos Ciudad terminaron votandola Muinos Gotero Heredia
+estrategia funcionado tandem Juan Manuel Olmos habil negociador mundo judicial porteno diario Nacion publico personifica acuerdo Ciudad reflotar acuerdo massismo candidatura Felipe Sola Ciudad fracaso simplemente ex gobernador provincia media
+Frente Izquierda consecuente dice garantia Ciudad NO_NO_que NO_NO_no NO_NO_solo NO_NO_no NO_NO_votaron NO_NO_ninguna NO_NO_de NO_NO_las NO_NO_leyes NO_ajuste NO_ademas NO_enfrentan calle trabajadores
+gran bancada Frente Izquierda legislatura pondra agenda trabajadores mujeres juventud
+[u'Unidad Portena', u'Bloque Peronista', u'Victor Santa', u'Union Personal', u'Socialista Autentico', u'Silvia Gottero', u'Nuevo Encuentro', u'Maria Rosa', u'La Nacion', u'Juan Manuel', u'Graciela Ocana', u'Gabriela Cerrutti', u'Frente Renovador', u'Felipe Sola', u'En Septiembre', u'Confianza Publica', u'Coalicion Civica', u'Claudio Heredia', u'Ciudad Autonoma', u'Buenos Aires', u'Barrio Papa']
+[2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Victor Santa Maria', u'Union Personal Civil', u'Maria Rosa Muinos', u'Juan Manuel Olmos', u'Barrio Papa Francisco']
+[1, 1, 1, 1, 1]

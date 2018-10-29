@@ -1,0 +1,24 @@
+Gustavo Vicini docente dirigente local PTS referente oposicion SUTEBA encabezara lista senadores legislatura provincial Alejandro Martinez dirigente Partido Obrero candidato primer concejal secundado Libertad Martinez fundadora Pan Rosas Mar Plata referente Juventud PTS
+Ademas parte listas Marcelo Miguel Roldan trabajador construccion hijo desaparecidos reconocido luchador DDHH carcel genocidas
+Agustina Vaccaroni docente Plenario Trabajadoras
+Rodrigo Garat impulsor agrupacion Marron ATE
+luchadores ciudad
+ocasion Alejandro Martinez declaro FIT presenta listas distritos Buenos Aires municipios llevando listas cientos precandidatos trabajadores mujeres jovenes sumando companeros Popular cuya referente conocida Maria Carmen Verdu luchadora destacadisima
+Seguimos creciendo pais queremos lograr sumar concejales Mar Plata
+Arroyo gobierna partidos patronales NO_cambiado NO_problemas NO_vive NO_ciudad
+FIT unica fuerza politica lucha ajuste queremos llevar voz trabajadores concejo deliberante
+Gustavo Vicini declaro Frente Izquierda vemos quinta seccion repiten problemas desocupacion precarizacion laboral
+Mar Plata ciudad feliz empresarios juntan pala mitad trabajadores negro cobrando sueldos abajo linea pobreza subiendo barcos muerte paso pesquero repunte
+FIT unica fuerza opone consecuentemente ajuste problemas planteamos salida
+repartir horas ocupados desocupados jornada seis horas cinco dias semana sueldo minimo igual canasta basica vidas valen ganancias empresarios
+Denunciamos claramente gobierno ajusta despide PepsiCo dejo trabajadores calle complicidad Triaca salio decir empresa genera puestos nuevos Mar Plata ciudad desocupacion pais
+hicimos gran convocatoria apoyo trabajadores luchan reincorporacion venimos dando pelea fuerza reconocida pais apostamos gran campana recorriendo Quinta seccion apelando miles trabajadores mujeres jovenes ven fuerza independiente gobierno oposicion kirchnerista peronista massista viene votando leyes ajuste macrismo peleando Alejandro Libertad puedan ingresar concejo parte camara senadores provinciales
+Libertad Martinez declaro politicos oposicion kirchneristas massistas peronismo sacan fotos cartel votan leyes ajuste macrismo continuan medidas elementales violencia genero lleva vida mujer horas cientos mujeres mueren consecuencia aborto clandestino
+mujeres transformamos bronca organizacion miles calles Marzo ultima movilizacion
+Pan Rosas principales agrupaciones feministas pais Frente Izquierda viene acompanando lucha calles parlamento
+queremos llevar pelea concejo deliberante Mar Plata asimismo conto principales proyectos concejo declaracion emergencia laboral
+impulsar prohibicion despidos suspensiones cifras desocupacion precariedad alcanzan numeros alarmantes historicos especial mujeres jovenes llegando desocupacion total indice superior
+[u'Libertad Martinez', u'Gustavo Vicini', u'Alejandro Martinez', u'Rodrigo Garat', u'Poder Popular', u'Partido Obrero', u'Marcelo Miguel', u'Carmen Verdu', u'Buenos Aires', u'Agustina Vaccaroni']
+[2, 2, 2, 1, 1, 1, 1, 1, 1, 1]
+[u'Marcelo Miguel Roldan']
+[1]

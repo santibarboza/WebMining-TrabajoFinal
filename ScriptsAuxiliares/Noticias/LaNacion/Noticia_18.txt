@@ -1,0 +1,16 @@
+HAMBURGO
+canciller alemana Angela Merkel dio manana iniciada formalmente cumbre jefes Gobierno Grupo Hamburg Messe centro convenciones ciudad zona blindada policia garantizar seguridad delegaciones
+presidente Mauricio Macri comitiva argentina llegaron Hamburg Messe noroeste centro minutos hora
+Acompanan mandatario jefe gabinete Marcos Pena ministro Hacienda Nicolas Dujovne secretario Asuntos Estrategicos Fulvio Pompeo
+canciller Jorge Faurie sumara despues mediodia debido mantendra reuniones bilaterales
+mandatarios hoy analizaran combate terrorismo luego trataran mesa negociaciones asuntos espinosos falta consenso Unidos
+libre comercio lucha cambio climatico
+cerrar paralelo sesiones plenarias Hamburgo hoy escenario esperado primer encuentro presidente Unidos Donald Trump presidente ruso Vladimir Putin
+Espero interes reuniones hoy lideres mundiales incluyendo reunion Vladimir Putin
+discutir aseguro Trump cuenta Twitter comenzar jornada
+Trump agenda primera reunion bilateral presidente mexicano Enrique Pena Nieto cancelo visita Casa Blanca comienzos tensiones torno muro mandatario estadounidense planea construir frontera Mexico
+Agencias EFE Telam
+[u'Vladimir Putin', u'Hamburg Messe', u'Nicolas Dujovne', u'Mauricio Macri', u'Marcos Pena', u'Jorge Faurie', u'Fulvio Pompeo', u'Estados Unidos', u'Estado Unidos', u'Enrique Pena', u'Donald Trump', u'Casa Blanca', u'Asuntos Estrategicos', u'Angela Merkel']
+[2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Enrique Pena Nieto']
+[1]

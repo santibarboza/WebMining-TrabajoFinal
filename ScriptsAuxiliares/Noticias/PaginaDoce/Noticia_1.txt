@@ -1,0 +1,12 @@
+supuestos problemas agenda Macri NO_festejos NO_independencia NO_tradicionalmente NO_realizan NO_provincia NO_Tucuman
+Presidente opto quedarse ciudad Hamburgo participa cumbre fecha patria tripulantes Fragata Libertad
+dejaron trascender voceros Casa Rosada Mauricio Macri NO_comprometido NO_viajar NO_Tucuman NO_agenda NO_permite NO_adelantar regreso recordar gesta libertaria pesar cumbre Alemania culmina manana
+nbsp
+excusa resulta llamativa cuenta planificacion agenda presidencial realiza meses anticipacion
+nbsp
+nbsp
+nbsp
+[u'Mauricio Macri', u'Fragata Libertad', u'El Presidente', u'Casa Rosada']
+[1, 1, 1, 1]
+[]
+[]

@@ -1,0 +1,46 @@
+Despues violentisimas protestas saqueos noche aterrorizaron Hamburgo inicia segundo dia cumbre reuniones bilaterales suspendidas caotica situacion ayer
+violencia copamiento ciudad parte manifestantes anarquistas forzo cancelamiento reuniones bilaterales ayer reiniciaron hoy
+incidentes continuan esperan marchas tarde
+medio furia gobiernos britanico brasileno imposibilidad acceder reuniones diferentes controles triple anillo concentrico seguridad policial intransigencia dejarlos pasar embajadores
+razon presidente Mauricio Macri decidio conversar colega frances Emmanuel Macron comida gala anoche NO_llegar NO_hotel NO_Movenpick delegacion francesa preparado encuentro bilateral listas banderas
+hablaron comida gala Brigitte Juliana Awada primeras damas conversaban frances
+fuente delegacion argentina Macron menciono acuerdo Mercosur Francia ultimos resiste aprobacion firmado pesar presion agricultores irlandeses polacos
+Pro europeo convencido intencion imprimirle UE mayor dinamica legitimidad democratica Macron dispuesto superar resquemores permitir firmar acuerdo Mercosur comenzo negociado hacerlo coincidir reunion OMC celebrara Buenos Aires
+promesa ex presidente Francois Hollande hecho visita oficial Buenos Aires marzo pasado gesto politico proteccionismo fortalecer UE
+probable agenda permite Macron vuelva conversar oficialmente hoy Macri
+presidente NO_Macri NO_participara NO_dia NO_inicio NO_manana NO_serie NO_reuniones NO_bilaterales Singapur India mediodia europeo presidente Erdogan Turquia
+saludo Macri canciller Alemania Angela Merkel hoy tercera reunion plenaria
+reunion primer ministro Singapur Lee Hsien Loong hijo viejo lider pais participaron mandatario argentino canciller Jorge Fourit secretario Asuntos Estrategicos Fulvio Pompeo
+decidieron relaciones partir convertirse Singapur socio estrategico productos invitarlos participar energias
+Macri dijo interlocutores decision granero supermercado
+energias produccion alimentos convertirse pais crezca proximos continua
+Resolvieron incrementar turismo ciudadanos Singapur paises ricos sofisticados Asia poderosos fondos soberanos visitar cataratas glaciares pescas playas montanas vinedos
+nuevo encuentro Argentina equipo negocios Singapur pueda convertirse puerta entrada productos argentinos
+Argentina Singapur expresaron preocupacion Venezuela unico pais crisis region
+segunda solidaridad presidente argentino frente convulsionada situacion Venezuela horas
+llamado mundo cuenta violacion derechos humanos exposicion presidente Brasil Michel Temer expreso preocupacion
+encuentro primer ministro indio nacionalista Narendra Modi extremadamente fructifero
+gran alegria Argentina avanzado ultima reunion China
+seguir avanzando industria alimentaria experiencia produccion alimentaria tecnologia darles dijo premier indio
+queremos invitarlos Festival Food India transmitan experiencia presenten productos
+interesados empresas publicas India participen explotacion shale agrego Narendra Modi
+India expreso interes ampliar participacion industria farmaceutica
+Quiero aprovechar oportunidad agradecerle Argentina apoyo brindado participacion India distintos organismos internacionales solicitarles apoyo candidato Corte Internacional sostuvo premier
+Macri dijo contento
+Despues ultima reunion puso nuevamente marcha relacion activamente
+agilizado relacion destaco
+aprovecho oportunidad solicitarle ampliar lista productos aumentar lazos comerciales
+participar Food India queremos colaborar produccion alimentos dar conocer sostuvo presidente argentino
+dialogo grandes potencias emergentes Macri expreso
+empresas indias bienvenidas dia mejor instaladas
+Pido apoyo resolver normas sanitarias fitosanitarias levantar barreras productos
+Ademas mandatario argentino recibio agrado interes shale gas indios
+quedamos contacto empresas estatales recibidas YPF explotar areas explotar
+momento perfecto
+manifestarle contento avanzan construccion planta radioisotopos indico Macri
+termina presidente argentino continuara Hamburgo jornada pasar Dia Independencia argentina Fragata Libertad
+nave argentina riesgo embargo anclada puerto Hamburgo cadetes acompanar simbolicamente proceso transferencia presidencia Alemania Argentina seguir rumbo Suecia
+[u'Narendra Modi', u'Food India', u'Buenos Aires', u'Michel Temer', u'Mauricio Macri', u'Lee Hsien', u'Juliana Awada', u'Jorge Fourit', u'Fulvio Pompeo', u'Francois Hollande', u'Fragata Libertad', u'Foto Dy', u'Festival Food', u'Emmanuel Macron', u'Corte Internacional', u'Asuntos Estrategicos', u'Angela Merkel']
+[2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Lee Hsien Loong', u'Festival Food India']
+[1, 1]

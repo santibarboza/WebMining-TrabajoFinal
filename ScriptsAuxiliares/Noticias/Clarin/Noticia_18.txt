@@ -1,0 +1,33 @@
+armas alineo
+imagen alude cerca general toma conciencia tropa derrotada anuncia rendicion elocuente
+Desplazado mesa chica Mauricio Macri consecuencia decisiones estrategicas Gobierno Emilio Monzo decidio ponerle interna margen lanzar criticas apuesta hoy renovar vinculo personal Presidente refugiarse rol Congreso unico terreno Casa Rosada decidio mantenerle maximos detractores reconocen eficacia administrar tiempos oposicion
+Emilio etapa zen
+cumbre Parque Norte NO_quiso NO_hablar
+NO_NO_da NO_NO_notas NO_NO_y NO_NO_no NO_NO_NO_hace NO_NO_NO_con NO_NO_periodistas NO_quiere NO_problemas
+NO_Logro NO_recomponer NO_Presidente mejor Marcos Maria Eugenia dicen entorno referirse proceso anuncio almuerzo fines abril sello paz jefe Gabinete Marcos Pena
+tension latente asuncion macrismo profundizo partir insistencia cruzada acercar dirigentes peronistas Cambiemos Monzo vio definitivamente afuera horas encuentro
+oidos llegado version Pena hartado formas iba impulsar recambio presidencia Diputados
+puja claro superaba jefe Gabinete
+propio Macri sentia desafiado crudas criticas funcionario lanzaba puertas adentro medios
+cosa meterse ideas Jaime NO_decir NO_equivocamos NO_quejaban entorno presidencial
+mes Monzo dialogaba siquiera telefono Macri colmo ministro Interior Rogelio Frigerio amigo defensor ultranza comenzaba recibir golpes rebote
+Ademas Frigerio actores clave operaron Monzo indultado
+Nicolas Caputo amigo personal Macri estratega cosas suceden Gobierno respeta diputado
+NO_jefe NO_Gobierno NO_porteno Horacio Rodriguez Larreta
+cese fuego propuesto Pena incluyo aclaracion pensado removerlo buen mensuran monzoismo
+dias mostraron reunion Mendoza
+inevitablemente descomprimio vinculo Macri mayo decidio subir Monzo gira Asia
+unica noche transitaron escala Dubai viajar China comer luego repitio Buenos Aires NO_mujeres NO_amigas Juliana Awada Karen Sanchez
+contento recupero trato personal Mauricio
+hablan politica hablan vida
+dijeron
+trato cotidiano mantenian campana Pena NO_Monzo NO_retomaron NO_dialogo NO_sobreactuaciones NO_precisan
+semanas jefe Gabinete adelanto hizo rumor daba cuenta iba impulsar Carmen Polledo segunda lista Ciudad encabeza Elisa Carrio
+jefa bloque partir diciembre reemplazo pupilo Nicolas Massot
+habilito cierre listas jefe Gabinete bonaerense Federico Salvai pagara lugares listas
+Salvai inicios campana Monzo intendente Carlos Tejedor hoy parte Grupo conforman cupula macrista dejo lado dardos suele consultarlo
+hoy escucha politicamente puentes ayudo tender Vidal todavia mira recelo
+[u'Parque Norte', u'Nicolas Massot', u'Nicolas Caputo', u'Mauricio Macri', u'Maria Eugenia', u'Karen Sanchez', u'Juliana Awada', u'Interior Rogelio', u'Horacio Rodriguez', u'Gabinete Marcos', u'Federico Salvai', u'Emilio Monzo', u'Elisa Carrio', u'Duran Barba', u'Casa Rosada', u'Carmen Polledo', u'Carlos Tejedor', u'Buenos Aires']
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Interior Rogelio Frigerio', u'Horacio Rodriguez Larreta', u'Gabinete Marcos Pena']
+[1, 1, 1]

@@ -1,0 +1,28 @@
+Venimos presentacion colectiva decision politica institucional etica fundamental Republica renunciar fueros inmunidades pudieran invocados proceso penal judicial
+manera diputada Margarita Stolbizer anuncio Sergio Massa integrantes renunciaban privilegios NO_usaran NO_ampararse NO_esconderse NO_frente requerimiento judicial
+hicieron semana desato escandalo torno fueros Julio Vido sigue banca pese causas cursa Justicia
+presentacion Stolbizer trato ademas gesto simbolico renunciaron NO_candidatos NO_todavia NO_bancas NO_postulan legislativas octubre
+Despues presentacion candidata massimo Santa Fe Amalia Granata salio cruzar Stolbizer
+Celebro despues desmentirme tema fueros sabado mesa decidido pic
+twitter
+Amalia Granata julio sabado ambas invitadas mesa Mirtha Legrand
+lider NO_GEN NO_dijo cara candidata NO_fueros
+NO_NO_cuando NO_NO_Granata NO_NO_le NO_NO_pregunto NO_NO_por NO_NO_si NO_NO_no NO_NO_habria NO_impulsar ley NO_diputados privilegios
+Lee Renuncian fueros caso Vido
+PRO Randazzo acorralan fueros idea equivocada afirmo Stolbizer
+recordo ley impulsada NO_Elisa NO_Carrio eliminar fueros privilegios
+momento
+sabado Stolbizer Mirtha Legrand respondio Amalia Granata
+fueros idea equivocada pic
+twitter
+TN Noticias julio lider Frente Renovador lidera formula Senado justifico decision renunciar fueros subrayar privilegio aberrante siglos atraso respecto democracia argentina
+sentencio
+eleccion privilegios
+Lee Fueros parlamentarios
+cinco dudas torno privilegio legisladores escandalo fueros eje escena politica nacional semana fiscal pidio desaforar exministro actual diputado Julio Vido detenerlo causa investiga malversacion fondos mina Rio Turbio
+tema colo sesion miercoles camara baja legisladores llevaron tema recinto
+parte Nicolas Massot jefe bancada PRO anuncio haria colegas candidato PJ Florencio Randazzo incluyo plataforma
+[u'De Vido', u'Amalia Granata', u'Mirtha Legrand', u'Julio De', u'Todo Noticias', u'Sergio Massa', u'Santa Fe', u'Rio Turbio', u'Nicolas Massot', u'Margarita Stolbizer', u'Frente Renovador', u'Florencio Randazzo', u'Elisa Carrio']
+[3, 3, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Julio De Vido']
+[2]

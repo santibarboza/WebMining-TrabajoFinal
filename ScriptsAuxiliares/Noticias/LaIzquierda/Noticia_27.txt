@@ -1,0 +1,23 @@
+acto realizo tarde miercoles Hotel Bauen gestionado trabajadores presencia asociaciones abogados organizaciones derechos humanos sindicatos judiciales representantes centrales sindicales
+apertura realizada Matias Cremonte presidente Asociacion Abogados Laboralistas hizo raconto discursos presidente Mauricio Macri ataca derechos laborales
+destacaba reciente trata medidas legales impulsadas trabajadores industria llevada adelante referencia abogados laboralistas
+Gobierno viene impulsando distintas medidas legales generar condiciones favorables avanzar derechos laborales controlar justicia relacionada nombramiento decreto jueces Corte Suprema Justicia Nacion juicios politicos camaristas laborales fallado favor reclamos obreros reforma ley Aseguradoras Riesgos traspaso justicia nacional Ciudad Buenos Aires
+acto hizo hincapie ataques directos organizaciones sindicales sindicato empleados judiciales Mendoza sindicato Ingenio Ledesma Jujuy reciente intervencion Gendarmeria cabeza Sindicato Canillitas detencion Milagro Sala
+ataque cuyo destinatario conjunto propios trabajadores
+AAL realizo homenaje abogados desaparecieron dictadura militar
+defender derechos trabajadores
+Ademas explicaron presentaron denuncias cortes internacionales ataques
+parte Pablo Micheli secretario general CTA Autonoma manifesto llamar paro nacional temprano
+Eugenio Zafaroni vicepresidente Asociacion Internacional Derecho Penal declaro
+enfrentamos totalitarismo corporativo colonial NO_gobierno
+Quieren incluidos excluidos igual Temer Brasil
+pasa represion NO_caer NO_provocaciones NO_muertos NO_pone
+hizo palabra diputado nacional Hector Recalde hizo referencia denuncia Organizacion Internacional impulsando organizaciones llamo unidad
+Daniel Yofra sindicato aceiteros saludo distintos discursos avanzada Gobierno insistio clave parar ataques pasar queja
+sentido ocasiones hizo mencion brutal ataque sufriendo trabajadores PepsiCo lucha llevando adelante
+diversas adhesiones llegaron encuentra Myriam Bregman abogada Centro Profesionales Derechos Humanos candidata diputada Ciudad Buenos PTS Frente Izquierda
+cierre cargo Luis Ramirez ALAL Latinoamericana Abogados planteando unanimidad resolvio realizar nuevas convocatorias medidas continuar organizacion frente ataques
+[u'Abogados Laboralistas', u'Pablo Micheli', u'Organizacion Internacional', u'Myriam Bregman', u'Milagro Sala', u'Mauricio Macri', u'Matias Cremonte', u'Luis Ramirez', u'La Nacion', u'Ingenio Ledesma', u'Hotel Bauen', u'Hector Recalde', u'Eugenio Zafaroni', u'El Gobierno', u'Derechos Humanos', u'Derecho Penal', u'Daniel Yofra', u'Corte Suprema', u'Buenos Aires', u'Asociacion Latinoamericana', u'Asociacion Internacional']
+[2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[]
+[]

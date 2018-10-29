@@ -1,0 +1,21 @@
+Maria Cecilia Velazquez presidente Consejo Provincial Educacion encuentra instalaciones dicho organismo ayer tarde
+NO_primera NO_vez NO_sucede NO_funcionario NO_gestion NO_Alicia NO_Kirchner Frente Victoria permanecio meses gobernacion
+motivos
+Exactamente mimos ahora
+sueldos adeudados paritarias realizar descuentos masivos siderales salarios docentes cosas
+bronca NO_docentes trabajadores estatales provincia cesa luego medio ataques permanentes persistentes repercuten condiciones vida familias
+Comenzado mes julio administracion publica adeuda aguinaldo efectuado importantes masivos descuentos NO_salarios NO_docentes hicieron paro encuentran licencias medicas
+Velazquez dicho lunes julio depositados sueldos completos junio aclarar trabajadores estatales jubilados NO_vienen cobrando cuotas aguinaldo
+embargo sucedio pesar recibido fondos girados gobierno nacional
+razon docentes nucleados gremio ADOSAC ingresaron instalaciones CPE miercoles pasado decidieron asamblea mantener ocupacion gobierno provincial desista actitud
+ataque gobierno conjunto trabajadores provinciales respuesta trabajadores
+Hoy cumplieron dias acampe mantienen trabajadores judiciales Tribunal Superior Justicia manana cumplen dias protesta jubilados mantienen Caja Prevision Social provincial
+Francisco Gomez secretario general gremio judicial explico declaraciones prensa local motivo prolongada defensa sistema salarial aprobado hoy atacado gobierno
+lado jubilados mantienen acciones lucha rechazo constantes atrasos pagos cuotas haberes ademas denuncian vaciamiento Caja Prevision Social encuentra intervenida producto cientos jubilados soportar trabas prestaciones medicas
+pesar feroz ataque gubernamental llego ofrecer miserable
+aumento salarial trabajadores siguen pie lucha
+cinismo discursos kirchneristas incluidos Cristina Kirchner planes ajuste Cambiemos queda descubierto Santa Cruz gobernada kirchnerismo
+[u'Prevision Social', u'Tribunal Superior', u'Santa Cruz', u'Maria Cecilia', u'Francisco Gomez', u'Cristina Kirchner', u'Consejo Provincial', u'Alicia Kirchner']
+[2, 1, 1, 1, 1, 1, 1, 1]
+[u'Maria Cecilia Velazquez']
+[1]

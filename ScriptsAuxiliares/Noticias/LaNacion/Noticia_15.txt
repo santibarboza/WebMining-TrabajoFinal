@@ -1,0 +1,27 @@
+HAMBURGO
+columna densa humo negro divisaba amanecer puerta hotel Meridien aloja presidente Mauricio Macri
+Sobrevolaban helicopteros pares avenida cerrada trafico pasaban velocidad carros hidrantes celulares cargados policias antidisturbios
+madrugada tension marcada infinitas revueltas grupos antiglobalizacion extendia manana Hamburgo empezaban deliberaciones
+enfrentamientos dejaron heridos fuerzas policiales numero NO_cuantificado NO_manifestantes NO_lesiones
+cortes contusiones leves atendian propios companeros calle
+cerrar violencia empezado noche manifestacion Bienvenidos infierno convocada grupos anarquistas barrio Sankt Pauli cerca centro convenciones celebra cumbre presidencial
+buena parte
+policias reunidos blindar Hamburgo desalojaron manifestantes gases agua recibian lado botellazos palazos bombas fabricacion casera
+choques siguieron noche distintos puntos ciudad
+coches incendiados ataque comisaria barrio Altona intentos fallidos acceder zona exclusion establecio alrededor hoteles cinco estrellas albergan presidentes
+Jefatura Policia local denuncio ataque masivo coordinado grupos extremistas violentos conocidos Black Blocks infiltraron marchas protesta aprobadas autoridades
+aparente objetivo complicar llegada presidentes sede NO_cumbre consiguieron
+cerrar mediodia aleman contabilizaban detenidos policia local
+desafio seguridad continua
+quedan marchas convocadas
+mayor prevista manana organizadores esperan aglutinar
+personas
+canciller Angela Merkel campana elecciones resulta vital demostrar garantizar seguridad reunion alto nivel convocada pleno centro ciudad bastion tradicional izquierda alemana
+Pudo elegir celebrar cumbre lugar aislado presion policia quiso enviar mensaje
+democracia incluye tolerante disidencia dijo
+entendio aludia invitados hoy cuyos paises ejercicio oposicion castigado
+Rusia Turquia Arabia Saudita
+[u'Sankt Pauli', u'Mauricio Macri', u'Le Meridien', u'La Jefatura', u'Como Rusia', u'Black Blocks', u'Arabia Saudita', u'Angela Merkel']
+[1, 1, 1, 1, 1, 1, 1, 1]
+[]
+[]

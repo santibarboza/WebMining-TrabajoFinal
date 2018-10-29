@@ -1,0 +1,19 @@
+fiscal federal Carlos Stornelli investigado supuesto delito violacion secreto raiz filtracion prensa dictamen desafuero pedido detencion indagatoria diputado nacional ex ministro Planificacion Julio Vido
+denuncia Stornelli recayo juzgado federal Marcelo Martinez Giorgi
+Fuentes judiciales informaron denuncia penal titular Fiscalia presentada abogado Adrian Daniel Albor defensor imputado ex directivo Yacimiento Carbonifero Rio Turbio Fernando Lisse quiennbsp
+obtuvo eximicion prision
+defensor argumento entero medios comunicacion cliente afrontaba pedido detencion indagatoria hecho Stornelli vez tomado conocimiento sistema habitual acceso expediente leer novedades procesales
+propio juez federal Luis Rodriguez considero ayer asiste razon defensa Lisse dictamen Stornelli llego juzgado martes
+luego salto medios comunicacion partes podido acceder vista fotocopiado
+ende frente postura defensa posible comision delito revelado secretos previsto articulo
+corresponde extraer testimonios correspondientes juez intervenga respecto afirmo magistrado
+juez Rodriguez hizo ayer lugar pedido exencion prision presento defensa Lisse fundamento actividad procesal desplegada NO_vio NO_afectada NO_intervencion NO_personas NO_denunciadas dificilnbsp
+sostener ocurrir partir momento
+criterio aplique resto imputados incluido diputado ex ministro Planificacion
+causa investiga Vido inicio medio supuestas irregularidades obras Rio Turbio relacion desarrollo mina carbon NO_tren NO_usinas
+NO_imputacion NO_apunta NO_coimas NO_sobreprecios NO_convenios NO_firmados NO_universidad evaluar tecnicamente plan estudios suelen hacerse consultoras privadas
+proyecto recursos presupuestarios globales votados Congreso idea carbon extraido reservas utilice usinas instaladas Rio Turbio permitir desarrollo ciudad patagonica aislada
+[u'Rio Turbio', u'De Vido', u'Yacimiento Carbonifero', u'Planificacion Julio', u'Marcelo Martinez', u'Luis Rodriguez', u'Fernando Lisse', u'Carlos Stornelli', u'Adrian Daniel']
+[3, 2, 1, 1, 1, 1, 1, 1, 1]
+[u'Planificacion Julio De', u'Adrian Daniel Albor']
+[1, 1]

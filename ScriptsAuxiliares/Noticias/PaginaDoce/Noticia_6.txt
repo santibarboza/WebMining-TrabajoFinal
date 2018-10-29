@@ -1,0 +1,31 @@
+proximo agosto NO_fieles NO_catolicos NO_iran NO_iglesia NO_San NO_Cayetano NO_pedirle NO_santo
+participaran fiesta religiosa Corriente Federal Trabajadores marco movilizacion denominaron justicia
+espacio aglutina serie sindicatos decidio paso pedidos medida accion directa reclama CGT partir caida fruto politica economica gobierno Mauricio Macri
+Corriente cuya cabeza visible secretario general Bancaria Sergio Palazzo conformada treintena gremios destacan asociaciones trabajadores lecheros television molineros docentes privados pilotos lineas aereas empleados farmacia graficos bonaerenses
+decision tomo sede sindicato titular Hector Amichetti senalo preciso movilizarse forma masiva rechazar politica economica gobierno NO_ricos NO_ingreso NO_cuarto NO_semestre NO_observan NO_brotes NO_oscuros NO_resultados NO_estrategias dejaron millones argentinos sumergio pobreza jubilados pensionados quito remedios condeno ninos indigencia arruino pequenos comerciantes empresarios obligo cerrar
+organizadores confian sumaran sindicatos organizaciones populares
+movilizacion podra considerar preambulo decidir propia CGT
+central obrera reunion mesa directiva proxima semana
+encuentros suelen realizarse martes jueves
+dias surgir convocatoria movilizacion propuso Confederacion Argentina Trabajadores Transporte lidera triunviro cegetista Juan Carlos Schmid
+plenario CFT sostuvo Gobierno continua empecinado eliminar resistencia obrera plan sistematico reduccion salarios despidos masivos suspensiones imponer flexibilizacion laboral borre derechos conquistas historicas trabajadores
+importante grupo sindicatos ofensiva economica acompanada campana mediatica ignominiosa organizaciones sindicales equiparandolas mafias difamando
+parte Amichetti senalo complices justicia federal intervienen sindicatos procesan lideres obreros fallan trabajadores litigios
+Gobierno reprime forma salvaje criminaliza protesta social hizo maestros miles dijo obvia referencia cuatro sindicatos encuentran intervenidos
+Sindicato Obreros Maritimos Unidos azucareros vigiladores privados recientemente Canillitas ademas implico procesamiento desplazamiento titular Omar Plaini
+decision movilizar parte Corriente Federal considerada ejemplos presion ejerciendo CGT sumarse realizando CTA
+caso titular CTA Trabajadores Hugo Yasky considero caminos desembocando convocatoria protesta movilizacion
+dirigente sindical precandidato diputado nacional Unidad Ciudadana afirmo transita cuenta regresiva definicion accion protesta
+Yasky participo reunion Corriente Federal senalo probable fecha aglutinante convocatoria gran protesta nacional
+dilacion encuentra sumergida CGT llevo sindicalista docente cuestionar triunvirato conduce considerar tres secretarios generales cegetistas altura circunstancias responsabilidad
+demostro triste papel hizo acto trabajadores CGT reclamaron convocatoria paro dijo
+parte Yasky acuso dirigentes gremiales perdido rumbo cosa distancia kirchnerismo terminar oficialista triste papel seguidismo politica haciendo dano
+presion CGT crece toma cuenta semana UTA gremio aglutina choferes colectivos anuncio paro afectara servicio larga distancia
+titular gremio Roberto Fernandez quejo traves comunicado informo negociacion paritaria estancada negativa empresarios sentarse negociar
+decision extrema falta acuerdo negociaciones paritarias NO_explico NO_luego NO_pedirle NO_disculpas NO_usuarios NO_intransigencia NO_empresarios queda remedio adoptar medidas fuerza defensa legitimos derechos
+Ahora espera reaccion ministro Jorge Triaca
+nbsp
+[u'Corriente Federal', u'Unidad Ciudadana', u'Sergio Palazzo', u'San Cayetano', u'Roberto Fernandez', u'Omar Plaini', u'Obreros Maritimos', u'Mauricio Macri', u'La Corriente', u'La Bancaria', u'Juan Carlos', u'Jorge Triaca', u'Hugo Yasky', u'Hector Amichetti', u'El Gobierno', u'Confederacion Argentina']
+[3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Obreros Maritimos Unidos', u'Juan Carlos Schmid']
+[1, 1]

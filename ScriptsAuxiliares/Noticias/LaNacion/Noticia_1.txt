@@ -1,0 +1,30 @@
+mayoria acuerdos salariales cerrados Gobierno reconocen abiertamente primera vez paritarias metas inflacionarias trazo Banco Central ley Presupuesto
+promedio muestra descenso expectativas inflacion respecto
+mitad dijo NACION ministro Jorge Triaca rescatar costado positivo
+agrego
+mayoria casos comprension madurez partes discutir marco razonabilidad cuidado desarrollo actividades representan
+intencion oficial trazar pauta referencia variando partir coletazos economicos
+presidente Mauricio Macri reclamado acuerdos finalmente cerraron sucedio similar brecha menor visos inflacion caida
+pauta salarial busco trazar Gobierno caso estatales bonaerenses caso paradigmatico tratos altos
+pico sector publico suba docentes San Luis sector privado Federacion Aceiteros
+aumentos educacion hizo politica
+San Luis ejemplo claro
+Rodriguez Saa desmarcaron Gobierno nacional ofrecieron argumento academico Julio Durand autor informe situacion docente divulgo Universidad Austral
+intencion oficial limitar paritarias comenzo peligrar trato bancarios marzo primer sindicato romper techo salarial instaurar manera obligatoria clausula gatillo caso inflacion anual mayor porcentaje pactado
+clausula inflacion repitio casos diferencias
+ejemplo acuerdo bancario eventual ajuste haria manera automatica acta Comercio suba firmo compromiso volver negociar
+gremio camioneros encabeza Hugo Moyano cerro ayer paritaria suba tres cuotas
+acuerdo contempla plus salarial
+pesos elevaria porcentaje argumentaron moyanismo
+diciendo aumento firmaron empresas presion Gobierno real
+ministerio presionaron tema inflacion dije cara ministro dijo Pablo Moyano numero camioneros declaraciones Perfil
+acuerdos salariales cerraron manera parcial trimestre semestre ahora comenzaran debate tramos restantes
+pica punta gremio mineros AOMA obtuvo alza cerrar adicional empresas sirve testigo
+abierta negociacion gremios transporte Smata Utedyc panaderos
+NO_negociaron destaca frente gremial aeronautico reunifico rechazar desembarco lineas aereas low cost cuestionar politica aerocomercial diseno ministro Transporte Guillermo Dietrich
+sindicatos advirtieron piso salarial demanda
+acuerdo salarial vigente gremio pilotos ejemplo obtuvo pago extra dolares partir trato Isela Costantini Aerolineas Argentinas
+[u'San Luis', u'Universidad Austral', u'Rodriguez Saa', u'Pablo Moyano', u'Mauricio Macri', u'Julio Durand', u'Jorge Triaca', u'Isela Costantini', u'Hugo Moyano', u'Guillermo Dietrich', u'Banco Central', u'Aerolineas Argentinas']
+[2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[]
+[]

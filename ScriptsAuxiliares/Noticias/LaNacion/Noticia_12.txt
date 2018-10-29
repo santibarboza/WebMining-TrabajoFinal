@@ -1,0 +1,13 @@
+ciudad Hamburgo paralizara horas reunion llevaran cabo numerosos mandatarios distintos paises desarrollar cumbre
+presidentes alojan distintos hoteles ciudad coincidieron tres
+Mauricio Macri premier britanica Theresa May mandatario brasilero Michel Temer
+hotel Meridien Hamburg costanera Alster aloja tres mandatarios
+Macri esposa Juliana Awada piso hotel May
+ubica delegacion brasilena piso
+fastuoso hotel cuenta habitaciones suite
+Ademas amenities destacan piscina gimnasio clientes
+joya principal spa catalagoado Emotion Spa metros cuadrados ofrece gran variedad masajes revitalizantes tratamientos belleza clasicos
+[u'Theresa May', u'Michel Temer', u'Mauricio Macri', u'Le Meridien', u'Juliana Awada', u'Emotion Spa']
+[1, 1, 1, 1, 1, 1]
+[u'Le Meridien Hamburg']
+[1]

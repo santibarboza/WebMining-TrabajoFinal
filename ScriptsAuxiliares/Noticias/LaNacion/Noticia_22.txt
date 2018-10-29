@@ -1,0 +1,45 @@
+Pese gobierno Mauricio Macri aseguro PASO NO_busca NO_derogarlas elecciones primarias agosto serviran competencia efectiva candidatos diputados nacionales partidos politicos provincias
+senadores disputa abarcara fuerzas
+total PASO distritos cargos nacionales razon
+elecciones PASO diputados senadores presidente datos Direccion Nacional Electoral Ministerio Interior accedio NACION
+agosto anotaron agrupaciones
+listas candidatos PASO reales
+caso Santa Fe paradigmatico
+PASO listas
+seleccionar candidatos senador PASO
+Santa Cruz San Juan San Luis
+partidos listas
+presidenciales PASO competencia
+Cambiemos Carrio Frente Izquierda Cano Jorge
+padron eligio candidato presidencial traves PASO
+cambio partido presidencial
+Cristina Kirchner gano votos oposicion fragmentada
+diputados PASO senadores
+competencias elegir dedo lider
+NO_informe NO_DINE NO_informa NO_PASO NO_legisladores NO_provinciales NO_provincias NO_concejales municipios pais NO_miles
+NO_Macri principales funcionarios aseguraron dias PASO sirven nadie costosas
+planteo idea derogarlas presidenciales anticipo NACION semana NO_pasada
+NO_frente NO_Cambiemos NO_lidera NO_Macri NO_primarias NO_pais
+rechazado candidatura diputado Jorge Boasso Santa Fe
+Boasso denuncio proscripcion impugnaron avales asegura validos
+Competira oficialismo
+Pro Coalicion Civica permitido competir UCR portena postulaba Martin Lousteau ahora jugara Evolucion Ciudad
+conduccion UCR Jose permitio Pro presionara bajar listas provincias evitar PASO legisladores nacionales provinciales concejales dijo NACION diputado Ricardo Alfonsin
+mayores conflictos generaron Capital Santa Fe San Luis Pampa Mendoza Salta Santa Cruz
+provincia Buenos Aires bloquearon listas concejales Moreno Moron Matanza Lomas Quilmes Ezeiza Azul Bragado
+ex presidenta Cristina Kirchner nego PASO Florencio Randazzo Buenos Aires
+Conclusion
+PASO usaran NO_intentaron aprovechar
+conflicto verdadero consistio conduccion grandes frentes buscaran impedirlas competir
+limito derecho constitucional legal elegido
+Pese exclusion Boasso Santa Fe PASO seleccion efectiva diputados nacionales
+record listas
+Corrientes Pampa Salta San Juan PASO
+Ciudad Buenos Aires Cordoba Chaco Rios Jujuy Neuquen PASO
+Catamarca Chubut Mendoza San Luis Santa Cruz Santiago Estero Tucuman PASO
+Disputas PASO agosto serviran dirimir internas elecciones distritos pais Inscripciones proximas elecciones inscribieron agrupaciones
+listas candidatos diputados nominas postulantes Senado PASO Provincias principales contiendas daran Capital Santa Fe San Luis Pampa Mendoza Salta Santa Cruz
+[u'Santa Fe', u'Santa Cruz', u'San Luis', u'La Pampa', u'Buenos Aires', u'San Juan', u'Cristina Kirchner', u'Ricardo Alfonsin', u'Nicolas Del', u'Mauricio Macri', u'Martin Lousteau', u'La Matanza', u'Jose Corral', u'Jorge Boasso', u'Jorge Altamira', u'Florencio Randazzo', u'Entre Rios', u'Direccion Nacional', u'Coalicion Civica']
+[5, 4, 4, 3, 3, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Nicolas Del Cano', u'Direccion Nacional Electoral']
+[1, 1]

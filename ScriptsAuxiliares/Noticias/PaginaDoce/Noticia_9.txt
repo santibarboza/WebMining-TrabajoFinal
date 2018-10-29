@@ -1,0 +1,15 @@
+cuatro meses negarse discutir recomposicion salarial docentes gobierno Horacio Rodriguez Larreta convoco proximo jueves
+hizo luego maestros anunciaran paro movilizacion martes viene rechazo ciento aumento manera unilateral dispuso administracion portena principios marzo
+pesar convocatoria gremios ratificaron medida fuerza
+paro proximo martes convocado principales gremios docentes Ciudad Buenos Aires
+insostenible aumento remarco titular Eduardo Lopez proposito ofrecimiento Rodriguez Larreta quedo debajo acuerdo ciento aumento llego provincia Buenos Aires
+Ademas parar maestros movilizaran Ministerio Educacion local iran Legislatura
+respuesta convocatoria paro llamado ministra Educacion portena Soledad Acuna nueva reunion mesa negociacion salarial
+antemano podia imaginar docentes ratificarian huelga objetivo jugada instalar idea gestion Rodriguez Larreta abierta dialogo buscan confrontacion maestros
+embargo docentes pedido veces escrito sentarse negociar salarios marzo mayo ayer NO_llamado
+trascendio encuentro proximo jueves autoridades portenos mejorarian oferta inicial llevarian aumento ciento
+gremios docentes consideraron insuficiente porcentual recomposicion salarial adelantaron propuesta rechazaran
+[u'Rodriguez Larreta', u'Buenos Aires', u'Soledad Acuna', u'Horacio Rodriguez', u'Eduardo Lopez']
+[3, 2, 1, 1, 1]
+[u'Horacio Rodriguez Larreta']
+[1]

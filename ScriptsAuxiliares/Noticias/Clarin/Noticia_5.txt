@@ -1,0 +1,19 @@
+interventor Yacimientos Carboniferos Rio Turbio Omar Zeidan denuncio penalmente ultimas horas antecesor actual intendente localidad santacrucena Atanacio Perez Osuna presunto fraude obra vial iniciada
+acusacion fondos nacionales cobrados parcialmente firma vinculada familia Kirchner
+Calificada principio Comodoro Py defraudacion administracion fraudulenta defraudacion administracion publica denuncia quedo radicada sorteo juzgado federal cargo Daniel Rafecas intervencion fiscal Guillermo Marijuan
+interventor Zeidan senalo presentacion judicial ex intendente Rio Turbio actual diputado provincial Matias Mazu igual Perez Osuna Frente Victoria sumariado coordinador general YCRT Miguel Angel Larregina empresa Fainser SA
+firma dedicada mantenimiento calderas usina termoelectrica kirchnerismo invirtio
+millones pesos todavia NO_funciona apoderada Romina Mercado hija gobernadora Alicia Kirchner sobrina politica ex presidenta Cristina Fernandez dijo Zeidan Clarin
+funcionario denuncio Justicia dias recambio Gobierno nacional diciembre Fainser SA recibio millones pesos parte YCRT traves convenio municipio fondos nacionales readecuacion llamada Avenida YCF traza rotonda ingreso pueblo vecina localidad Noviembre
+rotonda encuentra usina fiscal Carlos Stornelli pidio desafuero detencion actual diputado ex ministro Planificacion Julio Vido
+trayecto Noviembre kilometros presupuesto total millones pesos traves licitacion municipal convenio YCRT
+Luego primeros pagos hechos Fainser total millones pesos diciembre penultimo dia gobierno nuevas autoridades YCRT suspendieron desembolsos abrieron sumarios ahora radicaron denuncia penal
+carta documento Fainser municipio afirmando empezar obra necesitaban millones pesos
+acuerdo concejales Rio Turbio opositores kirchnerismo obra comenzo NO_costaba NO_millones NO_pesos
+comparacion fuentes consultadas Clarin senalaron epoca tramo obra kilometros acceso Rio firma Petersen grupo Eskenazi presupuestado millones pesos
+obra inicio pese pagaron anticipos certificados obra dijeron informantes Clarin
+Tres concejales opositores kirchnerismo denunciaron caso semana Oficina Anticorrupcion probablemente organismo presente parte querellante tome impulso causa cargo Rafecas Marijuan
+[u'Rio Turbio', u'Perez Osuna', u'Yacimientos Carboniferos', u'Romina Mercado', u'Planificacion Julio', u'Omar Zeidan', u'Oficina Anticorrupcion', u'Miguel Angel', u'Matias Mazu', u'Guillermo Marijuan', u'De Vido', u'Daniel Rafecas', u'Cristina Fernandez', u'Comodoro Py', u'Carlos Stornelli', u'Atanacio Perez', u'Alicia Kirchner']
+[4, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Yacimientos Carboniferos Rio', u'Planificacion Julio De', u'Miguel Angel Larregina', u'Atanacio Perez Osuna']
+[1, 1, 1, 1]

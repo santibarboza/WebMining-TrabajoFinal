@@ -1,0 +1,19 @@
+ultimas semanas sucedieron represiones fuertes parte nueva Policia Ciudad enorme despliegue fuerzas
+martes reprimio manifestaban libertad Lonko Mapuche Facundo Jones Huala
+Detuvieron siete personas acaban liberadas cierre edicion
+martes enorme dispositivo policial impedir corte trabajadores Pepsico luchan reincorporacion puestos
+pasado miercoles junio desato feroz represion movimientos sociales reclamaban vivienda frente Ministerio Desarrollo Social
+Intervino NO_Policia NO_NO_la NO_NO_Ciudad NO_NO_si NO_NO_no NO_NO_tambien NO_NO_la NO_NO_Division NO_NO_de NO_NO_Amenazas NO_NO_e NO_NO_Intimidaciones NO_NO_Publicas NO_NO_de NO_NO_la NO_NO_policia NO_NO_Federal NO_NO_Argentina depende Direccion General Antiterrorismo fuerza
+grave
+agravar escalada represiva detenidos literalmente cazados personal policial civil identificacion
+viola normativas articulo Ley Seguridad Publica obliga personal policial participe manifestaciones publicas identificado
+casos detenidos aplico nueva figura penal
+acusados denunciado CELS organismos Derechos Humanos herramienta legal nueva pensada autoridades gobierno ciudad incrementar penas detenidos
+amparo figura detuvo agravante permanecieron casos incomunicados
+realmente alarmante tomando cuenta brutalidad realizaron detenciones impidiendo abogados familiares amigos companeros puedan corroborar salud
+titular ciudad Buenos Aires Horacio Rodriguez Larreta judicial quieren avanzar represion mayor criminalizacion protesta incorporando figuras legales
+mensaje campana electoral represion orden principal ciudad pais desarrollan manifestaciones importantes despidos planes ajuste defensa libertades democraticas
+[u'Seguridad Publica', u'Lonko Mapuche', u'Intimidaciones Publicas', u'Horacio Rodriguez', u'Federal Argentina', u'Facundo Jones', u'Direccion General', u'Desarrollo Social', u'Derechos Humanos', u'Buenos Aires']
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Lonko Mapuche Facundo', u'Horacio Rodriguez Larreta']
+[1, 1]

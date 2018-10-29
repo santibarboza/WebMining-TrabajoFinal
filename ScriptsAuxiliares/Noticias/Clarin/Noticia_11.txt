@@ -1,0 +1,24 @@
+Theresa May presidente Mauricio Macri
+reunion bilateral informal Theresa May cancelo definitivamente fuente britanica dijo sabado manana Clarin
+fecha lugar volvera reestablecido ambas cancillerias
+ministro Relaciones Exteriores Jorge Faurie admitio corresponsal May Macri charlando ayer noche comida
+Macron quedaron verse
+primera ministra pidio ayer postergacion comida explico Macri razones
+preparado cuidadosamente informal prefiere definir canciller argentino Jorge Faurie
+dia iba encontrarse Macri reunio presidente Donald Trump garantizo acuerdo libre comercio Unidos grandes angustias premier britanica economia post Brexit
+Ayer noche miembros delegacion argentina funcionarios britanicos reunieron medio caos ciudad ocupada
+Llegaron conclusion podian coincidir agendas debian reagendar funcionario argentino
+NO_establecio
+fecha lugar decidiran ambas aseguro Clarin
+tailleur azul blanco primera ministra partio Hotel Meridien
+manana rumbo bilateral
+nego explicar Clarin pregunto ministra cancelo reunion
+Sonrio siguio rumbo encuentro presidente Donald Trump
+fuente argentina explico presidente Macri ayer Theresa May concierto
+problema atraso reuniones dificultades ayer movilizarse modificar agenda
+Quedaron hablar re agendar NO_reunion NO_precisaron
+Macri May alojan hotel Meridien suites espectaculares vistas lago conversaron animadamente concierto escucho Novena Sinfonia Beethoven
+[u'Theresa May', u'Le Meridien', u'Jorge Faurie', u'Donald Trump', u'Relaciones Exteriores', u'Novena Sinfonia', u'Mauricio Macri', u'Hotel Le', u'Estados Unidos']
+[3, 2, 2, 2, 1, 1, 1, 1, 1]
+[u'Hotel Le Meridien']
+[1]

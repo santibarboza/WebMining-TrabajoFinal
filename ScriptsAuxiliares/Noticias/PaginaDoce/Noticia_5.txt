@@ -1,0 +1,18 @@
+producto denunciador problema Clarin problema hizo Cristina termino funcional gobierno
+Termina dividiendo espaciocreando Unidad Ciudadana
+precandidato senador bonaerense peronismo rompio silencio entrevista Victor Hugo Morales Roberto Navarro Gustavo Sylvestre
+gobierno insensible ricos gobierna ricos gobierno
+vez dificil perdido comerciante miedo bajar persiana industria cae saca medicamentos describio Randazzo definio oposicion
+ex ministro Interior insistio Primarias herramienta necesaria legitimar partidos politicos
+Randazzo reitero convencido ex presidenta NO_presentaria NO_elecciones NO_ocubre
+veintiseis candidata
+Crei iba preparar
+Cuestiono Fernando Espinoza PJ bonaerense presente candidato Unidad
+Randazzo dijo tarifas errores
+nbsp
+nbsp
+nbsp
+[u'Unidad Ciudadana', u'Victor Hugo', u'Roberto Navarro', u'Gustavo Sylvestre', u'Fernando Espinoza']
+[2, 1, 1, 1, 1]
+[u'Victor Hugo Morales']
+[1]

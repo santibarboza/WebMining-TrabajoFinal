@@ -1,0 +1,22 @@
+justicia penal Plata ordeno detener nuevamente Mariano Bruera hermano ex intendente Plata imputado conformar asociacion ilicita pedia dinero habilitar lotes destinados Pro
+Cre
+Ar
+Mariano Bruera detenido enero cinco dias despues liberado luego sala Feria Casacion hizo lugar habeas corpus presentado defensa
+medida dicto juez Garantias Pablo Raele luego Suprema Corte Justicia provincia Buenos Aires revocara fallo Sala feria Tribunal Casacion provincial excarcelado Bruera enero pasado
+Corte hizo lugar recurso presentado fiscal Casacion Carlos Altuve anulo fallo Sala Feria Tribunal Casacion ordenado libertad Bruera
+revocar fallo Corte entendio NO_fundo manera razonable intervencion Sala Feria manera excepcional habeas corpus interpuesto mecanismo impugnacion decisiones previas poseen legalmente conductos propios impugnacion ordeno falle juez Garantias
+resolucion Raele ordeno anoche detencion Bruera
+ex director General Planeamiento Obras Particulares Gustavo Petro
+ex secretario Gestion Publica Enrique Sette Roberto Moreno beneficiados Sala Casacion
+causa Bruera comenzo Guillermo Andreau vecino empresario denuncio funcionarios gobierno municipal pidieron
+dolares rezonificar terreno propiedad luego dividirlo lotes venderlo beneficiarios Pro
+Cre
+Ar
+investigacion fiscal Jorge Paolini terrenos Andreu considerados reserva urbana impedia loteo parcelas pequenas
+embargo Codigo Ordenamiento Urbano redactado gestion Pablo Bruera contemplaba parcelas hectarea dividir decreto pasar Concejo Deliberante marco Andreau recibio propuesta lotear terrenos cambio dolares
+Sette Moreno imputa delitos exacciones ilicitas cohecho pasivo formar parte asociacion ilicita hechos concurso real
+Petro Bruera atribuyen delito asociacion ilicita
+[u'Mariano Bruera', u'La Plata', u'Suprema Corte', u'Roberto Moreno', u'Pablo Bruera', u'Ordenamiento Urbano', u'Obras Particulares', u'La Corte', u'Jorge Paolini', u'Gustavo Petro', u'Guillermo Andreau', u'Gestion Publica', u'Garantias Pablo', u'Enrique Sette', u'Concejo Deliberante', u'Casacion Carlos', u'Buenos Aires']
+[2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Garantias Pablo Raele', u'Casacion Carlos Altuve']
+[1, 1]

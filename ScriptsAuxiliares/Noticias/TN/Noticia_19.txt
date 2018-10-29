@@ -1,0 +1,18 @@
+exministro Planificacion Julio Vido recibio fuerte guino Justicia
+juez Luis Rodriguez pidio profundizar investigacion NO_hizo NO_lugar NO_pedido NO_desafuero NO_detencion NO_solicitado NO_fiscal NO_NO_Carlos NO_NO_Stornelli NO_NO_
+NO_Rodriguez NO_sostuvo riesgo fuga entorpecimiento
+Lee Piden desafuero detencion Julio Vido Stornelli pedido magistrado desafuero detencion exministro actual diputado Frente Victoria mano derecha Roberto Baratta causa malversacion fondos mina Rio Turbio
+vido acusado supuesta defraudacion administracion publica
+millones pesos
+Ayer Rodriguez concedio eximicion prision tres acusados causa acorrala funcionario
+Fernando Lisse gerente Explotacion Inspector Yacimiento
+Miguel Larregina excoordinador general
+esposa Marta Perez trabajaba responsable delegacion Buenos Aires
+resolucion Baratta subsecretario Coordinacion Ministerio Planificacion kirchnerista presento pedido eximicion prision
+dictamen NO_Rodriguez NO_advirtio NO_actividad NO_procesal NO_desplegada vio afectada intervencion personas denunciadas dificil sostener ocurrir partir momento
+parte establecio secreto sumario causa magistrado dispuso abrir causa investigar filtracion prensa dictamen fiscal
+estima hizo ayer Stornelli opondra pedido eximicion sostendra argumentos llevaron martes pasado pedir arresto indagatoria acusados encabezados Vido
+[u'De Vido', u'Julio De', u'Roberto Baratta', u'Rio Turbio', u'Miguel Larregina', u'Marta Perez', u'Luis Rodriguez', u'Fernando Lisse', u'Carlos Stornelli', u'Buenos Aires']
+[3, 2, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Julio De Vido']
+[2]

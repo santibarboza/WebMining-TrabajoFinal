@@ -1,0 +1,30 @@
+Despues juez Luis Rodriguez otorgara eximicion prision imputados causa malversacion fondos
+millones Rio Turbio fiscal Carlos Stornelli pidio detencion ex ministro Julio Vido abrio investigacion determinar violacion secreto raiz difusion dictamen
+pedido hecho abogado Fernando Lisse ex director Yacimientos Carboniferos Rio Turbio responsable investigar juez Marcelo Martinez Giorgi
+Julio Vido ex funcionario investigado
+marco investigacion fondos millonarios extinto Ministerio Planificacion Federal volco Yacimientos Carboniferos Rio Turbio Santa Cruz fiscal Stornelli solicito llame indagatoria Julio Vido pidio desafuero eventual detencion
+requerido involucrados causa ayer otorgaron tres eximiciones
+NO_define NO_situacion NO_ex NO_ministro
+Ayer conocio juez Rodriguez rechazo prision tres ex directivos YCRT trata Fernando Lisse Miguel Larregina Marta Perez
+NO_magistrado NO_considero NO_vio NO_afectada NO_intervencion personas denunciadas dificil sostener ocurrir partir existe riesgo fuga entorpecimiento causa decidio conceder eximicion
+Usina Rio Turbio
+Foto Maxi Failla
+marco abogado Lisse denuncio delito revelado secretos senalar dictamen fiscal Stornelli recibido judicatura dia julio corriente
+horas momento encuentra estudio Tribunal partes podido acceder vista fotocopiado difundio medios
+Sostiene filtracion informacion llegue manos defensa imputados
+Rodriguez dio lugar pedido hoy conocio correspondiente juez Marcelo Martinez Giorgi responsable investigar dicha parte denuncia realizada defensa ex director YCRT menciono necesidad NO_extraer testimonios correspondientes determinar filtracion informacion causa
+causa Rio Turbio principal acusacion Vido imputados Roberto Baratta malversacion fondos
+millones
+trata partida presupuestaria Planificacion Federal destino dese YCRT mina Rio Turbio
+perjuicio rondaria millones
+marco investigacion denuncio triangulacion fondos traves YCRT Universidad Tecnologica Nacional Fundacion Regional Santa Cruz
+firmaron convenios adendas violando normativas debian aplicarse senala dictamen fiscal
+Ademas consigno destinaron millones puesta tren turistico Eva Peron funciono
+fondos sospechados diversas irregularidades encuentra Usina Termica Rio Turbio once modificaciones costo incrementando
+cuesta
+millones dolares
+ejemplos citados acusacion ex ministro Stornelli dependia distribucion fondos investigan
+[u'Rio Turbio', u'De Vido', u'Julio De', u'Yacimientos Carboniferos', u'Santa Cruz', u'Planificacion Federal', u'Marcelo Martinez', u'Fernando Lisse', u'De Giorgi', u'Usina Termica', u'Universidad Tecnologica', u'Roberto Baratta', u'Miguel Larregina', u'Marta Perez', u'Luis Rodriguez', u'Fundacion Regional', u'Foto Maxi', u'Eva Peron', u'Carlos Stornelli']
+[7, 4, 3, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Julio De Vido', u'Yacimientos Carboniferos Rio', u'Marcelo Martinez De', u'Universidad Tecnologica Nacional', u'Fundacion Regional Santa', u'Foto Maxi Failla']
+[3, 2, 2, 1, 1, 1]

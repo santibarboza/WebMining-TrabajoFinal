@@ -1,0 +1,19 @@
+cerrar situacion judicial ex ministro Planificacion Julio Vido agrava paso dias
+Luego pedido detencion juez federal Claudio Bonadio ordeno ayer indagatoria empresarios transporte automotor acusados formar parte maniobra dirigida diputado desviar subsidios transporte
+mayoria empresarios llamados indagatoria duenos empresas colectivos
+juez Bonadio investiga subsidios transporte urbano repartio Secretaria Transporte gobiernos kirchneristas
+objetivo subsidio colaborar costos combustible cambio NO_subieran NO_precio NO_tarifas
+familia procesado Claudio Cirigliano
+ex duenos TBA dar explicaciones juez
+Seis integrantes duenos Ecotrans opero kirchenrismo lineas
+firma Empresa Transportes Pedro Mendoza SA encuentra lupa
+cargo linea directivos acusados participar maniobra desvio fondos
+Bonadio indagara titulares Transportes Automotores Riachuelos SA administra lineas recibido subsidios
+Microomnibus Barracas Belgrano cargo linea empresas citadas magistrado irregularidades kilometros declarados recorridos linea mira
+Bonadio cito directivos General Pueyrredon Satci utilizadas portenos
+linea observadas
+recorrido incluye barrios concurridos centro norte ciudad involucrada empresa Antartida Argentina
+[u'Transportes Pedro', u'Transportes Automotores', u'Microomnibus Barracas', u'Julio De', u'General Pueyrredon', u'Claudio Cirigliano', u'Claudio Bonadio', u'Antartida Argentina']
+[1, 1, 1, 1, 1, 1, 1, 1]
+[u'Transportes Automotores Riachuelos', u'Julio De Vido', u'General Pueyrredon Satci']
+[1, 1, 1]

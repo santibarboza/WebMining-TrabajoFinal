@@ -1,0 +1,17 @@
+Fracasaron negociaciones sectores cercanos PJ responden directamente Cristina Fernandez
+pesar conformado lista comun distrito tercera seccion electoral division produjo Concejo Deliberante
+lado sector responde exintendente actual senador provincial Dario Diaz Perez paso conformar bloque denominado Unidad Ciudadana PJ
+siguen exministro Julian Alvarez armaron bloque llamado Unidad Ciudadana
+ruptura produjo luego entrevista Julian Alvarez criticara exintendente
+aseguro hizo mala gestion dirigente cumplio
+contraofensiva sector Diaz Perez incluyo comunicado difundido redes sociales aseguraban declaraciones ex senador dias cierre listas expresaban desidia NO_gestion NO_intendente NO_anterior
+culebron completo inscripcion bloques diferenciados Concejo Deliberante pesar PJ Lanus siga manos Edgardo Depetri hombre CFK
+actitud bloque kirchnerista municipio controlado PRO llamativa
+Nestor Grindetti encuentra cabeza municipio Lanus ve recrudecimiento tendencias presentes mandato intendente anterior PRO llegando paroxismo
+ejemplos significativos represion comedor Cartoneritos efectivos policiales llegaron tirar gas pimienta ollas reciente incendio Villa Diamante murieron cuatro ninas producto caida vela material inflamable precaria vivienda apagon
+Contrastando unidad division abajo partidos conforman Frente Izquierda presentan elecciones lista unica
+pelea llevar oposicion ejecutores garantes ajuste Concejo Deliberante encabezada Magdalena Vogt Belen Soria ambas militantes PTS
+[u'Diaz Perez', u'Concejo Deliberante', u'Unidad Ciudadana', u'Julian Alvarez', u'Villa Diamante', u'Nestor Grindetti', u'Magdalena Vogt', u'Edgardo Depetri', u'Dario Diaz', u'Cristina Fernandez', u'Belen Soria']
+[3, 3, 2, 2, 1, 1, 1, 1, 1, 1, 1]
+[u'Dario Diaz Perez']
+[1]

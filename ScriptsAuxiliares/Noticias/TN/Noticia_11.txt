@@ -1,0 +1,18 @@
+plena cumbre Hamburgo Mauricio Macri tomo minutos expresarse inesperada liberacion dirigente opositor venezolano Leopoldo Lopez
+hizo traves cuenta Twitter
+alegra Leopoldo Lopez familia
+Esperamos pronto presos politicos puedan escribio mandatario declaraciones seguramente traeran repercusion
+alegra familia
+Esperamos pronto presos politicos puedan
+Mauricio Macri julio justicia venezolana habilito ultimas horas arresto domiciliario Lopez paso tres preso carcel militar Ramo Verde alentar protestas gobierno Nicolas Maduro
+noticia confirmada Tribunal Supremo venezolano dijo otrogaron beneficio casa carcel debido problemas salud
+fines junio Lopez denuncio torturando
+frase Macri traer polemica gobierno reclama liberacion dirigente Milagro Sala presa enero
+Macri apoyo causa Lopez oportunidades ultima marzo recibio Lilian Tintori esposa dirigente opositor venezolano
+afirmo respecto gobierno Nicolas Maduro
+salir dictadura
+relacion Macri esposa Lopez encuentros antecedentes Tintori llego presente celebracion victoria electoral presidente
+[u'Nicolas Maduro', u'Mauricio Macri', u'Leopoldo Lopez', u'Tribunal Supremo', u'Ramo Verde', u'Milagro Sala', u'Lilian Tintori']
+[2, 2, 2, 1, 1, 1, 1]
+[]
+[]

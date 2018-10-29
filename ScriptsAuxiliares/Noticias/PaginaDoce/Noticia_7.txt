@@ -1,0 +1,18 @@
+gremio camioneros acordo empresarios autotransporte cargas suba salarial ciento abonara tres tramos
+acuerdo importante camioneros rompimos vez barrera fijado remarco secretario adjunto sindicato Pablo Moyano referencia techo ciento quiso imponer oficialismo paritarias
+Federacion Argentina Entidades Empresarias Autotransporte Cargas detallo ajuste tres cuotas
+camioneros recibiran aumento ciento julio ciento noviembre ciento marzo
+acuerdo alcanzo luego camioneros anunciaran implementacion plan lucha partir proximo lunes fracaso cuatro reuniones paritarias
+arreglo sindicato decidio levantar medida fuerza
+diciendo ciento firmaron empresas presion Gobierno real
+presionaron tema inflacion dije cara dijo Moyano referencia titular cartera Jorge Triaca
+adjunto Camioneros destaco porcentajes ajuste mejora salarial trabajadores sector alcanzara ciento
+Preciso acuerdo contempla ademas bono cobra febrero marzo abril inicio clases arranca pesos actividades llega
+derecho adquirido paga ocho enfatizo
+acuerdo importante camioneros rompimos vez barrera fijado remarco gremialista CGT plantea necesidad movilizar administracion Mauricio Macri
+Ayer hecho Moyano insistio postura advirtio oficialismo gana elecciones Presidente aplicara ajuste segundo tramo mandato
+empresarios celebraron acuerdo alcanzado contexto alza costos
+[u'Pablo Moyano', u'Mauricio Macri', u'La Federacion', u'Jorge Triaca', u'Entidades Empresarias']
+[1, 1, 1, 1, 1]
+[u'La Federacion Argentina']
+[1]

@@ -1,0 +1,15 @@
+HAMBURGO
+Jefes Gobierno titulares instituciones europeas lideres organismos internacionales
+foto familia Cumbre tomada manana ciudad norte Alemania desarrolla encuentro dado pais detenta presidencia grupo
+centro anfitriona canciller Angela Merkel
+derecha Mauricio Macri presidente Argentina pais asumira presidencia
+cerrar Acompanan Merkel Macri mandatarios Arabia Saudita Australia Brasil Canada China Corea Sur Espana Unidos Francia India Indonesia Italia Japon Mexico Paises Bajos Reino Unido Rusia Singapur Sudafrica Turquia
+representantes Union Europea Organizacion Naciones Unidas Organizacion Cooperacion Desarrollo Economicos Organizacion Mundial Salud Organizacion Mundial Comercio Fondo Monetario Internacional Organizacion Internacional Banco Mundial Consejo Estabilidad Financiera
+Union Africana representada Guinea Foro Cooperacion Economica representado Vietnam Nueva Asociacion Desarrollo Economico Africa representada Senegal foto
+Genero
+personas posaron foto cuatro mujeres
+canciller alemana primera ministra Reino Unido Theresa May primera ministra Noruega Erna Solberg titular FMI Christine Lagarde
+[u'Reino Unido', u'Organizacion Mundial', u'Desarrollo Economico', u'Union Europea', u'Theresa May', u'Paises Bajos', u'Organizacion Internacional', u'Nueva Asociacion', u'Naciones Unidas', u'Mauricio Macri', u'La Union', u'Fondo Monetario', u'Estados Unidos', u'Estabilidad Financiera', u'Erna Solberg', u'Desarrollo Economicos', u'Cooperacion Economica', u'Christine Lagarde', u'Banco Mundial', u'Arabia Saudita', u'Angela Merkel']
+[2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'La Union Africana', u'Fondo Monetario Internacional', u'Cooperacion Economica Asia']
+[1, 1, 1]

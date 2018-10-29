@@ -1,0 +1,12 @@
+presidente Mauricio Macri pidio hoy jefes Gobierno presten atencion violacion derechos humanos sucede Venezuela exponer plenario mandatarios realiza Hamburgo
+Macri hizo fuerte llamado mundo tome nota situacion Venezuela
+Concretamente pidio lideres mundo presten atencion violacion derechos humanos viene sucediendo pais
+Ademas mandatario hizo referencia situacion financiera economica Argentina conto haciendo impulsar crecimiento sostenido reformas dijeron comitiva
+exposicion mandatarios plenario NO_exceder NO_tres NO_minutos excepto presidente grupo jefa gobierno aleman Angela hablar cinco minutos
+sesion plenaria jornada hoy encontraba proxima concluir minutos lideres paises trasladarian luego Elbphilharmonie teatro ver concierto especial parte cena gala ofrecida gobierno anfitrion
+Terminada cena Macri mantendra reunion bilateral presidente Francia Emmanuel Macron
+hora local actividad concluira jornada
+[u'Mauricio Macri', u'Emmanuel Macron', u'Angela Merkel']
+[1, 1, 1]
+[]
+[]

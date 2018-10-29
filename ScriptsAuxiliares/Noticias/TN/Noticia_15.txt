@@ -1,0 +1,13 @@
+Luis Coco Bergallo precandidato concejal lista Compromiso Ciudadano personas policias provinciales detenidos hoy acusados liderar banda dedicada narcotrafico informo Ministerio Seguridad
+detenciones produjeron megaoperativo zona norte capital intervinieron efectivos Inteligencia Criminal Prefectura indico organismo nacional
+procedimientos llevaron cabo barrios Yapeyu San Agustin Cabana Leiva carcel Flores pueblo Canada Rosquin domiciliaria ex esposa Bergallo sindicado presunto lider banda
+fuentes senalaron investigacion llevaba escuchas telefonicas pesquisas
+involucrados hermanos Bergallo Fabian David Dario Miguel detenido Flores acusado crimen Carlos Alberto Farias tentativa homicidio hermano victima Gerardo David Farias
+banda sospechada manejar abastecimiento comercializacion droga norte noroeste capital complicidad mujeres
+allanamientos ordenados juez federal Santa Fe Francisco Mino fiscal Walter Alberto Rodriguez secuestraron gramos cocaina marihuana seis plantines droga
+pesos efectivo armas fuego balanzas precision equipos informaticos
+policia incauto chip celular carcel Flores propiedad hermanos Bergallo
+[u'Las Flores', u'Walter Alberto', u'Santa Fe', u'San Agustin', u'Inteligencia Criminal', u'Gerardo David', u'Francisco Mino', u'Fabian David', u'Dario Miguel', u'Compromiso Ciudadano', u'Carlos Alberto', u'Canada Rosquin', u'Cabana Leiva']
+[3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Walter Alberto Rodriguez', u'Gerardo David Farias', u'Carlos Alberto Farias']
+[1, 1, 1]

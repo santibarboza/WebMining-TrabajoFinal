@@ -1,0 +1,26 @@
+reunion Mauricio Macri Theresa May principal bilateral Presidente agendada cumbre Hamburgo finalmente canceladanbsp
+motivo concreto
+pedido primera ministra britanica suspender encuentro ayer previsto principio comitiva argentina busco posibilidad concertar cita NO_fuesenbsp
+foto Foreign Office comunicaron hoy NO_May NO_veria NO_par NO_argentino
+Macri espera reunirse presidente Francia Emmanuel Macron encuentro pautado anoche despues cena oficial levantado
+delegacion argentina buscaron echarle culpa fracaso reunion May graves incidentes ocurridos alrededores Hamburg Messe predio desarrolla cumbre choques activistas antisistema policia alemana
+Explicaban situacion provocado retrasos agendas presidentes hecho cumbre inicio hora bilaterales debieran suspenderse
+extrano supuestamente gobierno britanico quiennbsp
+pidio reunion
+cumbre Hamburgo escenario reencuentro May Macri luego accidentado primer dialogo mantuvieron Asamblea General ONU septiembre pasado presidente argentino aseguro premier britanica dicho dispuesta hablar soberania Malvinas
+Macri desmintieron publicamente papelon internacional
+contraste delegacion argentina buscaba presentar encuentro Macri May arranque cumbre Hamburgo Foreign Office aclararon bilateral hecha derecha trataria
+decir contacto paso breve conversacion aparte caracteristico cumbres presidenciales
+ilusion Macri volver Alemania foto May empezo desvanecerse ayer comitiva britanica solicito suspension reunion
+diplomacia argentina busco reprogramar cita hoy salvar ropa
+posibilidad conseguirlo minima argentinos alentaba hecho NO_jefes NO_debian NO_trasladarse NO_sitio NO_elegido NO_alojarse hotel NO_alojarse
+comunicacion cancelacion encuentro llego hoy
+May reunio Macri presidente Unidos Donald Trump
+Presidente bilaterales presidentes Singapur Lee Hsien Loong
+India Narendra Mody Turquia Recep Erdogan
+espera verse Macron
+falta foto May Macri queda consuelo breve saludo dieron luego foto familia sacaron ayer mandatarios acompanantes explanada Elbphilharmonie
+[u'Foreign Office', u'Theresa May', u'Recep Erdogan', u'Narendra Mody', u'Mauricio Macri', u'Lee Hsien', u'Hamburg Messe', u'Estados Unidos', u'Emmanuel Macron', u'El Presidente', u'Donald Trump', u'Asamblea General']
+[2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Lee Hsien Loong']
+[1]

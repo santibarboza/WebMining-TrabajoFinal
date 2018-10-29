@@ -1,0 +1,24 @@
+semana romper silencio conferencia prensa dar notas radio Florencio Randazzo expuso anoche primera vez candidato television entrevista tensa
+canal meses Cristina Kirchner brindo entrevista exclusiva formato periodistas
+Randazzo sometio preguntas periodistas Victor Hugo Morales Gustavo Sylvestre Roberto Navarro incisivos ex presidenta
+Marco diferencias Cristina critico planes Gobierno
+consulta silencio ex ministro dijo
+prudente llamarme silencio
+NO_denunciador NO_NO_serial NO_NO_cargo NO_NO_publico NO_NO_y NO_NO_no NO_NO_soy NO_NO_un NO_NO_opinador NO_profesional
+NO_parecio NO_prudente NO_respetar gobierno elegido constitucionalmente
+acusaciones silencio interpretarse guino politicas gobierno contundente
+NO_Macri NO_fruto NO_errores explicar decision acompanar nuevo frente politico NO_Cristina NO_Kirchner NO_definio NO_espacio peronismo hizo defensa NO_funcion PASO
+acompano Cristina NO_diferencias
+NO_parece NO_seleccion NO_NO_tiene NO_NO_que NO_gente NO_dirigentes dijo
+Asimismo recordo experiencia precandidato Presidente ultimas elecciones
+error NO_permitirme NO_participar NO_NO_PASO NO_NO_con NO_NO_Scioli
+NO_reitere oportunidades
+Queria participar PASO fortalecer espacio NO_politico
+NO_seguramente NO_mayores
+acuerdo gestion Scioli participo NO_filosofia NO_Scioli agrego
+respecta gestion gobierno kirchnerista dijo ex presidenta mala intencion termino funcional Gobierno remarco falta autocritica reconocimiento errores
+acuerdo fueros concluyo
+[u'Cristina Kirchner', u'Victor Hugo', u'Roberto Navarro', u'Gustavo Sylvestre', u'Florencio Randazzo']
+[2, 1, 1, 1, 1]
+[u'Victor Hugo Morales']
+[1]

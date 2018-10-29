@@ -1,0 +1,7 @@
+Centro Estudios Legales Sociales presento Corte Suprema amicus curiae causa investiguen responsabilidades politicas crimen maestro Carlos Fuentealba ocurrido Neuquen abril protesta gremial
+presentacion CELS realizo marco recurso queja elevado Corte querella representa Sandra Rodriguez Fuentealba debido sobreseimiento dictado imputados
+nbsp
+[u'Sandra Rodriguez', u'Estudios Legales', u'El Centro', u'Corte Suprema', u'Carlos Fuentealba']
+[1, 1, 1, 1, 1]
+[]
+[]

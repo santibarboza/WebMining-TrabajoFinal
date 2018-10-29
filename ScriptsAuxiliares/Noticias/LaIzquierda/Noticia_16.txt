@@ -1,0 +1,34 @@
+semana pasada presentaron listas PASO nivel municipal
+caso Cambiemos ocurriendo distritos nivel provincial busco privilegiar perfil gestion candidatos supuestamente mundo politica
+encabeza lista Secretario Gobierno Guillermo Galetto seguido Maria Angel Sotolano Secretaria Desarrollo Social conocida drasticas medidas ajuste despidos aplico area
+interesar
+Trabajadores Ninez Quilmes alerta posibles despidos decir lista Martiniano Molina presenta oficiosamente nueva evito forma punteril posible PASO desplazando sectores peronista Eduardo Schiavo radicalismo vienen acompanando asumio
+situacion presentara lista aparte sector interno permanecera nomina Cambiemos caso Daniela Conversano esposa actual secretario Cultura Educacion Quilmes Ariel Domene precandidata concejal cuarto lugar
+NO_diferente NO_situacion NO_Unidad NO_Ciudadana cara FPV Quilmes apadrinada Anibal Fernandez aliado Campora Quilmes
+viejo dirigente mantuvo pie lista encabezada Matias Festucca proscribio tres restantes cuyas cabezas ex rector UNQ Mario Lozano camanista Fazio ex funcionario ANSES Julio Nieto
+lado randazzismo renovacion politica quilmena principales candidatos ligados ex intendente Barba Gutierrez acompanado Movimiento Evita
+embargo caso interna dirigente Yiyo Fiezzi celebre haberle alquilado carpas instalaron Congreso conflicto gobierno patronales agrarias sojeros kirchnerismo
+Culmina cuadro Pais cuyos candidatos massistas conocidos miembros GEN principales figuras distrito ligadas hombre fuerte Tigre comentarista deportivo Walter Queijeiro abogada Patricia Caparelli macrismo
+politico defensor intereses patronales peores practicas politica Frente Izquierda Trabajadores unica alternativa enfrenta medidas ajuste represion entrega Gobierno complices
+listas nivel municipal integradas trabajadores trabajadoras docentes estatales servicios industria protagonistas luchas ajuste Macri previamente enfrentaron medidas antiobreras antipopulares kirchnerismo Palos cemento campana Cambiemos Quilmes concentra principalmente ejes
+lado razzias saturacion gendarmes policias distrito respuesta temor miseria provocan politicas proposito estrategico avanzar control social criminalizacion juventud preparando clima posterior octubre
+interesar
+nbsp
+Indagatoria mujer policia imputada omision evitar torturas nbsp
+Policia impedir ronda Comision Homenaje Madres lado publicitado plan obras publicas principalmente bacheo generalizado contrarrestar principales puntos debiles gestion Gutierrez reinicio construcciones largamente postergadas
+celebrado plan NO_obras NO_publicas NO_embargo NO_toma NO_cuenta NO_principales necesidades distrito
+Vayan casos ejemplos
+escuelas arreglando principalmente escuelas centricas dan prensa caso Normal escuela excepcional caso primaria Solano
+realidad general escuelas distrito caen literalmente pedazos expresa dramaticamente caida techo Instituto Solano
+nota NO_caracter NO_marketinero NO_plan NO_obras NO_publicas NO_toma NO_cuenta principal problema infraestructura padece Quilmes
+cuarto poblacion total vive villas asentamientos
+Censo Social Quilmes
+personas acceso servicios basicos viven
+casillas ranchos NO_municipio
+situacion gobierno Molina sucede provincia iniciativa siquiera medidas vistas insuficientes Barba Gutierrez
+Frente Izquierda sostenemos necesario urgente verdadero plan viviendas populares obras publicas discutido votado controlado organizaciones obreras vecinales unica forma satisfacer verdaderas necesidades pueblo trabajador
+pelea lucha ajuste despidos defensa educacion salud publica represion impunidad derechos mujeres ademas reduccion jornada laboral venimos levantando Nicolas Cano empenaremos esfuerzos
+[u'Barba Gutierrez', u'Yiyo Fiezzi', u'Walter Queijeiro', u'Unidad Ciudadana', u'Patricia Caparelli', u'Movimiento Evita', u'Matias Festucca', u'Martiniano Molina', u'Mario Lozano', u'Maria Angel', u'La Campora', u'Julio Nieto', u'Gobierno Guillermo', u'Eduardo Schiavo', u'Desarrollo Social', u'De Fazio', u'Daniela Conversano', u'Comision Homenaje', u'Censo Social', u'Ariel Domene', u'Anibal Fernandez']
+[2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Maria Angel Sotolano', u'Gobierno Guillermo Galetto']
+[1, 1]

@@ -1,0 +1,33 @@
+pronostico judicial Julio Vido comienza nublarse
+pedido desafuero posterior detencion requerida fiscal Carlos Stornelli agregan nuevos obstaculos ex ministro kirchnerista debera enfrentar proximas semanas causas desenlaces ocurrir medio campana electoral
+Horas despues pedido detencion juez federal Claudio Bonadio ordeno ayer indagatoria empresarios transporte automotor mayoria duenos empresas acusados formar parte maniobra dirigida diputado desviar subsidios transporte
+cerrar indagatoria empresarios beneficiados millonarios subsidios gestion frente Ministerio Planificacion interpretada investigadores paso frente
+Vido indagado semanas Bonadio causa acusado incurrido irregularidades pago subsidios gasoil colectivos urbanos falta control dichos fondos
+acelerar tiempos juez decidio ayer apertura nueva causa continuar investigacion empresarios transporte NO_entorpecer NO_avance NO_imputacion NO_efectuada NO_funcionarios escribio magistrado
+indagatorias empresarios culminaran fines septiembre funcionarios kirchneristas esperan NO_resolucion NO_procesal
+NO_unica NO_decision comprometer Vido
+procesado cuatro causas sumar tres procesamientos proximos meses
+espera resolucion juez Luis Rodriguez pedido desafuero posterior detencion Vido espera calendario judicial cargado
+Tribunal Oral Federal Capital resolvio semana pasada conceder ultima prorroga partes vence ofrecer pruebas fijar fecha juicio oral ex funcionario caso investiga responsabilidad tragedia Once caso preocupa defensa ex ministro
+temor abogados TOF elija juicio Once concrete septiembre octubre plena campana electoral
+duro Gobierno puso corrupcion agenda campana
+claro eligieron chivo expiatorio defendieron
+Vido opto NO_semana NO_perfil
+NO_Anteayer ejemplo asistio sesion Diputados
+entorno confiaron temian nueva ofensiva Elisa Carrio medio recinto podian incluir pedido desafuero tablas ocurrio pasado
+ex ministro atento desenlace causa Skanska primer gran caso corrupcion kirchnerismo
+Despues largas idas venidas ex ministro indagado juez federal Sebastian Casanello espera resolucion Camara Federal resolver procesa
+juez Bonadio investiga subsidios colectivos repartio Secretaria Transporte gobiernos kirchneristas
+objetivo subsidio NO_colaborar NO_costos NO_combustible cambio subieran precio tarifas
+Bonadio Vido antecedentes
+ex ministro beneficiado sobreseimientos causa sobreprecios NO_obras NO_mina NO_Rio NO_Turbio
+cargo caso Once incluyo investigacion despues pedido Camara Federal investigo proceso dicto inhibicion bienes
+nueva causa subsidios transporte ponian marcha mera declaracion jurada completada empresas contaban kilometros recorria colectivo numero pasajeros
+Transporte controlar veracidad datos
+investigadores detectaron supuestos fraudes declaraciones juradas millones
+informe Auditoria General Nacion determino subsidios colectivos ascendieron kirchnerismo
+casos recorrian kilometros declarado recibian combustible subsidiado total
+[u'De Vido', u'Camara Federal', u'Sebastian Casanello', u'Rio Turbio', u'Oral Federal', u'Luis Rodriguez', u'Julio De', u'Elisa Carrio', u'El Tribunal', u'Claudio Bonadio', u'Carlos Stornelli', u'Auditoria General']
+[6, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Julio De Vido', u'El Tribunal Oral']
+[1, 1]

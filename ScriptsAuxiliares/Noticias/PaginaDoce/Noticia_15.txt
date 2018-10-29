@@ -1,0 +1,15 @@
+Tribunal Superior Justicia porteno listo resolver denuncia realizada Martin Lousteau jefe Gobierno porteno Horacio Rodriguez Larreta acuso utilizar beneficio propio campana recursos publicos Ciudad Buenos Aires
+Luego presentaciones realizadas miercoles apoderado UCR Mariano Genovesi Justicia portena dio traslado fiscal general Gobierno expresen argumentos
+pudo respondieron ahora jueces deberan resolver lugar reclamo
+primer amparo candidato Evolucion objeto ordene jefe Gobierno adherir regimen nacional propaganda electoral radio television garantizar reparto equitativo publicidad espacios politicos
+segundo solicito ordene Gobierno Ciudad Buenos Aires retirar propaganda comunicacion institucional contenga expresiones Buenos Avanzando dado lista conformada PRO CC denomina considerarse induce voto
+campana electoral marcha ayer Lousteau volvio criticar macrismo Elisa Carrio acuso ciudad NO_permitieron NO_realizar NO_competencia NO_PASO
+contexto ex embajador Unidos considero legados importantes presidente NO_Cambiemos NO_constituido NO_PRO coalicion paises manera definitiva
+presentaciones judiciales radicales NO_advirtieron NO_decision NO_PRO NO_adherir NO_ley NO_nacional NO_establece NO_publicidad NO_electoral NO_gratuita NO_hizo NO_gobernadora NO_Maria NO_Eugenia NO_implica NO_fuerza NO_debera contratar espacios manera privada agrupaciones politicas oposicion partido gobierno propaganda institucional contrario NO_Constitucion Ciudad Autonoma Buenos Aires sumas
+demostracion detallaron pasado electoral NO_gobierno NO_porteno NO_gasto NO_publicidad NO_millones NO_pesos NO_nbsp
+NO_millones dia
+agrupaciones politicas acceso posibilidad legal gastar semejante suma promocionar remarcaron
+[u'Buenos Aires', u'Vamos Juntos', u'Vamos Buenos', u'Sigamos Avanzando', u'Martin Lousteau', u'Mariano Genovesi', u'Maria Eugenia', u'Horacio Rodriguez', u'Estados Unidos', u'Elisa Carrio', u'El Tribunal', u'Ciudad Autonoma']
+[4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Vamos Buenos Aires', u'Sigamos Avanzando Juntos', u'Maria Eugenia Vidal', u'Horacio Rodriguez Larreta', u'El Tribunal Superior']
+[1, 1, 1, 1, 1]

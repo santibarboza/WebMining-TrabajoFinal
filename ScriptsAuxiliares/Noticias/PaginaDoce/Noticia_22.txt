@@ -1,0 +1,69 @@
+sorprendio pedido fiscal Carlos Stornelli Julio Vido
+Respuesta
+nadie
+NO_pensara NO_Vido NO_robado NO_agua NO_macetas pesar persistencia mediatica logro crean
+NO_dan NO_cuenta pedido fiscal viene lado campana electoral
+mundo sabia apenas Cristina Kirchner confirmara participacion elecciones partido judicial empezaria campana
+sorprendio desparpajo fiscal forzar coincidencia obvia judicial revela subordinado politica tapujos
+Sorprendio pobreza acusacion
+doce gobierno kirchnerismo obra publica ascendio millones dolares grande extendida diversa lejos realizado gobierno
+mayor parte circulo NO_ministerio encabezaba Vido
+embargo causa acusa sobornos sobreprecios cuestiona estudios viabilidad puesta marcha Yacimientos Carboniferos Fiscales NO_provincia NO_Santa NO_Cruz otorgaran universidad nacional NO_consultora NO_privada
+NO_dice NO_forma NO_ocultar NO_irregularidades implico evadir controles establecidos ley
+obra gigantesca total millones pesos estudios viabilidad alcanzan millones
+obras reclamadas obreros mineros pobladores zona paralizadas macrismo asumio gobierno nacional
+Santa Cruz Mauricio Macri decidio ahogar provincia freno tres obras monumentales incluyen grandes represas ademas usinas YCF Rio Turbio
+estrategia decidida hundir provincia crisis seguramente redituara proximas elecciones
+debate legitimo polucion usinas termicas carbon cuestion encuentran NO_zona NO_desolada NO_atravesada NO_fuertes NO_vientos NO_sumado NO_avances NO_seguridad NO_salubridad nuevas centrales
+parece causa judicial indicada exponer corrupcion desenfrenada denuncia
+contrario reemplazar consultoras privadas general implicar coimas corruptelas universidad nacional gestion democratica propios controles internos presenta medida transparencia
+argumento ecologico esgrimido macrismo paralizar represas Nestor Kirchner Jorge Cepernic cargo centralmente empresas chinas
+gobierno Santa Cruz unica provincia obras atentan nbsp
+medio ambiente
+realidad ecologia argumento desequilibrar economia Santa Cruz sacarle negocio chinos paralizar Rio Turbio
+gobierno derecha provincia tres grandes obras marcha
+Donald Trump bloqueo negociacion lado norteamericano Macri vio obligado pedir perdon chinos aceptar condiciones despues meses obras paralizadas argumentos polucion semana pasada NO_estudios NO_factibilidad NO_milagrosamente NO_dieron visto bueno comienzo represas
+kirchnerismo ecologia peligro
+macrismo parece
+trataba corrupcion ecologia intereses politicos economicos corporaciones sostienen macrismo
+fiscal Stornelli pidio indagatoria Vido desafuero detencion
+proceso NO_indagatoria NO_escuchar NO_acusado
+NO_Despues NO_decide NO_desafuero detencion
+NO_desajuste NO_grosero replica escenario
+mundo NO_corrupcion NO_obras NO_interesa NO_juego NO_politica
+NO_creen NO_corrupcion NO_interesan pruebas juicio veredicto construido medios
+interesa justicia famosa lucha corrupcion usadas fines politicos favor imaginario
+politica oficialismo campanas mediaticas invalorable NO_colaboracion NO_amplio sector aparato judicial naturalizado procedimiento fiscales jueces aceptan subordinarse politica
+blanco campanas kirchnerismo da descontado
+decir distintos motivos antiK creen Justicia
+pais cree Justicia
+nbsp
+Nadie cree creyeran
+Apenas difundio disparate Stornelli medios corporativos pusieron artilleria corrupcion bloques oficialistas opoficialistas Cambiemos massismo llamado Justicialista anunciaron votarian favor desafuero ex ministro Planificacion escucharlo aceptando pedido irregular piense Vido
+nbsp
+desbarajuste armo justo discutiendo proyecto ley responsabilidad empresaria oficialismo incluido punto desviar informacion investigacion Odebrecht
+empresa brasilena constructoras grandes planeta metida multiples causas corrupcion Brasil Marcelo Odebrecht duenos condenado prision
+constructora socia grupo Macri doce testimonios coimas Argentina incriminaron Gustavo Arribas jefe espias Macri
+Elisa Carrio denunciadora serial corrupcion defendio Congreso intentos Macri tapar investigacion corrupcion involucra empresas gente gobierno Odebrecht
+clamaba corrupcion ex ministro Vido
+oposicion rechazo macrista Carrio criticada denunciadora serial Cristina Kirchner candidata massismo Margarita Stolbizer
+Indignada Carrio trato
+lucho dijo
+peleado Carrio denunciado Sergio Massa Stolbizer salido defensa aliado
+guion inclinando opera bufa campeonato denuncias elige corrupcion conviene actua acto supremo republicanismo
+sabido mundo nucleo grande corrupcion contratistas
+Argentina grandes fortunas hicieron manera
+construccion gran escala actividad prefieren mafia NO_lavado
+NO_investigaciones NO_peliculas NO_ficciones NO_documentales
+NO_NO_Esta NO_NO_tan NO_difundido NO_naturalizado planeta
+Carrio terrible denunciadora Mauricio Macri cuyas empresas caracteristicas
+grandes constructoras IECSA contratistas
+Ahora critica aliada cubre escandalos corrupcion
+casual Macri aparezcan firmas offshore
+Carrio Stolbizer aseguran revelaciones sacudieron NO_escenario internacional intentos kirchnerismo desviar atencion denuncias
+NO_ambas NO_preocupa perder protagonismo dan denuncias escandalosa autocondonacion Macri deuda millones Correo instrumentada traves ministro radical Oscar Aguad
+actuacion supieran elige corrupcion conviene interesara corrupcion cargos denuncia conviene tapa denunciadores seriales politica adoptado recurso unico posible recurso alimentado servicios inteligencia cargan estrategia imagen justicia posible
+[u'De Vido', u'Santa Cruz', u'Rio Turbio', u'Mauricio Macri', u'Cristina Kirchner', u'Yacimientos Carboniferos', u'Sergio Massa', u'Pero Carrio', u'Oscar Aguad', u'Nestor Kirchner', u'Margarita Stolbizer', u'Marcelo Odebrecht', u'Julio De', u'Jorge Cepernic', u'Gustavo Arribas', u'En Argentina', u'Elisa Carrio', u'Como Donald', u'Carlos Stornelli']
+[6, 4, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Yacimientos Carboniferos Fiscales', u'Julio De Vido', u'Como Donald Trump']
+[1, 1, 1]

@@ -1,0 +1,17 @@
+Comite Liberacion Milagro Sala entrego hoy numerosas cartas Corte Suprema Justicia
+reclamaron excarcelacion jefa Tupac Amaru denunciaron encuentra presa manera arbitraria ilegal
+Sala lleva dias detenida penal mujeres barrio Alto Comedero capital jujena
+cartas ademas reclaman maximo tribunal resuelvan recursos extraordinarios presentaron abril abogados Sala
+declaracion firmas semana
+Adhirieron filosofo Noam Chomsky creador Wikileaks Julian Assange ex juez espanol Baltasar Garzon poeta brasileno Chico Buarque teologo Leonardo Boff ex presidentas Dilma Rouseff Cristina Fernandez personalidades
+referentes izquierda Nicolas Cano Myriam Bregman sumado repudio detencion Sala adhiriendo reclamo libertad
+Comite denuncio ademas cerraron puerta Tribunales referentes acercaron realizar presentacion
+cerraron puerta cara pesar puertas cierran
+llegamos
+denunciaron
+negociacion custodia policial pudieron ingresar Lita Boitano Estela Diaz Eduardo Tavani Maria Elena Naddeo entregaron cartas
+actividad parte serie eventos realizando semana frente Tribunales paralelo desarrollo Lima Periodo Sesiones Extraordinarias Comision Interamericana Derechos Humanos tratarse medida cautelar detencion arbitraria Milagro Sala
+[u'Milagro Sala', u'El Comite', u'Wikileaks Julian', u'Tupac Amaru', u'Sesiones Extraordinarias', u'Noam Chomsky', u'Myriam Bregman', u'Maria Elena', u'Lita Boitano', u'Leonardo Boff', u'Estela Diaz', u'Eduardo Tavani', u'Dilma Rouseff', u'Derechos Humanos', u'Cristina Fernandez', u'Corte Suprema', u'Comision Interamericana', u'Chico Buarque', u'Baltasar Garzon', u'Alto Comedero']
+[2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Wikileaks Julian Assange', u'Maria Elena Naddeo']
+[1, 1]

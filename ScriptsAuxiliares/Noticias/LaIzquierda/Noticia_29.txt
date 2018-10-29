@@ -1,0 +1,16 @@
+importante convocatoria expreso bronca dolor generalizado pasado lunes realizo nueva movilizacion exigiendo justicia Maria Angeles Paris docentes fallecida Comisaria
+marcha antorchas salio Tribunales Provinciales recorriendo ciudad plaza San Martin
+Organizaciones gremiales sociales agrupaciones politicas companeros companeras docentes concentraron dia pasado julio frente Tribunales pedir esclarecimiento hecho sacudio sector docente ciudad Rosario reclamar justicia agilice causa hoy encuentra varada
+acto hicieron palabra familiares Maria Angeles jovenes David Campos Emanuel Medina acribillados dias policia provincial
+Daniela Vergara secretaria DDHH Amsafe Rosario informo causa repudio accionar cupulas judiciales exigiendoles pronuncien causas gatillo facil Ministro Seguridad Maximiliano Pullaro gobierno provincial Lifschitz municipal Monica Fein momento brillan ausencia
+Participo acto Sebastian Sansevich abogado familia victima
+solidarizaron causa APDH Sindicato Aceiteros San Lorenzo referentes politicos Celeste Lepratti Jorgelina Signa Octavio Crivaro Virginia Grisolia marco demostrar realmente casos tension permanente traves movilizacion calles escuelas diferentes lugares pedido justicia
+ultimos Santa Fe convirtio provincias lideran estadisticas gatillo facil
+violencia institucional orden dia policia cuenta amparo politico Gobierno Provincial nefasta impunidad Judicial vimos casos Jonatan Herrera Paula Perassi
+Agrupacion Docente Abril impulsada PTS Frente Izquierda acompanamos apoyamos medida tomada creemos meses hecho necesario urgente llevar adelante jornadas dialogo bases plenario delegados abordar casos violencia institucional linchamientos mediaticos casos gatillo facil
+afectan manera directa trabajadoras educacion estudiantes
+exigimos Amsafe ponga cabeza llevar adelante plan lucha constante efectuando jornadas paros exigir esclarecimiento causa Maria Angeles manera NO_siga NO_entorpeciendo NO_investigacion
+[u'Virginia Grisolia', u'Tribunales Provinciales', u'Seguridad Maximiliano', u'Sebastian Sansevich', u'Santa Fe', u'San Martin', u'San Lorenzo', u'Poder Judicial', u'Paula Perassi', u'Octavio Crivaro', u'Monica Fein', u'Jorgelina Signa', u'Jonatan Herrera', u'Gobierno Provincial', u'Emanuel Medina', u'David Campos', u'Daniela Vergara', u'Celeste Lepratti', u'Angeles Paris', u'Amsafe Rosario', u'Agrupacion Docente']
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Seguridad Maximiliano Pullaro']
+[1]

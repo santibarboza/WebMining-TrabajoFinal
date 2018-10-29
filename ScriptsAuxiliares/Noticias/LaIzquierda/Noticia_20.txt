@@ -1,0 +1,29 @@
+marchar mostrar rechazo politica economica ofensiva anuncio Juan Carlos Schmid CGT
+condiciones economicas empeoraron recien da cuenta
+manera llega anuncio posible movilizacion
+finales julio principios agosto
+tregua escandalosa sigue panorama eventual movilizacion sigue incierto
+dejaron pasar
+Crece inflacion acuerdos paritarios baja cierran fabricas alimenticia Florida Pepsico lucha reincorporacion trabajadores
+plan lucha
+Schmid recien ahora denuncia avance Gobierno sindicatos
+reciente intervencion sindicato canillitas precedieron portuarios vigiladores privados azucareros
+parte politica global deteriora salario busca revision convenios colectivos firmar baja aumenta pobreza multiplica despidos viendo dia dia
+frente decir dijo Schmid
+parte Hector Daer declaro momento critico dan cuenta trabajadores convocar marcha
+sintonia muestra Carlos Acuna tercer miembro triunvirato
+parecen conseguido guino Hugo Moyano
+batalla electoral llego CGT
+excusan tregua diciendo NO_quieren NO_quedar NO_pegados NO_Cristina NO_futuras NO_acciones NO_Gobierno
+Acuna apoya Sergio Massa Schmid Daer muestran preferencias NO_Florencio NO_Randazzo NO_NO_aunque NO_NO_NO_no NO_hablan NO_alto NO_note
+NO_sorprende NO_burocracia jugando politicos empresarios
+fecha lugar protesta resolverian jueves proxima semana reunion Consejo Directivo CGT
+sector NO_veces NO_discurso NO_combativo NO_promueve NO_movilizarse Casa Rosada dudas destinatario malhumor social
+anuncios inciertos CGT dispone retomar discursivamente iniciativa Gobierno
+realmente necesita verdadero plan lucha paro movilizacion triunfen trabajadores PepsiCo enfrentar despidos Gobierno planes ajuste
+interesar
+reformas antiobreras Cambiemos despues octubre
+[u'Sergio Massa', u'Juan Carlos', u'Hugo Moyano', u'Hector Daer', u'Florencio Randazzo', u'Consejo Directivo', u'Casa Rosada', u'Carlos Acuna']
+[1, 1, 1, 1, 1, 1, 1, 1]
+[u'Juan Carlos Schmid']
+[1]

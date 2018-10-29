@@ -1,0 +1,12 @@
+gobernadora bonaerense Maria Eugenia Vidal definio quedara conformado gabinete despues salida ministra Salud Zulma Ortiz par Educacion Alejandro Finocchiaro promovido Gabinete Nacional reemplazante Esteban Bullrich
+Ortiz renuncio motivos personales medio extenso conflicto salarial medicos hospitales publicos provincia reemplazada Andres Scarsi segundo Ministerio Salud Nacion
+Lee Renuncio Zulma Ortiz ministra Salud provincia Buenos Aires Scarsi asumira semana proxima nuevo ministro Educacion bonaerense economista Gabriel Sanchez Zinny ocupara puesto reemplazo Finocchiaro
+dar cambios indicaron fuentes Gobernacion agregaron Ortiz desempenara asesora mandataria provincial
+Ortiz especialista salud UNICEF Argentina frente ministerio diciembre asumio Vidal gobernacion
+Scarsi medico diplomado salud publica asesor ex Ministro Salud porteno Jorge Lemus Director General planificacion sanitaria ciudad Buenos Aires
+diciembre asumio Secretario Salud municipio Lanus intendencia Nestor Grindetti julio dejo cargo recalar Ministerio Salud bonaerense Jefe Gabinete Ortiz
+embargo enero cartera sanitaria provincial Ministerio Salud Nacion ocupa actualmente cargo Secretario Operaciones Estrategias Atencion Salud
+[u'Zulma Ortiz', u'Buenos Aires', u'Renuncio Zulma', u'Nestor Grindetti', u'Maria Eugenia', u'Jorge Lemus', u'Gabriel Sanchez', u'Gabinete Nacional', u'Esteban Bullrich', u'Director General', u'Andres Scarsi', u'Alejandro Finocchiaro']
+[2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Renuncio Zulma Ortiz', u'Maria Eugenia Vidal', u'Gabriel Sanchez Zinny']
+[1, 1, 1]

@@ -1,0 +1,34 @@
+pedido fiscal Carlos Stornelli Julio Vido desaforado pueda detenido causa investiga malversacion fondos mina Rio Turbio precandidatos frente electoral encabezados diputados Sergio Massa Margarita Stolbizer renunciaron fueros
+siguieron legisladores PRO candidato PJ Florencio Randazzo incluyo plataforma
+Cinco claves entender privilegio legisladores
+regulados Constitucion Nacional
+Articulo
+inmunidad opinion
+Articulo
+inmunidad arresto
+Articulo
+referido desafuero
+normas reglamentadas ley
+denominada ley fueros sancionada septiembre
+proceso judicial NO_cambia
+juez debera llevar adelante proceso tratara ciudadano comun
+juez Llamarlo prestar declaracion indagatoria
+Dictar procesamiento
+Elevar causa juicio oral necesidad pedir desafuero
+legislador negara concurrir citado indagatoria
+caso necesite privarlo libertad ocurrir ejemplo sospechara fugarse eludir accion obstaculizar desarrollo investigacion
+fueros aseguran miembros Congreso presidente vicepresidente ministros puedan llevar adelante impedimentos
+fueros inmunidades presidente impulsar arreste legisladores obstaculicen proyectos juez mandar arrestar presidente cuya politica NO_acuerde implicaria situaciones golpe explico politologo Andy Tow
+fiscal federal Carlos Stornelli solicito juez Luis Rodriguez marco causa Rio Turbio desafuero detencion diputado exministro Planificacion kirchnerismo Julio Vido
+Lee Renuncian fueros caso Vido
+PRO Randazzo acorralan pedido fiscal causo tempestad Camara Diputados
+Elisa Carrio dijo NO_juez NO_autorice NO_pedido Stornelli cuentan votos necesarios NO_desafuero
+cosa quedo
+manana distintos arcos politicos anunciaron renuncia privilegios fueros recibirian diputados senadores electos proximas elecciones
+Sergio Massa Margarita Stolbizer legisladores anunciaron conferencia prensa
+jefe bancada diputados PRO Nicolas Massot anuncio pedira renunciar fueros arresto
+Florencio Randazzo puso plataforma legisladores resulten electos Frente Justicialista renuncian privilegio fueros
+[u'De Vido', u'Sergio Massa', u'Rio Turbio', u'Margarita Stolbizer', u'Julio De', u'Florencio Randazzo', u'Carlos Stornelli', u'Nicolas Massot', u'Luis Rodriguez', u'Frente Justicialista', u'Elisa Carrio', u'Constitucion Nacional', u'Andy Tow']
+[3, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1]
+[u'Julio De Vido']
+[2]

@@ -1,0 +1,23 @@
+Carlos Stornelli fiscal pidio desafuero detencion exministro actual diputado Julio Vido denuncio sufrio intimidacion calle oscura evito relacionarlo investigacion lleva adelante
+dialogo Animales Sueltos programa conduce Alejandro Fantino America Stornelli detallo
+semana pasada cruzaron moto cuestion intimidacion casualmente estudiando tema
+tipo moto dijo improperios NO_agresion NO_fisica
+calle oscura desolada
+Consultado incidente vinculado causa Vido Stornelli NO_remarco
+Quiero creer
+mirada
+tipo moto explico
+viernes tarde conocio exministro Planificacion recibio fuerte guino Justicia
+juez Luis Rodriguez pidio NO_profundizar NO_investigacion NO_hizo NO_lugar NO_pedido NO_desafuero NO_NO_y NO_NO_detencion NO_solicitado fiscal
+Rodriguez sostuvo riesgo fuga entorpecimiento
+Stornelli pedido magistrado desafuero detencion exministro actual diputado Frente Victoria mano derecha Roberto Baratta causa malversacion fondos mina Rio Turbio
+Vido acusado supuesta defraudacion administracion publica
+millones pesos
+Lee Causa Rio Turbio
+entramado minera revelo informe NO_PPT NO_Consultado NO_proximos NO_NO_pasos NO_NO_que NO_NO_podria NO_causa NO_Stornelli dijo
+anticipar decision notificado
+dijo fiscalia analizar considerandos ver fundamenta caso avanzar conveniente
+[u'De Vido', u'Rio Turbio', u'Roberto Baratta', u'Luis Rodriguez', u'Julio De', u'Causa Rio', u'Carlos Stornelli', u'Animales Sueltos', u'Alejandro Fantino']
+[3, 2, 1, 1, 1, 1, 1, 1, 1]
+[u'Julio De Vido', u'Causa Rio Turbio']
+[1, 1]

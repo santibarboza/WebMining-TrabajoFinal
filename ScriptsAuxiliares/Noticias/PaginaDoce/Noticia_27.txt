@@ -1,0 +1,7 @@
+director cine estadounidense Oliver Stone sumo campana internacional libertad Milagro Sala dandole mayor difusion iniciativa comenzo semana primeros dias recogio tres firmas hora portal liberenamilagro
+org
+Ademas cineasta retrato peliculas ciclo progresista America Latina firmado primeras adhesiones figuras ex presidenta brasilena Dilma Rousseff argentina Cristina Fernandez Kirchner promocionaron campana cuentas Twitter Telegram multiplicando llegada campana mundo
+[u'Oliver Stone', u'Milagro Sala', u'Dilma Rousseff', u'Cristina Fernandez', u'America Latina']
+[1, 1, 1, 1, 1]
+[]
+[]

@@ -1,0 +1,12 @@
+Frente Izquierda presento candidatos Matanza YouTube conferencia localidad Matanza principales candidatos abordaron aspectos centrales campana electoral Frente Izquierda
+mesa presentacion candidatos diputados nacionales provincia Buenos Aires Nicolas Cano Romina Pla candidatos senadores Nestor Pitrola Andrea Juan Carlos Giordano IS
+apertura conferencia Ariel Iglesias candidato concejal Matanza planteo honor encabezar lista local levantar demandas pueblo trabajador jovenes trabajadores precarizados sufren desocupacion violencia represion policial darle salida demanda movimiento mujeres conjunto pueblo
+hicieron presentes Nathalia Gonzalez Seligra actual diputada nacional provincia Buenos Aires candidatos locales Franco Villalba Gabriela Rosa Olga Ortigoza candidatos zona ademas Iglesias
+presentacion Nicolas Cano planteo campana defender agenda clase trabajadora pueblo defendemos planteando puntos principales reducir jornada laboral horas
+Frente Izquierda desafio crecimiento viene NO_elecciones NO_sindicatos pueda expresar elecciones dando mensaje clase capitalista quiere aplicar ajuste duro despues octubre pueblo
+hicieron palabra Andrea dirigente PTS fundadora agrupacion mujeres Pan Rosas Romina Pla candidata diputada nacional Provincia Buenos Aires
+parte Nestor Pitrola destaco Frente izquierda trabajadores presentando lista unitaria provincias pais distritos Provincia Buenos
+[u'Buenos Aires', u'La Matanza', u'Nestor Pitrola', u'El Frente', u'Romina Del', u'Olga Ortigoza', u'Nathalia Gonzalez', u'Juan Carlos', u'Franco Villalba', u'Ariel Iglesias']
+[4, 3, 2, 2, 1, 1, 1, 1, 1, 1]
+[u'Romina Del Pla', u'Nathalia Gonzalez Seligra', u'Juan Carlos Giordano', u'Buenos Aires Nicolas']
+[1, 1, 1, 1]

@@ -1,0 +1,20 @@
+Ministerio dicto conciliacion obligatoria medio conflicto losnbsp
+trabajadores UTA convocado paro horasnbsp
+semananbsp
+micros media larga distancia
+sindicato decidieron acatar decision Ministerio levantaron medida fuerza advirtieron continuaran reclamando aumento salarial ciento contranbsp
+despidos
+nbsp
+medida cartera encabeza Jorge Triaca dispuesta mediodia medio paritaria sector
+acatamos conciliacion obligatoria seguimos reclamo ciento aumento salarial servicio larga distancia
+porcentaje acordamos corta media aclaro secretario general Union Tranviarios Automotor Roberto Fernandez
+conociera dictado conciliacion obligatoria jefe sindical contado conflicto arranco empresarios manifestaron NO_seguir NO_hablando NO_salarios NO_situacion NO_economica NO_iban NO_reestructuracion NO_servicio iban despedir trabajadores
+Fernandez recordo NO_discusion NO_paritaria NO_comenzo NO_abril logro acuerdo alerto empresarios NO_niegan NO_dar aumento salarial corresponde
+dirigente advirtio aceptar manera despidan trabajadores demando Gobierno frente conversaciones conflicto NO_mayor
+asusto empresa quiere despedir trabajadores gusta
+Esperamos podamos encontrar pronta solucion enfatizo gremialista dijo posibilidades dialogo autoridades importante NO_momento NO_discusion
+NO_Fernandez NO_aseguro NO_larga distancia NO_subsidios NO_empresarios pidiendo Gobierno realmente parece da dicen dar subsidio reducir servicio despedir trabajadores
+[u'Union Tranviarios', u'Roberto Fernandez', u'Jorge Triaca', u'El Ministerio']
+[1, 1, 1, 1]
+[u'Union Tranviarios Automotor']
+[1]

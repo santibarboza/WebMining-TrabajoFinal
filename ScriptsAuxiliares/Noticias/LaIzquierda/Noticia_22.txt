@@ -1,0 +1,31 @@
+conocio medida Stornelli sonaron voces buscan quedarse bandera corrupcion lavarse cara elecciones legislativas octubre
+primera figurar Carrio candidata Cambiemos
+Ayer voto Diputados proyecto Gobierno penalizar corrupcion empresaria mantuvo alto perfil duras palabras Vido vez Cristina ordeno ausentarse sesion
+Carrio competidor
+Sergio Massa companero gabinete Vido diseno contraataque instalarse tema escena preelectoral
+proyecto propio presionar Congreso trate inmediato situacion Vido esperar juez Luis Rodriguez decida acepta NO_pedido NO_desafuero NO_detencion NO_hecho NO_fiscal
+miras octubre
+Massa desafia Carrio Massa niega embestida Vido objetivo avivar polarizacion electoral buscan gobierno Macri Cristina
+Cristina declaro
+acusa Cambiemos sumarse NO_proteccion NO_Vido NO_plantear NO_cuestion desafuero Congreso escudandose esperar resolucion juez
+sentido jefe bancada macrista Nicolas Massot acuso Massa
+haciendo dijo
+llega pedido desafuero activarlo aseguro Massot
+Macri metio debate martes declaro anuncio Argentina acabo impunidad nadie
+Gobierno reconocieron pedido desafuero detencion reclamo Stornelli utilidad calmar ansiedad votantes Cambiemos exigen celeridad castigo corruptos
+ademas eje campana medio aumento inflacion suba dolar despidos importantes sectores produccion
+parte Vido dijo acusacion persecucion politica NO_manera NO_eximido culpas
+situacion afectaria voto kichnerismo duro perjudicar estrategia Cristina re conquistar candidatura nuevas franjas votantes
+juego candidatos partidos empresarios reparte voto importante sector enojado corrupcion
+embargo trata corrupcion partidos patronales marcados
+criticas Carrio duras kirchnerismo mantiene fuerte silencio casos Panama Papers Odebrecht tocan macrismo
+Massa parte kirchnerismo decada
+mantuvo prudente silencio
+Frente Izquierda sostiene dura critica conjunto partidos patronales entramado corrupcion rodea
+capitalismo coimas sobornos cuestion estructural
+interesar
+Cambiemos estrategia electoral enemigos medida
+[u'De Vido', u'Tambien Macri', u'Sergio Massa', u'Pero Carrio', u'Panama Papers', u'Nicolas Massot', u'Luis Rodriguez']
+[6, 1, 1, 1, 1, 1, 1]
+[]
+[]

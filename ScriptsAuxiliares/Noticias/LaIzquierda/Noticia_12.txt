@@ -1,0 +1,18 @@
+Hamburgo policia reprimia manifestantes protestaban poderosos reuniran cumbre Argentina suceden malas noticias cierres empresas despidos masivos persistencia inflacion presidente Mauricio Macri participo tarde festival Global Citizen precede reunion encuentran mandatarios veintena paises
+interesar
+policia reprime manifestacion cumbre Hamburgo alejado humor social predominante embuido cholulismo presidente principales oradores evento aprovecho presencia cantante colombiana Shakira lado comenzar intentando chiste
+oportunidad mostrar virtudes cantante bailarin
+continuacion Macri cuyo principal candidato Provincia Buenos Aires ex ministro Educacion Esteban Bullrich afirmo importante futuro educacion
+involucra personas paises comunidad internacional
+globalizacion cambios tecnologicos generando dudas futuro
+Hoy educar hijos trabajos todavia NO_existen
+mejorar habilidades laborales vidas
+sistemas educativos expandir innovarse listos cambiar dialogo
+paises lograr paz terminar pobreza vencer cambio climatico
+dichos importancia educacion cargados cinismo presidente hecho ataque docentes escuela publica principales caballitos batalla
+dar ejemplo Argentina pagara millones deuda publica equivalente presupuestos salud educacion sumados
+prioridades claras
+[u'Mauricio Macri', u'Global Citizen', u'Educacion Esteban', u'Buenos Aires']
+[1, 1, 1, 1]
+[u'Educacion Esteban Bullrich']
+[1]

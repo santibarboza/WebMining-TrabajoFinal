@@ -1,0 +1,25 @@
+presidente Mauricio Macri comenzo manana participacion segundo plenario cumbre mandatarios ciudad Hamburgo mantuvo reuniones bilaterales primer ministro Singapur Lee Hsieng Loong premier indio Narendra Modi
+Presidente arribo minutos
+hora argentina Hamburg Messe und Congress gigantesco centro exposiciones desarrolla cumbre salon cercano plenario reunio premier Lee
+mandatarios conversaron potenciar relaciones convertir pais asiatico socio estrategico productos argentinos
+Macri invito Lee participar desarrollo energias renovables Argentina dijo pais mayor crecimiento proximos continua reformas
+presidente manifesto interes incremente turismo ciudadanos Singapur Argentina menciono diversidad geografica cuenta pais
+dialogaron preocupacion situacion Venezuela Macri dijo unico pais crisis region pacifica
+Ademas converso proxima reunion Argentina delegacion Singapur venga equipo negocios pais pueda convertirse puerta entrada productos argentinos
+Singapur cinco millones medio habitantes ostenta puerto mayor trafico mercancias mundo
+alrededor
+hora argentina Macri comenzo reunion primer ministro Republica India Narendra Modi tomaron impasse plenario audiencia bilateral
+reunion Macri expreso satisfaccion relacion bilateral nuevamente marcha activa solicito ampliar lista productos comercializables India Mercosur
+Modi invito Macri participar festival Food India Presidente acepto voluntad colaborar produccion alimentos dar conocer tecnologias argentinas
+interesados empresas publicas India participen explotacion
+queremos ampliar participacion industria farmaceutica automotriz enfatizo Modi
+Macri dio bienvenida interes empresas estatales indias pidio quedar contacto recibidas YPF Argentina explorar areas hidrocarburiferas agrego momento perfecto hacerlo
+tarde
+turno encuentro Presidente par Turquia Recep Erdogan luego sumaran almuerzo mandatarios previo cierre cumbre
+bilaterales postergadas problemas agenda mandataria britanica Theresa May frances Emmanuel Macron delegacion informaron casos NO_confirmado NO_horario NO_realizacion NO_hoy NO_mantienen NO_negociaciones
+Hamburgo ciudad portuaria excelencia permanece blindada presencia
+policias calles espera mayor manifestacion prevista dias vez inmediaciones cumbre cercana Dammtor Platz estima congregaran personas
+[u'Narendra Modi', u'Theresa May', u'Recep Erdogan', u'Mauricio Macri', u'Lee Hsieng', u'Hamburg Messe', u'Food India', u'Emmanuel Macron', u'El Presidente', u'Dammtor Platz']
+[2, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Lee Hsieng Loong']
+[1]

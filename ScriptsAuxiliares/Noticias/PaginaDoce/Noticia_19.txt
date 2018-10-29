@@ -1,0 +1,31 @@
+Cristina Kirchner recibio salones Instituto Patria motivo encuentro precandidata senadora Unidad Ciudadana pidio Sergio Palazzo Horacio Ghillini Hector Amichetti referentes Corriente Federal Trabajadores suspendan movilizacion prevista proximo agosto
+lugar llamar movilizacion agosto debemos convocara gran votacion recomendo
+sindicalistas evaluan ahora pasos seguir
+encuentro ex mandataria sindicalistas realizo horas despues congreso Corriente decidiera convocar movilizacion repudiar politica economica gobierno Mauricio Macri consecuencias expresan perdidas puestos
+fecha elegida agosto coincidir dia San Cayetano santo catolicos representa protector
+embargo CFK cercania primarias volvia marcha inconveniente juntar energia militante domingo dia PASO
+reunion dije rezar NO_sufren
+NO_pedi hagan movilizacion
+trabajadores sobradas razones reclamar lugar llamar movilizacion agosto debemos convocar gran votacion explico Cristina traves redes sociales
+pedi esfuerzo movilizacion convierta fuerza gran votacion
+gran votacion agosto NO_diga NO_Gobierno Cambiemos seguir
+politica economica fracasado
+NO_parar cambiar rumbo mensajes emitio precandidata senadora provincia Buenos Aires
+nbsp
+mensajes CFK dijo pesar masivas manifestaciones trabajadores ultimos meses NO_rechazo NO_politica NO_gobierno NO_Cambiemos escucha distorsiona
+NO_aseguro NO_NO_en NO_NO_la NO_Casa NO_Rosada NO_escucha NO_dolor NO_pierden NO_trabajos NO_llegan NO_mes pagar facturas astronomicas servicios publicos cerrar comercios fabricas
+gremialistas ratificaron dichos Cristina coinciden lectura ex presidenta agregan dato
+Entienden gobierno nacional preocupacion crecimiento intencion votos Cristina importante movilizacion previa primarias llegar tentarlos aseguro Amichetti
+posibilidad presencia generen disturbios provoquen respuesta violenta parte fuerzas seguridad NO_mejor escenario candidatos Cambiemos flanco debil gremialistas quieren evitar
+formas marcha agosto suspendida
+integrantes Corriente llevaran propuesta CGT
+volveran proponer realizacion confederal mayor central obrera pais retome plan lucha existia dia NO_paro NO_nacional NO_abril NO_pasado
+NO_Fuentes NO_Corriente NO_aseguraron NO_continuar NO_presionando reactivacion CGT propuesta movilizacion aislada semana propia Confederacion Argentina Trabajadores Transporte lidera triunviro Juan Carlos Schmid llamo publicamente CGT sumarse movilizacion repudio politica economica Macri
+CATT Corriente presionan probable produzca
+despues primarias concretar llegue caso CGT niegue indicaron CFT espacio congrega sindicatos Palazzo principales referentes
+CTA Trabajadores conduce Hugo Yasky consideran pedido ex presidenta razonable
+coinciden lectura colegas sindicales CFT posibilidad intente movilizacion
+[u'La Corriente', u'Unidad Ciudadana', u'Sergio Palazzo', u'San Cayetano', u'Mauricio Macri', u'Juan Carlos', u'Instituto Patria', u'Hugo Yasky', u'Horacio Ghillini', u'Hector Amichetti', u'Cristina Kirchner', u'Corriente Federal', u'Confederacion Argentina', u'Casa Rosada', u'Buenos Aires']
+[3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Juan Carlos Schmid']
+[1]

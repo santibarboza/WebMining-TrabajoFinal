@@ -1,0 +1,23 @@
+Julio Vido optimista
+juez Luis Rodriguez debe decidir pide NO_desafuero ayer sento bases fallo mantendria libertad
+Rodriguez pronuncio pedidos detencion tres presuntos complices Vido
+dijo ex ministro pedido
+argumentos favor coimputados aplicarlos favorecerlo
+unica justificacion constitucionalmente valida mantener privada libertad persona proceso goza presuncion inocencia existencia peligro procesal afirmo juez caso Fernando Lisse ex gerente yacimiento Rio Turbio
+decir existencia elementos conviccion suficientes presumir intentara fugarse libertad entorpecera investigacion
+riesgo fuga juez afirmo elocuente NO_existe NO_acusados derecho
+Vido hizo
+posibilidad destruyeran pruebas dijo tribunal adoptado medidas necesarias resguardar documentos pidio fiscal organismos
+argumento trasladar Vido
+persona ex ministro celebro resoluciones
+Descomprimen situacion creada artificialmente sostuvo pedido Stornelli desafuero detencion
+fiscal presentado dictamen sostenia existido gigantesco desvio fondos complejo Rio Turbio
+proyecto central electrica vieja mina tren funciono invirtieron
+millones gestion Vido NO_Planificacion
+NO_central NO_hizo NO_tren NO_funciona mina produce
+Stornelli pidio detenciones argumento complejidad gravedad cantidad hechos involucrados riesgo acusados libertad conspiren avance causa
+Ayer ademas Rodriguez pedido abogado Adrian Albor ordeno juez investigara medios acceso dictamen Stornelli
+[u'De Vido', u'Rio Turbio', u'Luis Rodriguez', u'Julio De', u'Fernando Lisse', u'Adrian Albor']
+[5, 2, 1, 1, 1, 1]
+[u'Julio De Vido']
+[1]

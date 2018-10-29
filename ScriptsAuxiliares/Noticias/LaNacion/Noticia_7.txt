@@ -1,0 +1,11 @@
+precandidatos frente electoral encabezados diputados Sergio Massa Margarita Stolbizer anunciaron renunciaran fueros anunciaron diputados mediodia conferencia prensa
+cerrar precandidatos senadores provincia Buenos Aires dejaran privilegios inmediatamente indicaron sede Colegio Publico Abogados Ciudad Buenos Aires centro porteno
+necesita politica recuperar ejemplaridad sostuvo Stolbizer remarco personas pertenecen sucesivo utilizar frente causa tipo fuero inmunidad ampararse esconderse
+cerrar parte Massa insistio terminar idea parlamento termina lugar refugian quieren evadir Justicia Queremos mostrarle sociedad interes representacion genuina NO_busqueda NO_impunidad lanzo lider Frente Renovador
+Ademas Massa convoco frentes
+Queremos invitar fuerzas politicas repetir ejemplo dijo
+Renuncian fueros diputados actuales candidatos puesto lista
+[u'Buenos Aires', u'Sergio Massa', u'Margarita Stolbizer', u'Frente Renovador', u'Colegio Publico']
+[2, 1, 1, 1, 1]
+[]
+[]

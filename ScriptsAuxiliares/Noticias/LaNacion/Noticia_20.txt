@@ -1,0 +1,17 @@
+NO_trata NO_gestos NO_interpretaciones
+Unidos ve Argentina principal interlocutor region
+ocasion expresar relacion ambas naciones buen camino festejos julio Dia Independencia estadounidense majestuoso Palacio Bosch
+Vemos Argentina lider region dijo Tom Cooney encargado negocios embajada norteamericana actua embajador interino
+sentido representante norteamericano pais destaco visita presidente Mauricio Macri Washington reunio par Donald Trump
+Ademas Cooney adelanto paises suscribiran acuerdos comerciales relevancia supuesto hablaran crisis politica social atraviesa Venezuela viaje realizara vicepresidente Michael Spence agosto
+Unidos apoya liderazgo Argentina region
+confianza agrego Cooney
+invitados destacaron ministro Modernizacion Andres Ibarra integrante gabinete parte Gobierno viajo Alemania motivo
+secretario Derechos Humanos Claudio Avruj titular Oficina Anticorrupcion Laura Alonso
+Ademas juez Corte Suprema Carlos Rosenkrantz
+integrante Justicia dio presente juez federal Claudio Bonadio requeridos
+converso rato CEO Clarin Hector Magnetto
+[u'Estados Unidos', u'Tom Cooney', u'Palacio Bosch', u'Oficina Anticorrupcion', u'Michael Spence', u'Mauricio Macri', u'Laura Alonso', u'Hector Magnetto', u'Donald Trump', u'Derechos Humanos', u'Corte Suprema', u'Claudio Bonadio', u'Claudio Avruj', u'Carlos Rosenkrantz', u'Andres Ibarra']
+[2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Corte Suprema Carlos']
+[1]

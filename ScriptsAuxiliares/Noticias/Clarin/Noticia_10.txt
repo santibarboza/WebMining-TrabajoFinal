@@ -1,0 +1,10 @@
+Consejo Provincial Educacion Santa Cruz continuaba ocupado manana docentes santacrucenos reclaman situacion salarial sector titular Maria Cecilia Velazquez permanecia pequeno grupo colaboradores oficinas encuentra miercoles
+docentes provinciales mantienen campamento instalaciones organismo rechazo descuentos indiscriminados sueldos cobraron atraso casos llegan ciento
+policia continua custodiando lugar primeras horas hoy labraron actas presencia funcionarios presentaron pretensiones ingresar
+Velazquez paso segunda noche edificio organismo maestros iniciaron protesta miercoles pasado
+trabajando expreso funcionaria declaraciones radiales consultada permanencia Consejo
+Ayer titular Caja Prevision Social Monica Blande madrugada atrincherada oficinas grupo funcionarios jubilados bloqueaban piquete puerta principal edificio presento denuncia policial presunta privacion ilegitima libertad
+[u'Santa Cruz', u'Prevision Social', u'Monica Blande', u'Maria Cecilia', u'El Consejo']
+[1, 1, 1, 1, 1]
+[u'Maria Cecilia Velazquez', u'El Consejo Provincial']
+[1, 1]

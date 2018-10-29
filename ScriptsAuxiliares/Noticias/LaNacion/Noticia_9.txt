@@ -1,0 +1,11 @@
+HAMBURGO
+presidente Mauricio Macri volvio claro hoy situacion politica Venezuela Nicolas Maduro prioridades politica exterior
+cierre exposicion plenario jefes Gobierno Presidente llamo mundo tome nota situacion Venezuela NO_respetan NO_derechos NO_humanos afirmo Presidente miembros delegacion argentina
+postura sostenida mandatario sostiene inicio gestion frente Ejecutivo
+posicion concita apoyo paises integran Union Europea Alemania centra pedido elecciones libres libertad presos politicos Leopoldo respeto derecho manifestarse opositores regimen Maduro
+fuentes Gobierno Macri primer presidente plantear situacion Venezuela contexto reunion nuclea paises industrializados planeta
+Argentina promotores ademas expulsion Venezuela Mercosur diciembre reiterados casos violencia protagonizados chavismo oposicion venezolana
+[u'Union Europea', u'Poder Ejecutivo', u'Nicolas Maduro', u'Mauricio Macri', u'Leopoldo Lopez']
+[1, 1, 1, 1, 1]
+[]
+[]

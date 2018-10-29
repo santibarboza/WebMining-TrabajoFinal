@@ -1,0 +1,13 @@
+Lanzada candidatura senadora provincia Buenos Aires expresidenta Cristina Kirchner desinflar marcha sindicalismo opositor convoco agosto dia San Cayetano pidio dirigentes hagan gran eleccion lugar movilizacion
+expresidenta reunio Instituto Patria bancario Jorge Palazzo integrante Sindicato Docentes Privados Horacio Ghillini secretario general Federacion Grafica Bonaerense Hector Amichetti
+pidio suspender marcha anunciada semana previa primarias
+trabajadores sobradas razones reclamar Cristina traves redes lugar llamar movilizacion agosto debemos convocar gran votacion agosto
+primera precandidata senadora nacional Unidad Ciudadana provincia Buenos Aires agrego
+rezar NO_sufren
+NO_pedi NO_hicieran movilizacion
+expresidenta recordo ultimos meses realizaron movilizaciones politicas economicas Gobierno NO_presidente NO_Mauricio NO_Macri NO_cambio NO_rumbo
+NO_Cambiemos escucha dolor pierden trabajos
+[u'Buenos Aires', u'Unidad Ciudadana', u'San Cayetano', u'Mauricio Macri', u'Jorge Palazzo', u'Instituto Patria', u'Horacio Ghillini', u'Hector Amichetti', u'Federacion Grafica', u'Docentes Privados', u'Cristina Kirchner']
+[2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Federacion Grafica Bonaerense']
+[1]

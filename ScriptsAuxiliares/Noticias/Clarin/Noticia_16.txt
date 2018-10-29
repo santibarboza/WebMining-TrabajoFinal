@@ -1,0 +1,32 @@
+Oficialistas opositores pasaron semana haciendo calculos anticipados diputados votarian favor desafuero Julio Vido juez caso Rio Turbio avalaba pedido fiscal
+Ayer supo ex ministro seguira gozando inmunidad arresto concede Constitucion discusion fueros NO_acallo
+contrario subio tono nuevo enfoque atizando fuegos campana electoral
+temprano jefe bloque macrista Nicolas Massot hizo presentara proyecto Camara baja autorice renunciar fueros sentar precedente debata tema seriedad Vido
+Despues supo trataba picardia anticiparse jugada marcha Sergio Massa tropa alianza electoral
+hora diputado Frente Renovador encaminaba sede Colegio Publico Abogados porteno dar golpe efecto planeo socia Margarita Stolbizer
+renunciamiento fueros candidatos Provincia encabezan boleta Capital
+eleccion privilegios esperamos pais fuerzas politicas hagan dijo tigrense
+calificar fueros Carta Magna concede legisladores privilegio aberrante integrantes listas desfilaron atril colocaron acta renuncia prerrogativa requerimiento
+NO_polemica tardo estallar
+Munida analisis juristas reconocidos secretaria parlamentaria bloque PRO Silvia Lospennato primera descalificar conferencia prensa Massa acuso montar estafa
+Alego burla ciudadanos juez quisiera detenerlos igual pedir Camara desafuer
+siguieron macristas diputado Eduardo Amadeo recien llegado vereda Fernando Iglesias lista Ciudad
+contradictorio Massot mandamas bloque metio dedo llaga consistente medida propio presidente Mauricio Macri dejo fotografia cartelito porto lilita Mariana Zuvic campana parlamentaria Mercosur
+Constitucion permite juez arresto senador diputado nacional previamente pide despojen fueros respectivas camaras aprueban voto tercios presentes
+opinion predominante constitucionalistas consultados Clarin
+trata NO_procedimiento darse abstracto avance causa
+ley fueros aprobada medio escandalo coimas Justicia investigar legislador unicas restricciones allanamiento domicilio detencion debe pedir autorizacion
+voto ley Diputados Elisa Carrio promotoras Cristina Kirchner abstuvo
+Ahora vuelven candidatas
+antecedente
+radical Eduardo Angeloz pidio Senado permitan renunciar fueros afrontar NO_causa enriquecimiento ilicito
+pudo Camara voto desafuero dia
+quedo sobreseido volvio banca
+Pese inconsistencias candidatos origen peronista acoplaron idea renunciar fueros
+Franco Caviglia integra bloque diputados Dario Giustozzi reeleccion Cambiemos Provincia
+Florencio Randazzo
+ex ministro quiere Senado planto tema plataforma bonaerense
+[u'De Vido', u'Silvia Lospennato', u'Sergio Massa', u'Rio Turbio', u'Nicolas Massot', u'Mauricio Macri', u'Mariana Zuvic', u'Margarita Stolbizer', u'Julio De', u'Frente Renovador', u'Franco Caviglia', u'Florencio Randazzo', u'Fernando Iglesias', u'Elisa Carrio', u'Eduardo Angeloz', u'Eduardo Amadeo', u'Dario Giustozzi', u'Cristina Kirchner', u'Colegio Publico', u'Carta Magna']
+[2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Julio De Vido']
+[1]

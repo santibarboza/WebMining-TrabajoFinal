@@ -1,0 +1,18 @@
+Roberto Baratta hombre estrecha confianza Julio Vido presento hoy exencion prision juez Luis Rodriguez adelante NO_preve NO_detenerlo
+hizo actual intendente Rio Turbio Atanasio Perez Osuna interventor Yacimientos Carboniferos Rio informaron fuentes causa
+acusados desviado millones pesos Vido pesa pedido detencion indagatoria
+Vido diputado nacional quisiera avanzar juez deberia pedir desafuero
+fuentes cercanas ex ministro adelantan NO_presentara
+Explican fueros operan exencion prision
+pedidos hoy alentados fallo ayer Rodriguez solicitud acusados menor adelanto criterio favorable libertades
+fallo Rodriguez mensaje tranquilizador incluido Vido
+sostenido fiscal Carlos Stornelli NO_Rodriguez NO_dijo NO_peligro NO_fuga NO_entorpecimiento investigacion hizo razones trasladables caso ex ministro
+NO_riesgo NO_fuga NO_juez NO_afirmo NO_elocuente existe acusados derecho
+Vido hizo
+posibilidad destruyeran pruebas dijo tribunal adoptado medidas necesarias resguardar obtuvo allanamientos operativos documentos pidio fiscal organismos
+argumento trasladar Vido
+respecta ex ministro Rodriguez pendiente resolver pedido Stornelli solicito promueva desafuero detenga NO_indague fraude multimillonario contestar juez plazo
+[u'De Vido', u'Rio Turbio', u'Yacimientos Carboniferos', u'Roberto Baratta', u'Luis Rodriguez', u'Julio De', u'Como De', u'Carlos Stornelli', u'Atanasio Perez']
+[6, 2, 1, 1, 1, 1, 1, 1, 1]
+[u'Yacimientos Carboniferos Rio', u'Julio De Vido', u'Como De Vido', u'Atanasio Perez Osuna']
+[1, 1, 1, 1]

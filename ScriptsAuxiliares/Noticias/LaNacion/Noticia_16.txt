@@ -1,0 +1,24 @@
+HAMBURGO
+Gobierno aspira mejorar relacion bilateral Gran Bretana independientemente diferencias respecto Malvinas anticipo hoy jefe Gabinete Marcos Pena visperas reunion bilateral sostendran presidente Mauricio Macri primera ministra Theresa May
+espiritu aspectos relacion
+NO_necesariamente NO_cuestion NO_soberania NO_agenda NO_manana dijo Pena conferencia abierta prensa internacional cubre cumbre ciudad
+Fuentes delegacion ampliaron intencion Macri ratificar posicion argentina respecto diferendo islas impida desarrollar relacion productiva materias interes mutuo
+Profundiza giro respecto politica hostilidad asumido administracion kirchnerista subordino dialogo Londres eventual negociacion soberania
+Macri May primera reunion bilateral manana pausas cumbre
+hablado manera informal pasado Asamblea General ONU
+charla termino controversia tono planteo argentino Malvinas
+Pena hablo periodistas ingles traduccion simultanea
+intervencion expuso posturas trae Macri cumbre marcada discordias materia comercial medio ambiental introdujo bloque grandes potencias llegada Donald Trump Casa Blanca
+Argentina defendera posicion cercana principal vocera canciller alemana Angela Merkel
+gobierno posicion clara fuerte continuar Acuerdo Paris cambio climatico creemos importancia sistema multilateral comercio necesidad promover globalizacion justa libre comercio enfatizo jefe Gabinete
+Reconocio existen disidencias fuertes escenario global NO_complicado NO_sostuvo NO_existe NO_camino NO_conjunto posicion integrada multilateral
+Ademas confirmo Macri resulta prioritario avanzar negociaciones tratado comercial Union Europea pretende anunciarlo diciembre reuna Buenos Aires Organizacion Mundial Comercio
+hablar acuerdo definitivamente
+Especialmente reunion presidente frances Emmanuel Macron autoridades UE
+Francia paises reticentes alcanzar acuerdo presion sector agropecuario teme perjuicio causarle competencia productos sudamericanos
+vision acuerdo esencial futuro relaciones politicas Europa America Sur
+reafirmar importancia libre comercio forma integracion
+[u'Union Europea', u'Theresa May', u'Organizacion Mundial', u'Mauricio Macri', u'Marcos Pena', u'La Argentina', u'Gran Bretana', u'Emmanuel Macron', u'El Gobierno', u'Donald Trump', u'Casa Blanca', u'Buenos Aires', u'Asamblea General', u'Angela Merkel']
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[]
+[]

@@ -1,0 +1,11 @@
+suele suceder cumbre realiza potencia occidental evento da lugar protestas grupos antisistema
+Ayer repitio Hamburgo consigna manifestantes marcharon reunion jefes policia reprimio gases lacrimogenos camiones hidrantes pagina
+manifestaciones hizo notar mensaje presidente argentino Mauricio Macri
+puente colgaron cartel mensaje
+Macri NO_venda escrito NO_aleman
+NO_primera NO_vez NO_Macri NO_objeto NO_muestras NO_rechazo NO_viajes exterior
+Anteriormente sucedio Unidos Holanda Madrid visita pasado Alemania
+[u'Presidente Macri', u'Mauricio Macri', u'Estados Unidos']
+[1, 1, 1]
+[]
+[]

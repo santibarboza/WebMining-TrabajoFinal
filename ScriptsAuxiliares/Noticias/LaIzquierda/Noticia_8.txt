@@ -1,0 +1,42 @@
+formas entender situacion social vivimos mirando mesa
+platos vasos
+dato conocido
+Subsecretaria Lecheria Ministerio Agroindustria Nacion argentinos consumieron promedio litros leche fluida
+cifra baja momentos consumo NO_llegaba NO_litros
+particular consumo leche sachet respecto primer trimestre siguio bajando
+organismos siguen tema aseguraron ademas cayo consumo leche polvo quesos manteca yogurt
+explicacion previsible
+reconocio coordinador investigacion lecheria INTA Eduardo Comeron consumo leche lacteos atado adquisitivo
+lacteos rubros subieron
+inflacion interanual
+familia tipo consume ejemplo litros leche diarios gasto llegar
+pais mitad NO_trabajadores NO_supera mensuales consumo lacteo acerca ingresos
+dato acompanando baja consumo carne alimentos forman parte dieta basica millones personas
+caso leche aporta tercios calcio necesita organismo chicos ademas ayuda desarrollo sistema nervioso
+Sergio Britos Centro Estudios Politicas Economia Alimentacion falta lacteos afecta salud nutricional chicos edad escolar mujeres personas mayores
+NO_chicos chicas desayunaba
+sencillo darse cuenta numero subio ultimos
+situacion numeros
+refleja aumento personas concurren comedores populares
+semanas organizaciones sociales aseguran aumento asistencia veces achicar raciones alcance
+pais produce alimentos millones personas millones pasen hambre criminal
+NO_Contrastes NO_clase NO_alta NO_media NO_alta NO_perdieron NO_adquisitivo sigue comprando vinos alta gama
+compran pertenecer
+fiestas casas compran marca reconocida premium
+consumo aspiracional
+habla Norberto Diaz director XV Feria Vinos Lujo realizo semanas Hotel Alvear
+consultora Nielsen venta vinos crecio
+hablando pesos botella
+llamados gastan aproximadamente
+mensuales vinos alta gama
+NO_vinos espumantes parte fenomeno
+corte gobierno Macri extendio exencion impositiva espumantes mediante decreto mantiene IVA leche
+forma entender semejante medida sabiendo Secretario Comercio Mauricio Macri
+Miguel Braun
+hombre ademas funcionario duenos cadena supermercadista Anonima
+meses medio inundaciones Sur denunciada subir fuertemente precio productos pan leche agua mineral
+contraste platos millones simbolo brutal gobierna Macri gabinete
+[u'Segun Sergio', u'Norberto Diaz', u'Miguel Braun', u'Mauricio Macri', u'La Anonima', u'Hotel Alvear', u'El Cronista', u'Eduardo Comeron']
+[1, 1, 1, 1, 1, 1, 1, 1]
+[u'Segun Sergio Britos']
+[1]

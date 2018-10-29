@@ -1,0 +1,119 @@
+noche jueves periodistas Victor Hugo Morales Roberto Navarro Gustavo Sylvestre recibieron estudio canal Florencio Randazzo candidato senador nacional Provincia Buenos Aires PJ
+hora conversacion parte intercambio exministro Interior Transporte gobierno Cristina Fernandez Kirchner Morales realizo parte preguntas defensistas apologeticas expresidente
+Parte intercambio giro torno proyecto kirchnerista juego Clarin dividir peronismo lugar toca ocupar propio Randazzo campana electoral
+momento entrevista transformo cruce Morales realizaba lugar preguntas definiciones interpelaciones Randazzo respondia NO_evasivas
+momentos cruce Randazzo Morales mejor panegirico escuche vida Cristina hizo
+nadie dijo Cristina capaz luchar mafias mediaticas Clarin
+atacaban atacaban
+pasaron campana pudo envejecido proyecto Cristina Kirchner apenas
+discurso emocionante escuchado ultimamente pueda cambiar persona inutil politica lleva vez candidata
+NO_cambio sigo sosteniendo Victor Hugo procesos agotan inclusive problemas biologicos
+agotar persona minimamente
+votos Florencio
+ver entiende
+quiero decir sigo pensando
+Cristina designa nuevamente ministro Interior ver diciembre digo iba aceptar
+quede claro hombre coherente hombre integramente moral
+Escucheme digo
+desacuerdo momento reunion camara Diputados momento dije NO_dirigentes compartida posicion politica
+decia realidad proyecto personas
+opinion equivocada
+NO_dice NO_relacion NO_cantidad votos problema PASO problema
+lista podia entrar gente traiciono
+traiciono
+traicionar
+Retiro palabra quiere
+diferencias
+mes
+diferencias trata traidores NO_gente NO_realidad NO_puso lista Cristina
+Expliqueme Victor Hugo puse nadie lista
+NO_equivoco NO_caso
+proceso PASO argumento elecciones
+NO_Saquemos palabra traicion queda comoda NO_gente NO_ala decir gente votos votada Cristina Kirchner
+NO_haga NO_cargo NO_NO_a NO_NO_mi
+NO_cargo explico pienso queria volver evitarse gente ejemplo Movimiento Evita
+dudo intencion mala intencion Cristina termina funcional Gobierno hizo
+supuesto sacando peronismo frente
+dice funcional gobierno molesta dicen funcional gobierno Florencio
+sentido funcional
+Termina separando espacio termina constituyendo Unidad Ciudadana peronismo dividiendo sentido podiamos resolver PASO eligiese gente
+posicion respeto NO_creo NO_coherente reclame
+llevo adelante sancion ley conozco espiritu PASO creia PASO cambie
+Macri muchachos fruto errores confundamos
+fruto mafia mediatica padecio integrante Gobierno
+simplificacion Victor Hugo
+Competir eleccion Presidenta acusada asesina ministro Economia acusado robarse millones YPF hijo NO_millones mentira banco NO_candidato NO_gobernador triple asesino despues dijo
+Poner voto favor gente increible puso
+gente cosa lucha NO_mafia NO_mediatica
+subestimen gente Victor Hugo
+subestima gente
+concepto central historia politica veredicto gente inapelable
+inapelable acertado sabio
+voluntad gente
+cometido serie errores siquiera hecho cargo
+ejemplo
+seleccion candidato momento candidato NO_bombardeado
+politicas publicas equivocaron
+Inclusive periodista
+coherentes tratar coherentes gusta respetuoso NO_coherente
+Despues haciamos cargo error gobierno mayor politica social humildes termino acusado NO_humilde NO_actitud NO_soberbia marca periodismo NO_hablando NO_lucha Macri
+lucha establecido real importante mafia mediatica Clarin mafia mediatica
+Contesteme Florencio parece importante
+problema Clarin Victor Hugo
+problema monopolios defienden intereses interes general conviccion hombre autonomo defiendo NO_politica NO_emancipada factor poderde diarios medios comunicacion
+Acusaciones
+actitud acusaciones
+radio Victor Hugo pleno proceso debate campo defendi gobierno NO_desteni
+NO_acusado NO_minutos NO_terminara programa comprado estancia hice
+acusado
+delincuente Sociedad Rural
+responsabilidad chequeado
+costo minutos chequear informacion
+minutos programa dia
+Victor Hugo grave acusacion ministro NO_pelea NO_sector poderoso campo
+hice
+hice juicio
+Gane primera instancia gane Camara Corte indemnizaron
+acusacion politica injusta salir dar cara
+dice Vido
+general digo
+lei opinion Vido
+acuerdo fueros sentido caso Vido Randazzo Cristina
+NO_denuncia NO_hecha NO_empleado NO_Macri Boca barrabrava Stornelli funciona politicamente aceitada mecanismo mafioso grupo Clarin pone primera plana
+elegido pueblo apartarse fueros dice troika mafioso
+creo jueces honestos deshonestos fiscales honestos valoracion tipo
+valoracion politica NO_Stornelli
+NO_Olvidese NO_Stornelli
+da impresion sociedad sentido absolutamente bombardeada factores prestigio politica debe encontrar politicos actitud grandeza diciendo NO_desprendo NO_NO_mis NO_NO_fueros NO_juzguenme hijo
+importante
+Florencio Vido renuncia fueros juicio
+NO_NO_Pero NO_NO_por NO_parece importante
+representante pueblo responsable gente NO_voto
+sacar Clarin
+sacar Stornelli NO_barrabrava Boca justo
+hable caso puntual
+debemos defender fueros nadie someterse Justicia
+vez Magnetto senale alguien cometio delito renuncio fueros puesto
+simplifique cosas
+haga simplificacion tipo
+cree Clarin operando Vido
+NO_Ah NO_NO_bueno
+Clarin
+leo diarios creo
+diarios miente
+Pagina miente
+relativo dice
+Verbitsky escribio nota mentia decia relativo
+imposible considerar
+Digame mentira escrito Verbitsky
+financiaba campana campana Vidal
+hablado hermano Chivilcoy
+Ah apreciacion dato informacion
+cree incomprobable dicho Cristina
+dicho
+digo sometemos Justicia explicaciones considero frente acusacion
+senalaba ejemplo campo
+[u'Victor Hugo', u'De Vido', u'Cristina Kirchner', u'Unidad Ciudadana', u'Sociedad Rural', u'Roberto Navarro', u'Movimiento Evita', u'Gustavo Sylvestre', u'Florencio Randazzo', u'Cuando Cristina', u'Cristina Fernandez', u'Buenos Aires']
+[8, 5, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Victor Hugo Morales']
+[1]

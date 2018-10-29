@@ -1,0 +1,9 @@
+Theresa May suspendio reunion Mauricio Macri ministro Hacienda Nicolas Dujovne mantuvo par Finanzas Reino Unido Philip Hammond
+contacto enviados argentinos Dujovne busco mostrarse confiado situacion economia
+tranquilos movimientos comento
+pronostico tipo cambio vez influir fijacion precios
+ventaja tipo cambio flotante mueve lado tranquilos completo
+[u'Reino Unido', u'Philip Hammond', u'Mauricio Macri', u'Hacienda Nicolas', u'Aunque Theresa']
+[1, 1, 1, 1, 1]
+[u'Hacienda Nicolas Dujovne', u'Aunque Theresa May']
+[1, 1]

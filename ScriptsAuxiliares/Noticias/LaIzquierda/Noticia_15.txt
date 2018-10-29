@@ -1,0 +1,39 @@
+dias cumplen realidad NO_noche NO_semana NO_operativos NO_grupos NO_tareas NO_dictadura cuyo objetivo principal abogados marplantenses mayoria dedicaba defensa trabajadores militantes
+personas secuestradas recluidas Cueva viejo radar Base Aerea ubicado kilometros ciudad Mar Plata devenido centro clandestino detencion
+primeros secuestrados abogados Norberto Centeno Salvador Manuel Arestin Raul Hugo Alais Camilo Ricci Carlos Bozzi Tomas Fresneda noche madrugada julio
+agregarian doctor Jose Candeloro esposa Martha Garcia secuestrados julio Neuquen llevados Mar Plata
+companera Fresneda Mercedes Arganaraz embarazada ocho meses Maria Esther Vazquez Garcia companero Nestor Enrique Garcia Mantica Jose Verde companera
+grupo personas detenidas sobrevivieron Ricci Bozzi Martha Garcia Julio Verde esposa
+sometieron brutales torturas
+presentaban habeas corpus comun
+Claramente dedicado profesion defensa trabajadores
+primer dictadura dedicaron presentar habeas corpus reclamando aparicion vida militantes desaparecidos
+antesala tragica mencionar asesinatos abogados Alfredo Curuchet NO_Ortega NO_Pena NO_manos NO_Triple
+NO_embargo NO_mayoria NO_actividades NO_militancia conjunta conoce ademas defensa libertades elementales enfrentado agrupacion ultraderechista catolica Concentracion Nacional Universitaria actuaba Triple
+Norberto Centeno conocidos abogados laboralistas ciudad asesor legar CGT gremios encarcelado golpe Aramburu Rojas integrante llamada
+redacto proyecto luego Ley Contrato
+Murio torturas manos coronel Pedro Barda
+Jose Candeloro socio Centeno militancia izquierda igual Tomas Fresneda Salvador Manuel Arestin encargaba presentaciones habeas corpus
+Justicia complice impunidad coronel Pedro Alberto Barda comandante cargo Subzona XV sistema represivo Primer Cuerpo Ejercito
+responsable distintos centros clandestinos detencion funcionaban Mar Plata Cueva
+condenado prision cumple condena casa gracias atenuantes justicia brinda debido edad
+suboficial Fuerza Aerea Gregorio Rafael Molina subjefe Base Aerea funciono Cueva encargado torturar detenidos
+imputaron muertes Centeno Candeloro
+Murio primer condenado prision perpetua crimenes lesa humanidad cometidos Mar Plata ultima dictadura
+rol Judicial NO_genocidio NO_dudas NO_pata NO_complice necesaria sosten dictadura
+mencionar juez Pedro Hooft llamado precisamente juez Noche acusado cajoneado decenas habeas NO_corpus NO_estrechamente NO_ligado NO_CNU
+NO_literalmente NO_dejo NO_correr NO_secuestros NO_abogados desaparecidos acusa informado muerte Jorge Candeloro reclamado cuerpo Ejercito
+Hooft sabia supuesto condiciones abogados secuestrados
+complice inaccion condeno muerte
+juez recorria calabozos secuestrados abogados familiares decian venir darles esperanzas liberacion realmente mecanismo tortura
+socios NO_Judicial NO_mantienen NO_impune
+abril sometido jury mayoria Jurado Enjuiciamiento Magistrados bonaerense entendio juez provincial incurrio delitos lesa humanidad rechazo planteo acusacion
+miles familiares sobrevivientes siguen luchando encarcelar genocidas militares civiles
+mantiene memoria valentia abogados desaparecidos asesinados dedicado profesion defensa trabajadores
+suman cien desaparecieron dictadura
+militantes Centro Profesionales Derechos Humanos abogados hijos familiares detenidos desaparecidos luchan plenas libertades trabajadores pueblo
+lucha homenaje cotidiano victimas Noche Corbatas
+[u'La Cueva', u'Tomas Fresneda', u'Salvador Manuel', u'Poder Judicial', u'Norberto Centeno', u'Martha Garcia', u'Jose Candeloro', u'Base Aerea', u'Raul Hugo', u'Primer Cuerpo', u'Pedro Hooft', u'Pedro Barda', u'Pedro Alberto', u'Ortega Pena', u'Nestor Enrique', u'Mercedes Arganaraz', u'Maria Esther', u'La Noche', u'Julio Verde', u'Jose Verde', u'Jorge Candeloro', u'Gregorio Rafael', u'Garcia Mantica', u'Fuerza Aerea', u'Derechos Humanos', u'Concentracion Nacional', u'Carlos Bozzi', u'Camilo Ricci']
+[3, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Salvador Manuel Arestin', u'Raul Hugo Alais', u'Pedro Alberto Barda', u'Nestor Enrique Garcia', u'Maria Esther Vazquez', u'Fuerza Aerea Gregorio', u'Concentracion Nacional Universitaria']
+[2, 1, 1, 1, 1, 1, 1]

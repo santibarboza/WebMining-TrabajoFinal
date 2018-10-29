@@ -1,0 +1,15 @@
+medio pedido fiscal Julio Vido renuncie fueros precandidatos frente electoral encabezados diputados Sergio Massa Margarita Stolbizer renunciaron
+hicieron sede Colegio Publico Abogados Ciudad Buenos Aires centro porteno gesto simbolico renunciaron candidatos todavia NO_bancas
+conferencia prensa Massa Stolbizer garantizaron personas pertenecen frente actualidad sucesivo partir asuncion legisladores utilizar frente requerimiento judicial tipo fueros ampararse esconderse
+privilegio aberrante dijo Massa
+Stolbizer senalo definicion juzgamiento crimenes Justicia NO_desviar NO_atencion NO_intentando NO_instalar NO_Parlamento NO_ambito NO_autojuzgamiento NO_legisladores
+carrera evidencia Vido kirchnerismo atrincherarse fueros PRO Florencio Randazzo hicieron
+jefe bloque diputados PRO Nicolas Massot anuncio pedira autorizacion cuerpo
+gesto renunciamiento forzar Julio Vido fiscal Carlos Stornelli pidio desaforar detener exministro Planificacion kirchnerista causa malversacion fondos mina Rio Turbio
+randazzismo apuro poner plataforma electoral Frente Justicialista legisladores electos espacio renuncian momento juramento fueros testimonio personal apego leyes rechazo taxativo corrupcion
+minutos firmando proyecto resolucion presentar Camara Diputados pedir cuerpo autorice renunciar fueros arresto
+gestualidad importante NO_quiero NO_sentar NO_precedente NO_debata NO_NO_con NO_NO_seriedad NO_NO_no NO_Vido NO_adelante lamentablemente presumo caso afirmo Massot Radio Mitre
+[u'De Vido', u'Julio De', u'Sergio Massa', u'Rio Turbio', u'Radio Mitre', u'Nicolas Massot', u'Margarita Stolbizer', u'Frente Justicialista', u'Florencio Randazzo', u'Colegio Publico', u'Carlos Stornelli', u'Buenos Aires']
+[4, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Julio De Vido']
+[2]

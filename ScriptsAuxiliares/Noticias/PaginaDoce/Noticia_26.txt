@@ -1,0 +1,45 @@
+diez dias represion frente ministerio Desarrollo Social veinte organizaciones componen Frente Milagro Sala Dignidad realizaron conferencia prensa ratificaron seguir calle reclamando denunciando desguace politicas sociales
+local ATE Capital dirigente Grafica Patricios Eduardo Montes mostro boleta luz
+pesos impacta directamente trabajadores deben decidir dijeron darle plato comida hijos seguir fabrica vez abandonaron duenos
+dispuestos NO_construirles NO_excusa NO_NO_represion NO_NO_pero NO_NO_no NO_NO_podemos NO_NO_no NO_NO_mostrar NO_NO_la NO_NO_miseria NO_NO_que NO_NO_genera NO_NO_este NO_modelo senalo Fernando Gomez conduccion nbsp
+Descamisados
+marco anunciaron cronograma acciones comenzo ayer lanzamiento campana nacional miseria
+cronograma incluye movilizaciones participacion Cumbre Pueblos Mendoza paralelo presidentes Mercosur
+nbsp
+seguir explica Alejandro Garfagnini coordinador espacio mayoria organizaciones territoriales bonaerenses
+cuatro puntos movilizamos miercoles pasado
+emergencia alimentaria
+NO_tarifas NO_diferenciadas NO_clubes NO_barrio NO_fabricas NO_recuperadas NO_cooperativas
+NO_descooperativizacion inmediata restitucion pensiones
+Garfagnini hablo represion miercoles semana pasada
+caceria decision politica reprimir previa movilizacion quedo demostrado claramente videos negociaciones jefe operativo funcionarios
+nbsp
+actividades sucederan adelante comienzan marcha ATE Capital Jefatura Gabinete
+siguen Mendoza marco cumbre Mercosur organizadores Cumbre Pueblos definieron llevar presidentas honorificas Milagro Sala Nelida Rojas dirigentes sociales Tupac Amaru presas arbitrariamente
+haran congreso nacional Parque Lezama
+nbsp
+nbsp
+gobierno practica habitual estigmatizar dirigentes sociales comunitarios nbsp
+pegando tiro agrega Coco
+gracias miles companeros ubicados comedores copas leche NO_merenderos NO_tratando NO_contener NO_situacion social imposible sostener conurbano gracias dirigentes hoy estallido social Argentina
+gobierno estigmatizarlos genera campanas mediaticas tremendas
+tirando tiro pie organizaciones territorio provincia Buenos Aires estallado rato
+vez contener vez ayudar NO_vez NO_agradecer perseguirte reprimirte estigmatizar
+Pareceria punto gobierno apuesta estallido social
+Fernando Gomez agarro boleta luz grafica Patricios
+numero
+pesos luz
+exigiendo rato ministerio Energia ahora Desarrollo Social hagan cargo situacion pone trabajadores fabricas recuperadas disyuntiva poner plato mesa pagar factura luz empresa cargo patrones irresponsables nbsp
+dejaron
+nbsp
+NO_fabricas recuperadas sumo clubes barrio lugares contencion natural pibes
+barrios populares club abrir dijo calle destino incierto
+viendo comedores abren dias ademas impagable
+nbsp
+conferencia espacio mostrar represion miercoles pasado llevarse puesto
+reclamo emergencia agujerea frentes
+nbsp
+[u'Milagro Sala', u'Fernando Gomez', u'Desarrollo Social', u'Tupac Amaru', u'Parque Lezama', u'Nelida Rojas', u'Grafica Patricios', u'Frente Milagro', u'Eduardo Montes', u'Buenos Aires']
+[2, 2, 2, 1, 1, 1, 1, 1, 1, 1]
+[u'Grafica Patricios Eduardo', u'Frente Milagro Sala']
+[1, 1]

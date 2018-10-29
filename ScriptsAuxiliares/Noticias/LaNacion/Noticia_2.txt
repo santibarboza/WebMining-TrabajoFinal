@@ -1,0 +1,32 @@
+cerrar HAMBURGO
+inesperada novedad causo indisimulado desencanto
+suspendio cuestiones agenda afirmaban caer tarde voceros Gobierno certeza postergacion dia hora reunion bilateral iban sostener manana presidente Mauricio Macri primera ministro britanica Theresa May contexto cumbre
+Gobierno entendian cuestiones reordenamiento agenda complicada situacion interna vive May pais razones oficiales postergacion
+desencanto debio propia May ordeno funcionarios coordinar encuentro Presidente dias cumbre
+Gobierno NO_descartaban NO_manana NO_produzca NO_dialogo NO_pull aside sostuvieron ultima Asamblea Naciones Unidas
+Argentina reunion May puerta entrada hablar soberania Malvinas jefe gabinete Marcos Pena puesto duda conferencia prensa brindo mediodia
+espiritu aspectos relacion
+NO_necesariamente NO_cuestion NO_soberania agenda manana dijo Pena ingles fluido conferencia
+rato tarde fuentes delegacion ampliaron intencion Macri ratificar posicion argentina respecto diferendo islas impida desarrollar NO_relacion NO_productiva materias interes mutuo
+decir
+hablamos soberania explico NACION referentes politica exterior Gobierno postura opuesta gobierno kirchnerista
+reunio par britanico titular Hacienda Nicolas Dujovne encontro Phillip Hammond ex canciller David Cameron hoy ministro Economia gobierno May
+mantenido reuniones bilaterales fructiferas
+primera Hammond ministro Finanzas Italia Canada
+idea intercambiar informacion economias chance buscar inversiones
+Empezamos hablar consensos necesarios proximo afirmo Dujovne
+Hammond precisamente nombres NO_suena NO_sucesor NO_May NO_primera NO_ministro logra superar crisis politica halla inmersa
+postergacion reunion datos muestran nueva relacion dada cercania fisica
+Macri May comparten hotel alojan cumbre inicio ayer ciudad alemana
+mandatarios sabian bueno opuso puso objeciones afirmo NACION miembro delegacion argentina
+Macri esposa piso hotel Meridien May
+ubica delegacion brasilena encabezada presidente Michel Temer piso
+manana salida recibir bienvenida oficial manos canciller alemana Angela Merkel sintonia
+May salio pasadas vestido azul zapatos animal print
+Macri hizo quince minutos tarde
+Shakira
+bromeo Presidente NACION entrar automovil llevo reunion plenaria referencia Global Citizen Festival realizado anoche colmado estadio ciudad Presidente estrella colombiana compartieron escenario
+[u'Theresa May', u'Phillip Hammond', u'Para Argentina', u'Nicolas Dujovne', u'Naciones Unidas', u'Michel Temer', u'Mauricio Macri', u'Marcos Pena', u'Global Citizen', u'David Cameron', u'Con Shakira', u'Angela Merkel']
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Global Citizen Festival']
+[1]

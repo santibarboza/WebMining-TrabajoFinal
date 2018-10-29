@@ -1,0 +1,21 @@
+Maria Eugenia Vidal sigue problemas area Salud
+Ayer ministra Zulma Ortiz anuncio renuncia cargo reemplazada Andres Scarsi ahora numero ministerio Salud Nacion
+salida Ortiz da medio extenso conflicto salarial medicos hospitales publicos provincia volveran parar semana proxima
+tercera baja medio gabinete bonaerense titular Justicia Carlos Mahiques Infraestructura Edgardo Cenzon
+cosas falta gestion desgaste dejaron trascender entorno Ortiz razones salida
+afirmaban ayer Plata Scarsi asumira nuevo cargo semana proxima nuevo ministro Educacion bonaerense economista Gabriel Sanchez Zinny ocupara puesto reemplazo Alejandro Finocchiaro vez sumara equipo Mauricio Macri ocupar cargo dejara vacante Esteban Bullrich comenzara campana candidato senador
+dar cambios indicaron fuentes Gobernacion restaron importancia enroque
+Ademas gobierno Vidal aseguraron Ortiz desempenara mandataria provincial siguiendo modelo nivel nacional inauguro ex canciller Susana Malcorra
+ademas gobernacion intentaban despejar rumores alejamiento motivo enojo funcionaria rumbo gestion confirmaban cerca Ortiz
+nbsp
+sentido Ministerio Salud envio comunicado afirmo razones indole dimision gobernadora
+NO_primera NO_vez NO_unica NO_mujer NO_integraba NO_gabinete NO_bonaerense NO_aparecia NO_ojo NO_tormenta
+pasado luego firmar resolucion provincia NO_Buenos Aires adhiera protocolo nacional aborto punible obligada dar marcha ala conservadora administracion PRO hablo posible renuncia
+Ortiz especialista salud Unicef Argentina puso frente ministerio diciembre asumio Vidal gobernacion experiencia politica
+Ahora reemplazada Scarsi medico diplomado salud publica asesor ex Ministro Salud porteno Jorge Lemus director general planificacion sanitaria ciudad Buenos Aires
+diciembre asumio Secretario Salud municipio Lanus intendencia Nestor Grindetti julio dejo cargo recalar Ministerio Salud bonaerense Jefe Gabinete Ortiz
+embargo enero cartera sanitaria provincial Ministerio Salud Nacion ocupa actualmente cargo Secretario Operaciones Estrategias Atencion Salud
+[u'Buenos Aires', u'Zulma Ortiz', u'Unicef Argentina', u'Susana Malcorra', u'Nestor Grindetti', u'Mauricio Macri', u'Maria Eugenia', u'La Plata', u'Jorge Lemus', u'Gabriel Sanchez', u'Esteban Bullrich', u'Edgardo Cenzon', u'Carlos Mahiques', u'Andres Scarsi', u'Alejandro Finocchiaro']
+[2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Maria Eugenia Vidal', u'Gabriel Sanchez Zinny']
+[1, 1]

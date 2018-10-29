@@ -1,0 +1,22 @@
+primer dia Cumbre Alemania Mauricio Macri defendio politica economica gobierno condeno violacion Derechos Humanos Venezuela disfruto funcion honor Filarmonica Elba
+Hoy delante agenda apretada ayer
+tres sesiones plenarias cuatro reuniones jefes
+disertaciones reglamento NO_extenderse NO_tres NO_minutos presidente explico modelo economico
+Argentina NO_entendimos NO_apostar NO_atajo plazo salimos perdiendo
+clave integracion inteligente mundo manera gradual constante
+reuniones hoy jefes debatiran relacionarse paises Africa rol mujeres mundo creacion
+hora Argentina reunion bilateral primer ministro Singapur Lee Hsien Loong Predio Ferial Hamburgo
+participara tercera sesion plenaria Jefes debatira Hermandad Africa Migracion Salud
+encontrara primer ministro India Narendra Modi
+mantendra audiencia presidente Turquia Recep Tayip Erdogan
+disertara cuarta sesion plenaria
+discutira Empoderamiento mujeres
+reunira presidente Francia Emmanuel Macron Predio Ferial Hamburgo
+realizara sesion clausura
+Macri hablara luego cierre canciller Alemania Angela Merkel
+comitiva oficial ademas Macri esposa Juliana Awada integrada canciller Jorge Faurie secretario Asuntos Estrategicos Fulvio Pompeo jefe Gabinete Marcos Pena ministro Hacienda Nicolas Dujovne
+cierre cumbre volaran regreso Argentina
+[u'Predio Ferial', u'Recep Tayip', u'Nicolas Dujovne', u'Narendra Modi', u'Mauricio Macri', u'Marcos Pena', u'Lee Hsien', u'Juliana Awada', u'Jorge Faurie', u'Fulvio Pompeo', u'En Argentina', u'Emmanuel Macron', u'Derechos Humanos', u'Asuntos Estrategicos', u'Angela Merkel']
+[2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Recep Tayip Erdogan', u'Lee Hsien Loong']
+[1, 1]

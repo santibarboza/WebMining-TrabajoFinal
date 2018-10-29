@@ -1,0 +1,17 @@
+presidente Mauricio Macri saco elegante sport dejo zapatillas Global Citizen Festival arribar Cumbre mensaje
+mundo ponga zapatos Argentina
+Macri recibido manana Hamburg Messe centro convenciones realiza cumbre jefa Gobierno aleman Angela Merkel
+Lee look elegante sport Mauricio Macri Global Citizen Festival Macri comitiva argentina arribaron Hamburg Messe noroeste centro minutos hora
+Arranco cumbre Hamburgo
+recibio Angela Merkel Macri pic
+twitter
+TN Noticias julio Acompanaron Presidente jefe gabinete Marcos Pena ministro Hacienda Nicolas Dujovne secretario Asuntos Estrategicos Fulvio Pompeo canciller Jorge Faurie sumara despues mediodia debido mantendra reuniones bilaterales
+Lee Infografia buscan principales lideres mundiales cumbre mandatarios paises miembros selecto club naciones estadounidense Donald Trump chino XI Jinping ruso Vladimir llegaron Hamburgo ayer comenzaran discusiones sesion plenaria luego toma tradicional foto familia
+encuentros bilaterales Macri Theresa May Emmanuel Macron
+capitulo aparte apreton manos Trump Putin dieron primera vez
+estrecharon mano dijeron reunirian parte verian pronto dijo vocero Kremlin Dimitri Peskov
+encuentro bilateral pondra mesa cuestiones conflicto Ucrania guerra Siria contexto desconfianza mutua lideres
+[u'Mauricio Macri', u'Hamburg Messe', u'Global Citizen', u'Angela Merkel', u'Vladimir Putin', u'Todo Noticias', u'Theresa May', u'Nicolas Dujovne', u'Marcos Pena', u'Jorge Faurie', u'Fulvio Pompeo', u'Emmanuel Macron', u'Donald Trump', u'Dimitri Peskov', u'Asuntos Estrategicos']
+[2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Global Citizen Festival']
+[2]

@@ -1,0 +1,11 @@
+justicia federal Rioja rechazo falta legitimacion activa impugnacion presentada ignoto ciudadano partido Matanza ex presidente Carlos Menem manera quedo oficialmente ratificado competir primarias agosto proximo precandidato PJ retener banca ocupa Senado
+medida confirmada NACION Gustavo Romero apoderado PJ riojano lleva firma juez federal competencia electoiral Daniel Herrera Piedrabuena
+escrito paginas magistrado determina resumen impugnante NO_reviste NO_condiciones NO_exigidas NO_ley NO_solicitar NO_impugnar NO_candidato NO_NO_de NO_NO_este NO_distrito NO_debido NO_elector NO_habil NO_provincia demuestra apoderado lista compita PJ riojano
+candidatura Menem impugnada habitante Matanza llamado Ramon Cesar Hernandez casualmente nombre identico famoso secretario privado ex presidente
+Ademas rechazar presentacion juez Herrera Piedrabuena llama atencion Hernandez terminos utilizados escrito impugnacion tilda delincuente Menem denomina Senado aguantadero critica Judicial NO_terminos NO_ineditos NO_rescritio NO_judicial
+NO_terminos NO_utilizados NO_NO_por NO_NO_el NO_NO_denunciante NO_NO_no NO_NO_se NO_NO_corresponden NO_NO_NO_con NO_NO_NO_la NO_NO_NO_axctitud NO_NO_NO_de NO_NO_NO_un NO_NO_NO_ciudadano NO_democrata NO_debe NO_dirigirse respeto autoridades judiciales perdio ex Primer Magistrado Republica Argentina
+manera Menem quedo confirmado primer precandidato senador nacional PJ riojano primarias abiertas simultaneas obligatorias proximo agosto categoria competira ministro Defensa radical Julio martinez encabeza nomina Cambiemos
+[u'La Matanza', u'Herrera Piedrabuena', u'Republica Argentina', u'Ramon Cesar', u'Primer Magistrado', u'Poder Judicial', u'La Rioja', u'Gustavo Romero', u'Daniel Herrera', u'Carlos Menem']
+[2, 2, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Ramon Cesar Hernandez', u'Daniel Herrera Piedrabuena']
+[1, 1]

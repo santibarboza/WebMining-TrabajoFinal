@@ -1,0 +1,17 @@
+pedido funcionario judicial Carlos Stornelli desato tormenta
+fiscal federal solicito juez Luis Rodriguez marco causa Rio Turbio indague proceda desafuero ordene arresto Julio Miguel Vido ex ministro Planificacion administraciones nacionales kirchneristas
+pedido desafuero manos juez Rodriguez NO_acumula NO_antecedentes NO_negativos NO_ex NO_ministro NO_Vido dicto falta merito causa enriquecimiento ilicito
+solicitud Stornelli causo tempestad seno Camara Diputados ahora corren detras novedad NO_primeros contar fueros
+viernes Sergio Massa Margarita Stolbizer legisladores anunciaron conferencia prensa despojaran fueros parlamentarios
+rato jefe bancada diputados PRO Nicolas Massot anuncio pedira renunciar fueros arresto
+sumarse corrida Florencio Randazzo puso plataforma legisladores resulten electos Frente Justicialista renuncian privilegio fueros
+sede Colegio Publico Abogados Ciudad Buenos Aires Massa Stolbizer sumaron iniciativa diputado Julio Raffo anticipo Clarin redacto proyecto tema renunciar fueros investigado causa INCAA
+paralelo titular bloque diputados nacionales PRO Nicolas Massot anuncio presentara proyecto Camara Diputados autorice renunciar fueros arresto sentar precedente NO_debata NO_tema NO_seriedad NO_ex NO_ministro NO_actual NO_integrante Camara Julio Vido adelante
+ahora suma plataforma campana Florencio Randazzo primer punto postula
+legisladores electos espacio renuncian momento juramento fueros testimonio personal apego leyes rechazo taxativo corrupcion
+Efecto Vido llego politica intencion primerear aventuraron decir renuncian fueros
+Tiempos campana
+[u'De Vido', u'Nicolas Massot', u'Florencio Randazzo', u'Sergio Massa', u'Rio Turbio', u'Margarita Stolbizer', u'Luis Rodriguez', u'Julio Raffo', u'Julio Miguel', u'Julio De', u'Frente Justicialista', u'Efecto De', u'Colegio Publico', u'Carlos Stornelli', u'Buenos Aires']
+[3, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Julio De Vido', u'Efecto De Vido']
+[1, 1]

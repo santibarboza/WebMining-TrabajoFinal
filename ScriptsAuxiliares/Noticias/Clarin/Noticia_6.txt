@@ -1,0 +1,46 @@
+denuncia millonarios fondos extinto ministerio Planificacion Federal destino Yacimientos Carboniferos Rio Turbio suma nuevo frente judicial
+juez subrogante Javier Leal Ibarra dio lugar amparo impide puesta funcionamiento Usina Termica carbon financio Julio Vido denunciado determine destino
+toneladas diarias cenizas generara termousina
+proyecto resta obra demandara finalizarla discusion millonaria medio constructora presento concurso acreedores Espana
+Usina Rio Turbio detenida fines
+Foto Maxi Failla
+metros altura gran chimenea sobresale Usina Termica ubicada corazon Cuenca Carbonifera seguira apagada
+logro funcionar plena campana Cristina Kirchner inauguro calderas
+NO_contaba NO_controles NO_pertinentes NO_caldera NO_revento NO_apago senalo Clarin fuente oficial
+gran promesa energetica kirchnerismo quedo detenida fines rodeada sospechas corrupcion
+Sindicatura General Nacion senalo obviaron detalles envergadura manifiesta ausencia estudios factibilidad tecnica economica justifiquen licitacion Central
+concentran dinero demando obra
+pagaron anticipos financieros ejecucion obra debil inexistente exigencia cumplimiento obligaciones surgen contrato
+abandono Usina Rio Turbio
+Foto Maxi Failla
+Producto imprevisiones generaron contrato original once
+inicial
+dolares
+Sumadas once variantes impuestos incluidos incrementaron contrato
+SIGEN monto usina MW fecha
+dolares suma costo internacional promedio estima millones dolares
+obra adjudicada gobierno kirchnerista financiada ex ministerio Planificacion Federal puntos centrales dictamen fiscal Carlos Stornelli pidio indagatoria desafuero detencion Vido impulsor Usina Termica
+causa investiga malversacion fondos
+millones pesos dinero extinto ministerio destino Yacimientos Carboniferos Rio Turbio responsable operar Usina generar carbon abastecerla
+ex presidenta Cristina Kirchner Vido acto firma contrato construccion usina termoelectrica
+detallaron fuentes NO_oficiales NO_obra NO_avance
+NO_firma NO_convenio NO_reactivarla NO_deben NO_acordar cifra final concluira usina termica
+Isolux Corsan NO_firma NO_adjudicataria debe resolver situacion Espana presento concurso acreedores
+Todavia numero final Casa Rosada informaron Clarin lograron ahorro millones dolares
+reactive obra demandara obra finalizacion
+escenario juez Comodoro Rivadavia subroga juzgado federal Rio Gallegos dio lugar amparo solicitado Asamblea Ciudadana representada abogado Jose Luis Janezak ahora impide puesta marcha Usina vez concluida obra civil
+problema ambiental organizacion ambientalista legal
+exigen estudio evaluacion impacto ambiental respecto destino disposicion final
+toneladas cenizas contaminadas metales pesados elementos radiactivos generara termoelectrica
+calculos estiman
+NO_toneladas NO_diarias NO_gases contaminantes salidos chimenea producto quema carbon resolvio hara
+juez Leal Ibarra decidio dar lugar amparo Usina podra funcionar empresa adjudicataria culmina forma integra procedimiento Evaluacion Impacto Ambiental resolviendo observaciones formuladas autoridad administrativa garantizado participacion ciudadana dicha etapa tramite
+Deberan convocar audiencia publica
+dictamen Stornelli basado informe SIGEN consigno proyecto cenizas firmo YCRT UTN darles comercial sub ejecucion millones
+irregularidades destaca confeccion presupuesto parte Fundacion UTN partir sola oferta oficial superior propuesta empresa millones
+senalo sobrecostos importante ejecucionon presupuestos
+proyecto conto partida financiada Planificacion Federal
+[u'Rio Turbio', u'Usina Termica', u'Planificacion Federal', u'De Vido', u'Yacimientos Carboniferos', u'Foto Maxi', u'Cristina Kirchner', u'Rio Gallegos', u'La Usina', u'La Sindicatura', u'Julio De', u'Jose Luis', u'Javier Leal', u'Isolux Corsan', u'Impacto Ambiental', u'Cuenca Carbonifera', u'Comodoro Rivadavia', u'Casa Rosada', u'Carlos Stornelli', u'Asamblea Ciudadana']
+[4, 3, 3, 3, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Yacimientos Carboniferos Rio', u'Foto Maxi Failla', u'La Sindicatura General', u'Julio De Vido', u'Jose Luis Janezak']
+[2, 2, 1, 1, 1]

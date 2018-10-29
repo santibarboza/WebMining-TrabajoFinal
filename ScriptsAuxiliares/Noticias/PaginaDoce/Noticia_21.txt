@@ -1,0 +1,11 @@
+ex intendente Berazategui Juan Jose Mussi hablo vecinos partido via Facebook peronismo coyuntura social vive pais
+Ademas dedico parte transmision Mauricio Macri dijo
+tomas medidas intencionadas pueblo
+Mussi momento pais situacion sumamente sale politica
+demostrado soluciones ciudadanos especialmente necesitados pasaron vigencia doctrina nacional popular agrego Mussi primera transmision duro minutos
+NO_queremos NO_caiga NO_NO_Gobierno NO_digan NO_desestabilizadores NO_peronistas NO_NO_porque NO_atentar NO_democracia
+NO_queremos NO_NO_se NO_Macri NO_queremos NO_cambie siga rumbo politico siga atacando discapacitados pensionados yendo concluyo actual diputado bonaerense
+[u'Para Mussi', u'Mauricio Macri', u'Jose Mussi', u'Berazategui Juan']
+[1, 1, 1, 1]
+[u'Berazategui Juan Jose']
+[1]

@@ -1,0 +1,29 @@
+lista FIT encabezada Liliana Olivero Izquierda Socialista secundada joven dirigente PTS Javier Musso acompanados referente local FIT Guadalupe Fantin integra lista candidatos
+precandidata Diputada Nacional Liliana Olivero manifesto conferencia
+Cuarto ciudad mayor desocupacion provincia producto modelo genera millonarias ganancias miseria desocupacion miles
+cuidar puestos proponemos prohibir despidos suspensiones repartir horas estatizar Empresa cierre despida
+NO_permitir NO_trabajadores NO_cobre NO_salarios NO_debajo NO_linea NO_pobreza
+necesitamos inmediato aumento salarial movil referente FIT Rio Cuarto largamos campana diputados izquierda pic
+twitter
+mdash
+Hernan Puddu July respecto Javier Musso declaro
+propuesta reduccion jornada laboral horas dias semana salario minimo igual canasta familiar
+manera atacar raiz problema desocupacion precario ocupacion
+provincia encabeza indices pobreza multinacionales pooles sojeros llevan millones costa hambre pueblo trabajador super explotacion jovenes
+vida trabajadores mujeres juventud vale ganancias empresarios grupos
+propuesta terminar desocupacion
+reducir jornada laboral afectar salario
+pic
+twitter
+mdash
+Hernan Puddu julio Luego joven docente Guadalupe Fantin agrego
+poniendo agenda lucha derechos mujeres fuerza organizada voces calles llevaremos congreso nacional
+ajuste tarifazos pegan fuerza mujeres peores salarios cargan doble jornada laboral hogar mueren abortos clandestinos terminan redes trata
+politicos ganan dietas pesos mes situacion
+FIT unicos cobramos trabajador aportamos resto dietas fondos lucha trabajadores companera Laura Vilches legislatura
+interesar
+PTS Frente Izquierda lanza campana gran acto
+[u'Rio Cuarto', u'Liliana Olivero', u'Javier Musso', u'Hernan Puddu', u'Guadalupe Fantin', u'Laura Vilches', u'Izquierda Socialista', u'Diputada Nacional']
+[2, 2, 2, 2, 2, 1, 1, 1]
+[u'Diputada Nacional Liliana']
+[1]

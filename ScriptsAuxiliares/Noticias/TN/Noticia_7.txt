@@ -1,0 +1,66 @@
+Despues Florencio Randazzo volvio dar entrevista television
+precandidato senador Frente Justicialista diferencio gobierno Mauricio Macri cruzo Sergio Massa Daniel Scioli
+dura Cristina Kirchner implacable
+reprocho NO_autocritica proceso agoto
+momentos reportaje Randazzo dejo claro diferencias Cristina
+NO_pudo NO_participar NO_PASO NO_decision NO_expresidenta
+momento queria eleccion NO_candidato NO_haga gente
+error NO_permitirme NO_participar
+advertido iba candidato NO_gobernador NO_sostuvo
+NO_agrego
+NO_Cometimos NO_serie errores hicimos cargo NO_eleccion NO_dle NO_candidato
+NO_actitud soberbia
+NO_consultaron NO_actitud postulante gobernador personalista exministro dijo
+queria integrar lista Daniel Scioli NO_queria NO_vencerlo NO_interna
+durisimo exmandatario bonaerense
+parecia inmoral aceptar candidato gobernador alguien punto encuentro
+NO_legislativas NO_vienen NO_Randazzo dejo idea
+Aseguro peronismo cuesta creer constituido nuevo frente dejarlo participar PASO
+Terminamos NO_darle NO_razon antipolitica
+habla sale primaria sociedad debe discutir candidatos
+queriamos
+pensaba Cristina iba candidata definio
+hablar opinion Cristina presidenta Randazzo aseguro procesos agotan cuestiones biologicas
+dije momento
+proyecto politico personas debia preparar relevo
+ahora termina separando espacio divide sentido
+funcional Gobierno definio
+Chicanas Clarin reproches Massa criticas Macri momento periodistas ultracristinistas entrevistaron intentaron llevar Randazzo formule critica medios
+NO_Victor NO_Hugo NO_Morales NO_NO_quien NO_fuerte desencuentro NO_reportaje
+NO_honre funcion gobierno Cristina Kirchner sostuvo
+espalda ponia
+enfrento
+NO_ataque Clarin
+chicaneo relator ultrak
+primera vez
+candidato senador noto ofuscado NO_reprocho NO_forma NO_energica
+NO_obsesion NO_quiere trasladar
+NO_traslade
+falta NO_autocritica insistio
+periodistas chicaneo Roberto NO_Navarro
+consulto hablado primera etapa gobierno Mauricio Macri Randazzo cruzo conductor
+ayudo evitar sufrimiento pueblo
+preguntaron
+dice ayude
+NO_queria relator realidad
+panelista TV
+creo
+parecio prudente respetar gobierno elegido darle asevero
+NO_aspirante senador arremetio Sergio Massa competidor directo PASO Frente Renovador
+dijeron iba Massa
+Massa lado
+NO_Massa NO_aparte
+NO_NO_de NO_NO_que NO_NO_estaba NO_Cristina
+candidato testimonial
+coherente momento dije Nestor
+Chivilcoy ganamos igual recordo
+Randazzo cruzo gestion Mauricio Macri
+Dijo gobierno ricos ricos tildo insensible
+dificil conseguirlo
+sensibilidad entender significa
+comerciante miedo bajar persiana
+verguenza pasa aseguro
+[u'Mauricio Macri', u'Sergio Massa', u'Daniel Scioli', u'Cristina Kirchner', u'Victor Hugo', u'Roberto Navarro', u'Frente Renovador', u'Frente Justicialista', u'Florencio Randazzo']
+[3, 2, 2, 2, 1, 1, 1, 1, 1]
+[u'Victor Hugo Morales']
+[1]

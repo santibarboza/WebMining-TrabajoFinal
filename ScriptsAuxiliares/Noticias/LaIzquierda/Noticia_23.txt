@@ -1,0 +1,37 @@
+informacion conocio medio Boletin Oficial
+Maria Belen Cardasz designada Directora Movilidad Bicicleta
+insolito cargo direccion Ministerio Transporte
+detalla resolucion cargo creado diciembre encontraba vacante
+leer texto realiza designacion partir diciembre caracter transitorio termino CIENTO OCHENTA dias habiles contados partir fecha presente medida
+resolucion lleva firmas jefe Gabinete Marcos Pena ministro Transporte Guillermo Dietrich busca cubrirse criticas senalando gasto demande cumplimiento presente medida atendido cargo partidas especificas presupuesto vigente
+decision administrativa indica pago correspondiente Funcion Ejecutiva Nivel III Convenio Colectivo Sectorial Personal SISTEMA NACIONAL PUBLICO homologado Decreto
+mayo firmando UPCN ingreso estimado nueva funcionaria superaria
+bruto significaria neto
+Gobierno ataca permanente trabajadores estatales acusandolos noquis crea cargos politicos tipo cuyo sentido inexplicable
+candidata diputada Ciudad Myriam Bregman sumo gastadas Twitter ridiculo nombramiento
+crie campo bici
+banco clase spinning llorar letra Shakira
+Califico directora bicicleta
+mdash
+Myriam Bregman julio dato alentador Direccion Nacional Bicicleta depende Ministerio Transporte NO_BCRA
+mdash
+esteban rafele julio bueno NO_tira NO_plata NO_remedios NO_cientificos NO_invertir NO_Secretaria NO_Movilidad NO_Bicicleta
+mdash
+Angela Lerena
+NO_julio NO_Indignacion usuarios monopatin contar ministerio propio
+gobierno analiza ampliar bicicleta incluirlos
+mdash
+Sebastian Fernandez julio Director Movilidad Bicicleta
+pic
+twitter
+mdash
+hal julio imagen nueva Directora Bicicleta apocrifa pic
+twitter
+mdash
+Nano julio coaching fisico cuantico emocional
+directora movilidad bicicleta flor ladri mdash
+hopeful monster julio
+[u'Myriam Bregman', u'Transporte Guillermo', u'Trabajo Sectorial', u'Sebastian Fernandez', u'Maria Belen', u'Marcos Pena', u'Funcion Ejecutiva', u'Direccion Nacional', u'Convenio Colectivo', u'Ciudad Myriam', u'Boletin Oficial', u'Angela Lerena']
+[2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Transporte Guillermo Dietrich', u'Maria Belen Cardasz', u'Funcion Ejecutiva Nivel', u'Ciudad Myriam Bregman']
+[1, 1, 1, 1]

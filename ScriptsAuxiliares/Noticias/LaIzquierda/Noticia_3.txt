@@ -1,0 +1,23 @@
+jueves noche programa conducido jerarcas editoriales Clarin Eduardo der Kooy Julio Blanck invitado especial excanciller kirchnerista actual diputado Parlasur segundo candidato senador nacional Unidad Ciudadana Jorge Taiana
+temas Taiana hablo corrupcion
+Consultado periodistas tomo noticia pedido fiscal Carlos Stornelli desafuere procese excompanero Gabinete Julio Vido Taiana arranco respondiendo corrupcion tenerle tolerancia
+Argentina debate pendiente sociedad problema corrupcion estructural viene presente debemos tratar dijo Taiana
+agrego abarca sectores sistema politico autoridades poderes empresariado distintos sectores
+club contratistas vieja denominacion
+excanciller sugirio NO_debate NO_deberia NO_parte NO_discusiones campana
+deberiamos subordinar debate campanas electorales traves grandes NO_cosas espectaculares
+parece sentencio acompana formula candidatos senadores expresidente Cristina Fernandez Kirchner
+completo opinion cuestionando Carlos Stornelli fiscal federal semana despacho pidiendo desafuero detencion Julio Vido marco causa corrupcion alrededor Yacimientos Carboniferos Rio Turbio
+sorprendio pedido Stornelli empleado Macri
+acto pidio indagatoria desafuero NO_Vido NO_respondio NO_Taiana
+NO_recordo NO_excanciller NO_Stornelli NO_fiscal importante funcionario kirchnerista
+minsitro Seguridad Provincia Buenos Aires diciembre mayo
+decir fiel servidor gobernador Daniel Scioli excandidato presidencial Taiana compartira boleta elecciones decoroso quinto
+mayo Scioli decidio unificar ministerios Segurida Justicia mando Ricardo Casal Stornelli despedido gobernador palabras elogiosas
+gracias Carlos dedicacion puesta servicio
+der Kooy Blanck decidieron recordarle Taiana dato
+Cortesia
+[u'De Vido', u'Julio De', u'Carlos Stornelli', u'Yacimientos Carboniferos', u'Unidad Ciudadana', u'Rio Turbio', u'Ricardo Casal', u'Ni Van', u'Julio Blanck', u'Jorge Taiana', u'Gabinete Julio', u'En Argentina', u'Daniel Scioli', u'Cristina Fernandez', u'Codigo Politico', u'Clarin Eduardo', u'Buenos Aires']
+[3, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Julio De Vido', u'Gabinete Julio De', u'Clarin Eduardo Van']
+[2, 1, 1]

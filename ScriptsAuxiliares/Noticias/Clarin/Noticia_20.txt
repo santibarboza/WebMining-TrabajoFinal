@@ -1,0 +1,10 @@
+juez federal Luis Rodriguez hizo lugar denuncia filtracion informacion fiscal Carlos Stornelli causa Rio Turbio presidente Ciudadano Hugo Wortman Yofre puso abogados ONG disposicion fiscal defenderlo
+comunicado ONG sostuvo medida Rodriguez implicar senal amendrentamiento persecucion fiscales deciden ejercer funcion impulsora causas vinculadas hechos corrupcion
+Consideramos procedimientos tipo NO_demorar obstruir desenvolvimiento causa importancia
+perjuicio derecho imputados peticionar autoridades agrego
+ONG Argentina percibida pais alta corrupcion sinfin recursos legales dilatan avance lucha flagelo
+Esperamos juez expida brevedad pedidos NO_fiscal NO_dilate NO_investigacion NO_recursos NO_procesales NO_tienden NO_evitar NO_conocer NO_matriz NO_corrupcion NO_padece NO_Argentina finalizo
+[u'Rio Turbio', u'Poder Ciudadano', u'Luis Rodriguez', u'Hugo Wortman', u'Carlos Stornelli']
+[1, 1, 1, 1, 1]
+[u'Hugo Wortman Yofre']
+[1]

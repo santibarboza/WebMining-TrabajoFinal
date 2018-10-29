@@ -1,0 +1,21 @@
+Mariano Bruera detenido viernes causa imputan pedido coimas habilitar terrenos destinados plan Procrear
+hermano ex intendente Plata Pablo Bruera preso semana enero dictamen Casacion concedio habeas corpus permitio libertad
+Ahora fallo Suprema Corte bonaerense revoco medida enseguida juez interviene proceso Pablo Reale pidio vez detencion hermano jefe comunal tres ex funcionarios
+ex director general Planeamiento Obras Particulares Gustavo Petro ex secretario Gestion Publica Enrique Sette comisaria Roberto Moreno
+investigacion quedo acreditado ex funcionarios recibieron dolares acelerar tramites permitian venta lotes beneficiarios plan viviendas
+causa inicio luego comerciante Guillermo Andreau denuncio supuesta operaba municipio platense
+empresario aseguro organizacion pedia dinero firmar rezonificacion manzanas periferia Plata permitiera venta beneficiarios planes viviendas financiados Anses
+fiscal Jorge Paolini imputa Sette Moreno ex director delitos ilicitas cohecho formar parte asociacion ilicita hechos concurso real
+Petro Bruera atribuyen delito asociacion ilicita
+Pablo Bruera intendente periodos
+hermano NO_ultima NO_cargo NO_oficial NO_actuaba NO_responsable NO_armado NO_politico NO_FPV NO_barrios NO_perifericos NO_capital NO_bonaerense
+Mariano Bruera detenido enero concedieron recurso extraordinario
+dias marchas persecucion politica favor liberacion imputados
+PJ platense conducido Pablo Bruera acordo kirchnerismo conformacion listas locales Unidad Ciudadana
+tramo diputados provinciales encabezada decana Periodismo Plata Florencia Saintout acompana nomina ex secretario Seguridad gestion anterior Guillermo Escudero
+armado platense incorporo sectores CGT tradicional nueva conduccion Quebracho
+boleta concejales Plata lidera Victoria Tolosa Paz esposa ex secretario Medios kirchnerismo Jose Albistur procesado enriquecimiento ilicito
+[u'La Plata', u'Pablo Bruera', u'Mariano Bruera', u'Victoria Tolosa', u'Unidad Ciudadana', u'Suprema Corte', u'Roberto Moreno', u'Pablo Reale', u'Obras Particulares', u'Jorge Paolini', u'Gustavo Petro', u'Guillermo Escudero', u'Guillermo Andreau', u'Gestion Publica', u'Florencia Saintout', u'Enrique Sette']
+[5, 3, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Victoria Tolosa Paz']
+[1]

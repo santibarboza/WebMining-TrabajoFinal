@@ -1,0 +1,12 @@
+titular Procuracion Investigaciones Administrativas Sergio Rodriguez busca Corte Suprema reabra causa jefe AFI Gustavo Arribas acusado cambista brasileno Leonardo Meirelles ligado empresa Odebrecht dijo haberle girado dinero
+presentacion hecha sala III Casacion intencion eleve recurso Corte Suprema forma directa
+causa abrio jefe espias luego Meirelles arrepentidos revelo Brasil trama sobornos denunciara hecho serie giros bancarios definia soterramiento ferrocarril Sarmiento
+Arribas sobreseido juez Rodolfo Canicoba Corral fallo ratificado sala Camara Federal raiz fiscal General German Moldes activo causas fallecido Nisman desistio sostener apelacion investigue jefe espias
+embargo PIA elevo caso Casacion validar papel procuraduria especial funcionarios publicos
+Rodriguez fiscal designado Procuradora Alejandra Gils Carbo coordinar investigaciones funcionarios escandalo Odebrecht
+junio pasado juez Juan Carlos Gemignani sumaron colegas Angela Ledesma Eduardo afirmo encausado fecha hechos materia investigacion NO_asumido NO_funcion NO_ambito NO_administracion
+mayo videoconferencia causa Meirelles cuyo testimonio clave escandalo Lava Jato salpica constructora brasilena Odebrecht pago coimas region aseguro Arribas recibio trasferencias dinero monto dolares sonaba empresa Iecsa constructora Angelo Calcaterra primo presidente Mauricio Macri desprendio par meses
+[u'Corte Suprema', u'Sergio Rodriguez', u'Rodolfo Canicoba', u'Procuradora Alejandra', u'Mauricio Macri', u'Leonardo Meirelles', u'Lava Jato', u'Juan Carlos', u'Investigaciones Administrativas', u'Gustavo Arribas', u'Gils Carbo', u'General German', u'Eduardo Riggi', u'Camara Federal', u'Angelo Calcaterra', u'Angela Ledesma']
+[2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Rodolfo Canicoba Corral', u'Procuradora Alejandra Gils', u'Juan Carlos Gemignani', u'General German Moldes']
+[1, 1, 1, 1]

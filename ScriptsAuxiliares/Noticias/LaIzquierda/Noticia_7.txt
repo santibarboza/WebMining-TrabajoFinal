@@ -1,0 +1,27 @@
+mesa presentacion presentes Daniela Rodriguez docente delegada Suteba referente PTS encabezara lista Diputados Provinciales sexta seccion Buenos Aires seguida Emiliano Fabris docente referente PO Nestor Conte dirigente PO encabezara lista Concejales Bahia Blanca seguido Mariana Torres PTS trabajadora despedida cierre Burgos Gaston Canali delegado Suteba docente UNS
+manana Martes Frente Izquierda presento principales candidatos conferencia prensa realizada Hotel Muniz
+mesa presentacion presentes Daniela Rodriguez docente delegada Suteba referente PTS encabezara lista Diputados Provinciales sexta seccion Buenos Aires seguida Emiliano Fabris docente referente PO Nestor Conte dirigente PO encabezara lista Concejales Bahia Blanca seguido Mariana Torres trabajadora despedida cierre Burgos Gaston Canali delegado Suteba docente UNS
+Daniela Rodriguez candidata primera diputada provincial senalo trabajadores vienen pagando crisis empresarios frente FIT plantea crisis deben pagarla generaron
+empresarios
+Frente despidos masivos gestion Macrismo cuentan anuencia oposicion Kirchnerismo massismo radicalismo planteamos acceso propone Frente Izquierda jornada laboral horas dias semana bajar salarios salario igual canasta basica familiar repartiendo horas ocupados desocupados cuenta tema despidos
+ejemplo Bahia Blanca desocupacion asciende decir segunda ciudad mayor desocupacion provincia Buenos Aires atenuante franja etaria jovenes menores asciende
+sostuvo FIT propuesta concreta presenta provincias distritos provincia Buenos Aires
+venimos presentando NO_izquierda NO_testimonial NO_dicen NO_unica NO_oposicion NO_real NO_ajuste NO_macrismo
+Frente Victoria PJ massismo vienen dejando pasar ajuste medio traves gobernadores venido votandoles leyes ajuste oficialismo llevan listas dirigentes sindicales dejado pasar lado candidato primer concejal Nestor Conte denuncio problema NO_vivienda NO_ciudad NO_gobierno NO_municipal NO_contempla NO_destinar NO_presupuesto NO_salida NO_real NO_problema habitacional afecta familias
+hablo precarizacion laboral Bahia Blanca cobrado vida decenas trabajadores Juan Cruz Manfredini
+conferencia intervino Mariana Torres ex trabajadora Burgos despedida cierre empresa
+candidata segunda concejal senalo vemos necesidad voz trabajadores enfrentamos despidos pueda expresar Concejo Deliberante
+Creemos Concejo alejado reclamos poblacion general particularmente trabajadores despedidos organizaciones izquierda apoyamos lucha calles proyecto ley antidespido presentada FIT
+agrego
+Bahia gran cantidad despidos
+Burgos SIBB Vito ahora Dali
+solucion
+patronales ahora ofreciendo despedidos Dali pagar telas
+cierra jugueteria pagar juguetes trabajadores
+parece gran complicidad dirigencia sindical preocupada ver lista patronal dejado pasar
+lista local Frente Izquierda integrada trabajadores docentes SUTEBA recuperado estudiantes universitarios terciarios luchan defensa educacion publica
+vez destacar presencia integrantes movimiento mujeres vienen organizando femicidios violencia genero conquistar derechos
+[u'Buenos Aires', u'Bahia Blanca', u'Nestor Conte', u'Mariana Torres', u'Daniela Rodriguez', u'Gaston Canali', u'Emiliano Fabris', u'Diputados Provinciales', u'Juan Cruz', u'Hotel Muniz', u'Concejo Deliberante']
+[4, 4, 3, 3, 3, 2, 2, 2, 1, 1, 1]
+[u'Juan Cruz Manfredini']
+[1]

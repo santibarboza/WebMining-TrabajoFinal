@@ -1,0 +1,13 @@
+HAMBURGO
+violencia callejera revoluciona Hamburgo plena sesion obligo suspender razones seguridad principal actividad prevista parejas presidentes asisten cumbre
+esposa Mauricio Macri Juliana Awada entero media manana cambiaban planes visita prevista Centro Aleman Investigacion Climatica reemplazada charla expertos hotel invitados correrian riesgos
+Melania Trump esposa presidente Unidos quedo atrapada horas residencia oficial aloja
+policia alemana NO_aprobo NO_salida NO_miedo NO_auto NO_interceptado NO_grupos NO_antiglobalizacion NO_desafian NO_anoche NO_cerco NO_seguridad NO_alrededor NO_cumbre
+perdio paseo bote rio Elba lagos interiores ciudad Awada vio conversar esposa Emmanuel NO_Macron NO_Briggite NO_Trogneux
+NO_heridos detenidos disturbios cesan ciudad convertida fortaleza
+policias asignados proteger dignatarios
+jefes operativo mayor historia pidieron refuerzos frente desafio grupos radicales
+[u'Melania Trump', u'Mauricio Macri', u'Juliana Awada', u'Investigacion Climatica', u'Estados Unidos', u'Emmanuel Macron', u'Centro Aleman', u'Briggite Trogneux']
+[1, 1, 1, 1, 1, 1, 1, 1]
+[]
+[]

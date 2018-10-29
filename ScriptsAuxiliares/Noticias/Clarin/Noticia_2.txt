@@ -1,0 +1,14 @@
+reunion bilateral primera ministra Theresa May Mauricio Macri prevista manana Hamburgo marco reunion suspendida pedido delegacion britanica
+encuentro iba caracter formal Macri May luego breve contacto mantuvieron manana minutos foto familia sacaron mandatarios actuacion Filarmonica
+fuentes gobierno Reino Unido ejecutivo argentino May pidio cambio horario encuentro Macri NO_pudo NO_acomodar NO_agenda
+Mauricio Macri conversa Angela Merkel
+confiaron Clarin comitiva presidencial momentos llevar adelante encuentro
+mandatarios alojan hotel piso May escenario NO_factible
+obstante reconocen incierto
+encuentro presidentes iba pasar gusta decir britanicos
+previsto sabado luego especulo adelantarse viernes ahora momento realizacion naufraga
+reunion iba dialogo NO_solas NO_iban NO_presentes NO_delegaciones paises
+[u'Mauricio Macri', u'Theresa May', u'Reino Unido', u'Angela Merkel']
+[2, 1, 1, 1]
+[]
+[]

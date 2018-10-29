@@ -1,0 +1,22 @@
+horas publicidad medios audiovisuales sorteadas ayer partidos politicos participaran PASO proximo agosto
+avisos agrupaciones presentaran precandidatos eleccion comenzaran emitirse proximo julio dias comicio radios canales pais
+sorteo publico realizo sede Direccion Nacional Electoral encabezado secretario Asuntos Politicos Adrian Perez titular DINE Fernando Alvarez
+Participaron apoderados partidos tomaran parte PASO representantes Ente Nacional Comunicaciones Asociacion Radiodifusoras Privadas Argentinas
+Asociacion Teledifusoras Argentinas
+Escribania General Nacion Sindicatura General Nacion
+nbsp
+informo DINE distribuyeron
+horas publicidad electoral agrupaciones
+avisos emitiran radios AM FM servicios cable television abierta julio agosto arranque veda electoral
+nbsp
+diario asignacion total medio radial diferentes partidos segundos dia transmitiran diferentes franjas horarias
+nbsp
+clave confiemos proceso electoral llevando adelante participacion partidos politicos fundamental
+Buscamos elecciones transparentes propiciamos control ciudadania dijo Perez acto
+ex lilito destaco importancia distribucion espacios publicitarios medios audiovisuales garantizada equidad permitir votantes lleguen elecciones informados propuestas ofrecen distintos
+Alvarez parte remarco realizando partidos politicos permite robustecer democracia mayor participacion
+funcionario destaco conversaciones realizadas partidos Consejo Seguimiento consignar dicto decreto permitio ampliar servicios comunicacion audiovisual alcance nacional elecciones diputados senadores NO_presidenciales
+[u'Teledifusoras Argentinas', u'Sindicatura General', u'Radiodifusoras Privadas', u'Fernando Alvarez', u'Escribania General', u'Ente Nacional', u'Direccion Nacional', u'Asuntos Politicos', u'Adrian Perez']
+[1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Radiodifusoras Privadas Argentinas', u'Direccion Nacional Electoral']
+[1, 1]

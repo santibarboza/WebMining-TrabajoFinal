@@ -1,0 +1,35 @@
+fiscal Javier Luca apelo Corte Suprema fallo Camara Federal Casacion respaldado condena tres prision suspenso dirigente social Milagro Sala ademas agravado situacion dispuso debia juzgada amenazas delito sobreseida tribunal juicio oral
+lectura fallo deja sabor amargo operadores judiciales sociedad NO_extraerse NO_conclusion NO_NO_hecho NO_NO_de NO_NO_que NO_NO_no NO_NO_se NO_NO_atendieron NO_NO_los NO_NO_planteos NO_NO_y NO_NO_argumentos NO_NO_de NO_NO_las NO_NO_partes NO_NO_en NO_NO_esta NO_NO_etapa NO_NO_de NO_NO_casacion NO_escrita NO_basada NO_ideas NO_preconcebidas NO_conducian unico destino fatal veo obligacion senalo Luca presentar recurso extraordinario maximo tribunal
+nbsp
+Milagro Sala condenada NO_tres NO_prision NO_suspenso dano agravado instigacion delito protesta huevazos vidrios rotos Gerardo Morales
+tribunal considero dirigente Tupac Amaru organizo base testimonio Rene Arellano afirmo ordeno presentarse lugar
+Arellano protesta
+Ademas juicio comprobo testigo mentia demostro trabajaba gobierno Gerardo Morales asegurado contrario
+Arellano pareja Cristina Chauque denunciados falso testimonio
+jueces Sala IV Camara Casacion Mariano Borinsky Juan Carlos Gemignani Gustavo Hornos avalaron declaraciones confirmaron condenas Maria Graciela Lopez Ramon Gustavo Salvatierra delito dano agravado
+Ademas dijeron debia reabrir acusacion NO_Milagro NO_Sala NO_supuestas amenazas coactivas coincidencia pedido Morales
+nbsp
+escrito Luca advirtio camaristas convalidaron valoracion prueba incorporada debate alusion declaracion hizo Arellano etapa instruccion causa
+dijo reunion dirigente NO_Tupac NO_Amaru NO_encomendado NO_sillas NO_pegarle NO_Morales NO_podian NO_llegar tirar
+juicio testigo NO_hizo NO_referencia NO_instigacion NO_dano preguntado partes diferencia declaracion escrito
+fiscal testimonio incorporado formalmente juicio realizado Jujuy surge acta
+agrego parte declaracion referida asistido
+derecho confrontar testigos defensa juicio fiscales debemos afirmo Luca
+fiscal cuestiono confirmacion condena prision suspenso recibio Salvatierra proceso palmario indefension carecer defensa tecnica
+situacion senalo concreto rechazo designacion abogado escogido instruccion negativa posponer inicio debate nuevo conocer expediente
+nulidad absoluta proceso continuo fiscal recordo motivo encuentran tramite quejas Corte
+Luca aseguro decision Camara Casacion NO_violacion NO_principio NO_acusatorio NO_garantia NO_magistrados NO_arrogaron NO_ocasiones rol
+Argumento revocar prescripcion amenazas simples imputar amenazas coactivas violo garantia juzgado veces hecho volver etapa NO_proceso NO_judicial
+NO_pena NO_recibio NO_Milagro NO_Sala NO_Luca NO_advirtio NO_asignaron NO_NO_mayor NO_responsabilidad NO_movimientos NO_acciones seguidores decir empleando derecho penal
+nbsp
+Luca reitero ademas NO_Morales NO_parte NO_damnificada NO_sufrido NO_lugar NO_realizo NO_protesta NO_nbsp
+fiscal dictaminado correspondia imponer pena delito
+decir acusacion valida hecho
+vio rompiendo senalo Lopez Salvatierra
+concluyo
+creacion nueva forma autoria toman parte ejecucion hecho facilitan obrar refuerzan voluntad delinquir llevan
+Corte resolver detencion Sala ahora sumara nuevo reclamo sentencia empeora escenario judicial
+[u'De Luca', u'Milagro Sala', u'Tupac Amaru', u'Gerardo Morales', u'Corte Suprema', u'Tanto Arellano', u'Rene Arellano', u'Ramon Gustavo', u'Pero Arellano', u'Mariano Borinsky', u'Maria Graciela', u'La Corte', u'Juan Carlos', u'Javier De', u'Gustavo Hornos', u'Cristina Chauque', u'Camara Federal']
+[7, 4, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Ramon Gustavo Salvatierra', u'Maria Graciela Lopez', u'Juan Carlos Gemignani', u'Javier De Luca']
+[1, 1, 1, 1]

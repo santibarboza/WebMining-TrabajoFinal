@@ -1,0 +1,38 @@
+obrero recoleccion residuos dirigente Partido Trabajadores Socialistas Alejandro Vilca encabeza lista precandidatos diputados nacionales FIT abrio conferencia agradeciendo presencia periodistas numerosos medios manifestando solidaridad apoyo trabajadores multinacional Pepsico sufriendo despidos solidarizo trabajadores DIPEC perseguidos sufrieron
+Luego aseguro despidos pone juego elecciones
+Frente Izquierda gran desafio llegar millones organizar millones enfrentar ajuste lleva adelante gobierno nacional gobierno
+Vilca continuo asegurando gobierno previsto despues octubre avanzar plan ataque generalizado conquistas trabajadores reforma jubilacion ajuste
+creemos trabajadores prepararnos agrego
+Aseguro luego gobierno responde intereses empresarios pidiendo flexibilizacion laboral mejores condiciones garantizar
+explico generando desocupacion lado trabajadores quedan fabricas imponen jornadas extenuantes
+Aseguro realidad obedece gobiernos capitalistas imponen condiciones miseria pobreza ajuste
+contraposicion Vilca planteo Nicolas Cano Myriam Bregman lanzamos campana reparto horas reduccion jornada laboral horas dias semana salario minimo igual canasta familiar puedan acceder
+capitalistas piensan ganar planteamos respuesta profunda problema desocupacion problema explico Vilca
+pasar palabra companeros formula dirigente senalo ideas llevamos adelante Frente Izquierda tomando ademas banderas mujeres violencia machista problemas juventud defensa educacion defensa organizaciones trabajadores
+desafio FIT conquistar diputados fortalecer
+lista candidatos lista compuesta trabajadores docentes mujeres jovenes
+Encabeza lista senadores companero Gaston Remy joven economista docente Universidad Jujuy acompanan Paula Retambay docente PO companero Julio Mamani obrero Aceros Zapla companero Silvio Eguez Ingenio senalo Vilca continuo acompanan candidato diputado nacional companera docente Andrea Rua Partido Obrero
+companera trabajadora estatal Natalia Morales Andrea Gutierrez joven estudiante militante agrupacion mujeres Pan
+defensa educacion publica turno joven economista docente Universidad Jujuy Gaston Remy dirigente PTS encabeza nomina precandidatos senadores aseguro enfrentar plan ajuste pretende profundizar partir resultado octubre PTS Frente Izquierda venimos planteando propuesta reducir jornada laboral horas dias
+abordar problema profundo afecta mayoria juventud pais falta perspectiva finalizar
+sentido aseguro Jujuy triste situacion
+docente ve veinte ingresan Universidad Jujuy agrego terciarios secundarios situacion NO_mejor
+logra finalizar forma secundaria
+DIPEC informa jovenes Jujuy aseguro Remy
+Luego explico situacion empresarios contratar forma precaria peores salarios mayoria jovenes
+mujeres aplicar cadenas opresion INDEC informo semana mujeres igual tarea hombres cobran
+privan educacion publica haciendo proyecto pais favor continuo precandidato senador luego explico venimos insistiendo propuesta establezcan becas integrales estudio
+mes joven quede derecho
+propuesta choca proyecto pais claramente orientado empresarios ricos fijense gasto publico destina pagar deuda publica darle subsidios empresarios educacion apenas roza Universidades publicas NO_ciencia tecnologia llega aseguro Remy
+contaban investigadores jovenes CONICET Jujuy pasado personas pudieron ingresar carrera agrego ejemplo
+proyecto pais educacion pone segundo plano importa juntar deuda externa banca haga negocio queremos desarrollar propuesta Frente Izquierda alternativa trabajadores mujeres juventud pelear perspectiva superior gobierno trabajadores
+decia Alejandro campana orientada realmente afectar intereses educacion publica vidas dice lema valen ganancias punado senalo joven docente
+Piso proscriptivo Remy finalizo dura denuncia establece padron electoral ingresar Legislatura impedido FIT obtenga representacion pesar altas votaciones ubican cuarta fuerza aseguro trata pelea sistema oligarquico bipartidista gobiernan familias nombres vemos presentacion candidatos hicieron resto listas dinosaurios politicos viven privilegios sueldos decenas miles pesos NO_docentes NO_trabajadores mitad llegamos
+pesos Jujuy mayoria
+ajuste educacion joven docente Libertador General San Martin Paula Retambay dirigente Partido Obrero precandidata senadora senalo frente Izquierda unico enfrentar viene enfrentando gobierno responsable vaciamiento desguace educacion
+gobierno nacional provincial coalicion
+Luego hizo llamado trabajadores mujeres juventud organicen lugares contribuyan desarrollar Frente Izquierda alternativa independiente
+[u'Paula Retambay', u'Partido Obrero', u'Gaston Remy', u'Trabajadores Socialistas', u'San Martin', u'Natalia Morales', u'Myriam Bregman', u'Libertador General', u'Julio Mamani', u'Ingenio La', u'Andrea Rua', u'Andrea Gutierrez', u'Alejandro Vilca', u'Aceros Zapla']
+[2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Libertador General San', u'Ingenio La Esperanza']
+[1, 1]

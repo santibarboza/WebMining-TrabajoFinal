@@ -1,0 +1,17 @@
+HAMBURGO
+NO_trata casualidad coinciden fuentes diplomaticas muestra sintonia politica
+presidente Mauricio Macri primera ministra britanica Theresa May comparten hotel alojan cumbre inicio hoy ciudad alemana
+mandatarios sabian bueno opuso puso objeciones afirmo NACION miembro delegacion argentina
+Macri esposa Juliana Awada piso hotel Meridien Hamburg May
+ubica delegacion brasilena piso
+salida edificio reuniran sintonia
+May salio pasadas
+Macri hizo quince minutos tarde
+Shakira
+bromeo Presidente NACION entrar automovil llevo reunion plenaria referencia Global Citizen Festival realizado anoche colmado estadio ciudad mandatario estrella colombiana compartieron escenario
+Macri May encontraran manana hora local
+jefe Gabinete Marcos Pena afirmo NO_necesariamente hablara soberania Islas Malvinas conclave sostendran mandatarios
+[u'Theresa May', u'Mauricio Macri', u'Marcos Pena', u'Le Meridien', u'Juliana Awada', u'Islas Malvinas', u'Global Citizen']
+[1, 1, 1, 1, 1, 1, 1]
+[u'Le Meridien Hamburg', u'Global Citizen Festival']
+[1, 1]

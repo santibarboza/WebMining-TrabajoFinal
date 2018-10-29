@@ -1,0 +1,19 @@
+comprometio paz reducir pobreza combatir cambio climatico bromeo habilidades musicales Shakira Global Citizen Festival chicaneo anfitriones alemanes Mundial Rusia
+proximas horas embargo Mauricio Macri debera look elegante sport discurso descontracturado participe Cumbre
+Presidente espera plenario jefes funcion honor Filarmonica Elba encuentro solas par Francia
+comitiva oficial ademas Macri esposa Juliana Awada integrada canciller Jorge Faurie secretario Asuntos Estrategicos Fulvio Pompeo jefe Gabinete Marcos Pena ministro Hacienda Nicolas Dujovne
+Lee Macri Global Citizen Festival
+importante futuro educacion hora Argentina canciller Alemania Angela Merkel realizara saludo oficial jefes Predio Ferial Hamburgo
+lideres mundiales encuentro debatir estrategias Combatir Terrorismo
+realizaran primer sesion plenaria Crecimiento Global Comercio
+Luego almuerzo
+segunda sesion plenaria vez Clima Energia Desarrollo Sustentable
+Filarmonica Elba dara funcion honor presencia jefes
+Luego cena
+Macri reunira solas presidente Francia Emmanuel Macron Hotel Movenpick Hamburg
+Lee VIDEO Cumbre
+Mauricio Macri llevo gira chiste futbolero Manana Presidente solas primera ministra Reino Unido Theresa May presidente Sudafrica Jacob Zuma primer ministro India Narendra Modi
+[u'Mauricio Macri', u'Global Citizen', u'Theresa May', u'Reino Unido', u'Predio Ferial', u'Nicolas Dujovne', u'Narendra Modi', u'Mundial Rusia', u'Marcos Pena', u'Juliana Awada', u'Jorge Faurie', u'Jacob Zuma', u'Hotel Movenpick', u'Fulvio Pompeo', u'Emmanuel Macron', u'Desarrollo Sustentable', u'Crecimiento Global', u'Asuntos Estrategicos', u'Angela Merkel', u'Al Presidente']
+[2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Global Citizen Festival', u'Hotel Movenpick Hamburg']
+[2, 1]

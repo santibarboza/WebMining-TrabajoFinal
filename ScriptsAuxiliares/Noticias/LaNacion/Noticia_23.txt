@@ -1,0 +1,38 @@
+decision diputados oficialistas tomada
+NO_procederan NO_ex NO_ministro NO_Planificacion NO_actual NO_diputado NO_kirchnerista NO_Julio NO_Vido NO_juez NO_federal NO_Luis NO_Rodriguez investiga presunto desvio fondos vinculados minera Rio Turbio defina pedido desafuero formulo fiscal Carlos Stornelli
+mediar solicitud descuenta Camara reunira tercios votos procedera NO_desafuero NO_corto
+NO_kirchnerismo NO_miembros reune voluntades suficientes proteger ex ministro
+Ahora sucederia esperado magistrado denegara pedido fiscal
+caso impulsar expulsion Vido Camara diputada lider Coalicion Civica NO_Elisa
+NO_presente NO_proyecto NO_pedir NO_trate
+NO_Sergio Massa quiere
+NO_votar NO_desafuero NO_Vido pide juez proyecto presentado pidiendo desafuero
+aparece pedido Justicia tratar proyecto Frente Renovador enfatizo candidato senador Buenos Aires NO_lider NO_Frente NO_Renovador
+NO_rigor NO_bloque massista presento proyecto ley reglamentar inmunidades legisladores pedido exclusion Vido Camara
+unicos proyectos sentido presentaron diputados Carrio Silvina Lospennato Eduardo Costa Soledad Sosa
+exclusion diputado senador cuerpo producirse medio mecanismos
+juez solicita expresamente desafuero camara respectiva concede tercios votos legisladores presentes
+segundo mecanismo consagrado articulo Constitucion nacional faculta camara parlamentaria corregir miembros desorden conducta ejercicio funciones
+dicho articulo permite removerlo inhabilidad fisica moral sobreviniente incorporacion excluirlo seno
+buen romance diputado senador expulsado camara respectiva pares tercios votos consideran incurrio conducta impropia
+conductas tipificadas reglamentos ambas camaras
+referencia alusiones irrespetuosas imputaciones mala intencion moviles ilegitimos insultos expresiones ofensivas
+Camara Diputados antecedentes expulsion desorden conducta
+ex diputado nacional Angel Luque separado Camara baja consecuencia escandalo asesinato joven Maria Soledad Morales
+caso Norma Godoy diputada menemista expulsada declaraciones recargadas improperios hechas camara oculta programa televisivo
+Vido antecedentes pesados ameritan exclusion
+procesado cuatro causas enviado juicio oral accidente ferroviario Once enfatizo Carrio
+Ademas procesamientos ex ministro Planificacion kirchnerista afronta imputaciones Justicia indico diputada Lospennato
+Enfrenta acusaciones enriquecimiento ilicito
+lavado dinero
+sobreprecios obras publicas Santiago Estero
+irregularidades importacion gas licuado
+irregularidades programa viviendas Suenos Compartidos
+irregularidades renegociacion Cerro Dragon indico
+cerrar Constitucion nacional habilita expulsion legislador desorden conducta pregunta diputados atreveran adoptar via juez Rodriguez finalmente deniega pedido desafuero fiscal Stornelli
+juez rechaza dificilmente avanzar cuenta propia opinan voces escepticas
+cambio insisten antecedentes Vido envergadura Camara deberia decision mediar pedido juez
+[u'De Vido', u'Frente Renovador', u'Suenos Compartidos', u'Soledad Sosa', u'Silvina Lospennato', u'Sergio Massa', u'Rio Turbio', u'Norma Godoy', u'Maria Soledad', u'Luis Rodriguez', u'Julio De', u'Elisa Carrio', u'Eduardo Costa', u'Coalicion Civica', u'Cerro Dragon', u'Carlos Stornelli', u'Buenos Aires', u'Angel Luque']
+[6, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Maria Soledad Morales', u'Julio De Vido']
+[1, 1]

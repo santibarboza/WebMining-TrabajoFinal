@@ -1,0 +1,16 @@
+Laura Alonso titular Oficina Anticorrupcion califico paso importante aprobacion proyecto Responsabilidad Empresaria pena personas juridicas
+embargo funcionaria lamento NO_podido NO_aprobar NO_articulo permitia acordar empresas delacion delitos anteriores sancion norma
+Camara Diputados voto media sancion importante permite avanzar ponernos nivel paises afirmo
+termine sancionar Senado anadio funcionaria
+interesar
+Reves Cambiemos
+Diputados rechazo articulo clave Ley Odebrecht embargo acorde posicion sostuvo bancada oficialista sesion miercoles Alonso NO_critico NO_aprobacion articulo
+Cambiemos parte normativa revestia especial importancia
+lado permitia negociar directamente empresas podian acogerse discusion directa Procuradoria Tesoro Nacion hoy presidida ex abogado grupo Macri
+permitia acceder informacion sobornos pagados ciclo kirchnerista
+Luego gran parte oposicion permitido lograr aprobacion general ayer limitaron votacion articulo
+votacion arrojo resultado negativo negativos
+[u'Responsabilidad Empresaria', u'Para Cambiemos', u'Oficina Anticorrupcion', u'Ley Odebrecht', u'Laura Alonso', u'La Camara']
+[1, 1, 1, 1, 1, 1]
+[]
+[]

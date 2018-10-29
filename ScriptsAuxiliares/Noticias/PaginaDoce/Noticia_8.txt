@@ -1,0 +1,25 @@
+tregua gremios docentes gobierno Maria Eugenia Vidal duro
+meses intransigencia comienzo campana electoral gobernadora accedio mejorar propuesta salarial maestros aceptaron ahora autoridades educativas bonaerenses confirmaron clases perdidas sucesivas huelgas docentes deberan recuperarse vacaciones invierno falten descontaran dias sueldo
+Frente Unidad Docente provincial rechazo decision respondieron ministro Alejandro Finocchiaro
+docentes
+Finocchiaro camino reemplazar Ministerio Educacion nacional Esteban Bullrich ahora candidato senador Cambiemos territorio bonaerense confirmo determinacion NO_contenidos NO_impartidos NO_dias NO_huelga NO_recuperaran primera semana vacaciones
+NO_receso chicos trabajadores
+docentes dias atajo frente previsible rechazo maestros gobierno Vidal desconto dias paro trato quebrar huelgas iniciativas convocatoria personas reemplazarlos NO_dictado clases pagando premios hicieran paro
+Frente Unidad rechazamos absolutamente
+Gobierno preocupados NO_castigo NO_docentes NO_recuperacion NO_contenidos escuelas dijo Maria Laura Torre secretaria adjunta Suteba autoridades correr NO_eje NO_debate
+NO_contestar NO_demostrar plata mejorar oferta hicieron evitaba conflicto
+cambiar eje debate falta respeto grande docentes aseguro dirigente
+Torre claro escrito maestros receso
+plan contingencia NO_recuperar NO_contenido NO_aplicado NO_oportunidades paso gripe inundaciones NO_clases Gobierno tarda arreglar techo remarco docente ademas confirmo Frente Docente llamaron maestros
+decision recuperar dias paro vacaciones invierno NO_tomada NO_administracion NO_Vidal NO_mayo NO_pasado NO_mediante NO_resolucion
+rechazada Consejo General Educacion provincial entendio medida consultada NO_padres NO_resto NO_comunidad NO_educativa
+NO_nbsp
+NO_Direccion NO_NO_General NO_Escuelas sostuvieron dias vacaciones invierno dias docentes docentes recurren inasistencias contadas
+receso chicos NO_trabajadores
+confirmaron diario cartera educativa
+confirmaron escuelas bonaerenses deberan recuperar clases vacaciones invierno final calendario NO_escolar NO_diciembre NO_superan NO_treinta NO_ciento
+NO_recuperar NO_escuelas NO_dias NO_paro NO_brindaron veinte ciento servicio educativo practicamente explicaron Direccion Escuelas medida aplicara casos autoridades escolares reemplazaron docente fusionaron cursos completar jornada
+[u'Unidad Docente', u'Para Torre', u'Maria Laura', u'Maria Eugenia', u'Frente Docente', u'Esteban Bullrich', u'El Frente', u'Direccion General', u'Consejo General', u'Alejandro Finocchiaro']
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Maria Laura Torre', u'Maria Eugenia Vidal']
+[1, 1]

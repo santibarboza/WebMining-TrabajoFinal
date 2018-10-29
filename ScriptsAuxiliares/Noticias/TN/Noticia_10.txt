@@ -1,0 +1,23 @@
+acusan desviar
+millones pesos buscan desafuero quieren detenerlo preventivamente
+diputado Frente Victoria Julio Vido ahora depende decida juez federal Luis Rodriguez Camara Diputados
+lider Coalicion Civica Elisa Carrio complicar situacion exministro Planificacion Federal
+primera precandidata diputada nacional ciudad Buenos Aires aviso hoy hara posible diputado kirchnerista pierda inmunidad legislativa
+numero desafuero numero expulsion pondremos Buscados legisladores votaran impunidad Vido
+Lee mundo miedo hable frases Elisa Carrio expulsion pedida Carrio NO_actuan NO_Tribunales NO_Federales NO_Comodoro Py
+Vido detenido causa Julian Ercolini asociacion ilicita
+socia Mauricio Macri presiono jueces federales investigan diputado
+Presidente hecho propio Cadena
+Argentina acabo impunidad
+lider continuo criticando Judicial causas corrupcion exministro Planificacion Federal
+unica Nacion mundo gente NO_juzgada NO_asociacion ilicita prision preventiva
+fiscal federal Carlos Stornelli solicito recurso Vido imputados defraudacion administracion publica obras Yacimientos Carboniferos Rio Turbio
+Lee massismo cruzo Elisa Carrio ley anticorrupcion
+Defiende presidente explicar Justicia juez Rodriguez eximio prision tres imputados solicitaron recurso
+Fernando Lisse NO_Miguel NO_Larregina NO_Marta NO_NO_Perez
+NO_NO_La NO_NO_resolucion NO_NO_no NO_alcanza Vido abogado realizo presentacion
+Ahora debera decidir planteo fiscal
+[u'De Vido', u'Elisa Carrio', u'Planificacion Federal', u'Yacimientos Carboniferos', u'Vamos Juntos', u'Tribunales Federales', u'Rio Turbio', u'Poder Judicial', u'Miguel Larregina', u'Mauricio Macri', u'Marta Perez', u'Luis Rodriguez', u'Julio De', u'Julian Ercolini', u'Fernando Lisse', u'En Argentina', u'El Presidente', u'Comodoro Py', u'Coalicion Civica', u'Carlos Stornelli', u'Buenos Aires']
+[5, 3, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Yacimientos Carboniferos Rio', u'Julio De Vido']
+[1, 1]

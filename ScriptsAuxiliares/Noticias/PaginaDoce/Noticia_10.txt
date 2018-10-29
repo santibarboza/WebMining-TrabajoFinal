@@ -1,0 +1,39 @@
+nbsp
+oportunidad mostrar capacidades bailar cantar dijo presidente Mauricio Macri cantante colombiana Shakira chistes fallidos tiro breve mensaje subirse escenario festival Global Citizen Hamburgo marco Cumbre realizara hoy
+look pretendidamente juvenil Macri primer ministro canadiense Justin Trudeau unicos jefes pasaron encuentro paralelo ONG plantea erradicacion pobreza extrema adhieren artistas internacionales
+frase familiar oidos argentinos Presidente llamo paises alcanzar
+nbsp
+nbsp
+Macri arribo blindada Hamburgo
+hora argentina
+Alemania
+acompanaba primera dama Juliana Awada ministro Hacienda Nicolas Dujovne secretario Asuntos Estrategicos Fulvio Pompeo
+contexto protestas callejeras Cumbre permanecieron lujoso hotel Meridien barrio St
+Georg ribera cinco horas despues partieron Barclaycard Arena festival
+comitiva sumaron tarde jefe Gabinete Marcos Pena brindo conferencia Frankfurt Foro Economico Argentino canciller Jorge Faurie vino vuelo conexion Paris
+festival final concierto organizado Global Citizen tocaron cantante grupo Coldplay Chris Martin Shakira Ellie Goulding Demi Lovato Pharrell Macri jefes quiso dar mensaje plataforma juvenil
+nbsp
+importante futuro educacion involucra tecnologia desarrollo habilidades generaciones proximas encuentren trabajos hoy siquiera dijo Macri escenario
+trabajando paises posible paz poner enfatizo llamo danos cambio
+cerrar intervencion vez humor apelo frecuentes comentarios relacionados futbol
+invitarlos proxima cumbre Buenos Aires respeto digo alemanes proxima Copa Mundo futbol expreso mandatario tibios aplausos publico
+broma fallida
+nbsp
+discutiendo tomando accion
+proxima generacion utilice habilidades mejorar calidad vida humanidad
+herramienta educacion
+Debemos seguir luchando combatir pobreza concluyo Shakira escenario presidente Macri alzaba bandera Global Citizen juego remera llevaba puesta logo Ciudadanos Globales
+escenario subio primera ministra Noruega Erna Solberg pais norte NO_Europa NO_forma NO_parte concurre calidad invitado
+ayer llegaron presidentes paises miembros Unidos Donald Trump China Xi Jinping ultima hora arribo mandatario brasileno Michelle Temer confirmar presencia cumbre
+Hoy presidente Macri ministros acompanan dirigiran Hamburg Messe und Congress centro exposiciones realiza jornada comenzara foto familia encabezada Merkel discurso bienvenida pasar discusion interna trabajos formulados grupos discusion diferentes temas finanzas comercio cambio
+noche participar cena ofrecida canciller alemana jefes Macri trasladara hotel Movenpick Hamburg
+reunira presidente Francia Emmanuel Macron
+nbsp
+ciudad Hamburgo encuentra blindada ayer
+policias ciudades alemanas reforzaron seguridad localidad ostenta segundo puerto importante Europa
+calles Centrum barrio centrico contiene edificios publicos comerciales dirigen Hamburg Messe mayoria cortadas acceso restringido
+nbsp
+[u'Global Citizen', u'Hamburg Messe', u'Xi Jinping', u'Pharrell Williams', u'Nicolas Dujovne', u'Movenpick Hamburg', u'Michelle Temer', u'Mauricio Macri', u'Marcos Pena', u'Le Meridien', u'Justin Trudeau', u'Juliana Awada', u'Jorge Faurie', u'Fulvio Pompeo', u'Foro Economico', u'Estados Unidos', u'Erna Solberg', u'Emmanuel Macron', u'Ellie Goulding', u'Donald Trump', u'Demi Lovato', u'Ciudadanos Globales', u'Chris Martin', u'Buenos Aires', u'Barclaycard Arena', u'Asuntos Estrategicos', u'Argentino Aleman']
+[3, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Foro Economico Argentino']
+[1]

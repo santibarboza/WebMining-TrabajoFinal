@@ -1,0 +1,29 @@
+Cumbre Hamburgo comenzo volvieron estallar protestas calles
+detenidos policias heridos automoviles incendiados antesala inicio reuniones jefes paises desarrollados emergentes
+presidente Donald Trump inconvenientes movilizarse esposa Melania NO_pudo NO_salir NO_residencia
+hoy previstas marchas gobierno aleman participaran personas
+AFP nuevos hechos violencia ocurrieron madrugada despues masiva manifestacion ayer policias resultaron heridos leves detenciones
+pesar centro Hamburgo totalmente bloqueado miembros fuerzas seguridad protestas volvieron calles objeto bloquear llegada delegaciones presidenciales ceremonia inicio cumbre
+bombas molotov patrulleros policia Hamburgo dio cuenta mezcla humo negro surgia oeste ciudad
+vehiculos incendiados diferentes barrios
+registraron danos comercios camiones hidrantes lanzaban pintura manifestantes
+arribo delegaciones complicado Trump problemas
+residencia esposa presidente estadounidense rodeada manifestaciones impidieron NO_salir
+NO_hecho NO_pudo NO_participar NO_crucero NO_ciudad NO_portuaria NO_anulo NO_visita NO_prevista NO_centro NO_investigacion clima
+hecho debio reprogramarse encuentro lideres conyuges
+comienzo cumbre saludo capto atencion camaras presidente ruso Vladimir Putin par estadounidense Donald Trump
+imagenes reflejaron cara cara tensa simpatia
+estrecharon mano dijeron reunirian aparte verian pronto confirmo portavoz Kremlin Dimitri Peskov
+hecho reunion lugar horas tarde
+EFE tarde anfitriona Angela Merkel dio discurso inicio cumbre
+Llamo miembros cooperar manera estrecha encontrar acuerdos dias reuniones olvidar principios dejo claro principales problemas afrontar terrorismo internacional
+apremia podremos encontrar soluciones abiertos acuerdos movemos posiciones doblegarnos subrayo
+mandataria alemana consciente tensiones existen ambitos libre comercio proteccion clima debido ferrea oposicion Unidos
+dejo claro podra hablar diferencias
+reunion participa presidente argentino Mauricio Macri fotografia mesa reuniones plenarias ubicado lado Merkel
+estima segunda sesion plenaria encuentre par Francia Emmanuel Macron
+EFE
+[u'Donald Trump', u'Vladimir Putin', u'Melania Trump', u'Mauricio Macri', u'La Cumbre', u'Estados Unidos', u'Emmanuel Macron', u'Dimitri Peskov', u'Angela Merkel']
+[2, 1, 1, 1, 1, 1, 1, 1, 1]
+[]
+[]

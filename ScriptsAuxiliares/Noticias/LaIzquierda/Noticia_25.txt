@@ -1,0 +1,31 @@
+ajuste gobierno lleva adelante NO_responsabilidad NO_Cambiemos
+recordar Frente Victoria Frente Renovador votaron Congreso favor ochenta leyes detrimento condiciones vida pueblo trabajador
+sucede distritos conurbano fuerzas politicas realizan acuerdos comun Concejo Deliberante Tres febrero lejos fuerzas aprobaron presupuesto ajuste Valenzuela ofrecer salida trabajadores juventud precariedad represion
+NO_escenario NO_extrana NO_mudanza NO_politica NO_ejercen NO_candidatos NO_dichas NO_listas distrito
+parte FIT vereda enfrente propuesta concreta
+horas dias semana salario acorde canasta familiar repartiendo horas ocupados desocupados afectando ganancias grandes empresarios
+principios gustan marco elecciones Unidad Ciudadana alianza lleva Cristina Fernandez candidata senadora secundada ex canciller Jorge Taiana propone distrito abogado Jorge Novarese listas candidato primer concejal
+Novarese integraba Frente Renovador Sergio Massa marzo declaraba twitt
+planes sociales convierten esclavos gente pesos protestar Tierra
+febrero argumentaba red social
+presidente lamentablemente gestion marcada corrupcion NO_desorden social fomentar discordia
+obstante Novarese parece cambiado opinion hoy NO_encabeza alianza conformada Cristina Tres Febrero
+unico
+Ramos Cambiemos Ciudadana Jorge Novarese mercado pases empresario Martin Jofre sumo filas massismo militantes Libres Sur fuerza politica hizo alianzas Fernando Ramos hoy parte Cambiemos
+Marcelo Olmedo tercero lista encabezara Jofre Pais Frente recordar padre NO_secretario NO_Obras NO_Publicas Hugo Curto
+parte Diego Achilli candidato dice apoyar vez Jofre arrepentido luego perder paso
+Asimismo empresario helado recibido duras criticas pasarse bloque oficialista pasado
+embargo alguien gran candidato recibir premio
+Eduardo Marquez paso curtismo massismo ahora randazzismo
+Marquez elecciones vez demuestra Frente Renovador FPV Pro une calculo politico
+obstante diferencia oportunismo caracteriza fuerzas politicas partidos tradicionales votan nivel nacional leyes ajuste Frente Izquierda mantiene coherencia
+lista integrada docentes obreros estudiantes lleva Nicolas Cano candidato diputado nacional Nestor Pitrola candidato senador
+distrito docente Facundo Pilarche PTS candidato primer concejal secundado Adriana Sirna PO
+destacar ultimas elecciones legislativas FIT escasos votos entrar Concejo
+Ahora abre NO_nueva NO_oportunidad
+queda claro Tres febrero Rey panqueque Carlitos
+Hagan apuestas
+[u'Frente Renovador', u'Unidad Ciudadana', u'Jorge Novarese', u'Fernando Ramos', u'Eduardo Marquez', u'Sergio Massa', u'Obras Publicas', u'Nestor Pitrola', u'Martin Jofre', u'Marcelo Olmedo', u'Jorge Taiana', u'Hugo Curto', u'Facundo Pilarche', u'Diego Achilli', u'Cristina Fernandez', u'Concejo Deliberante', u'Adriana Sirna']
+[4, 3, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Unidad Ciudadana Jorge']
+[1]

@@ -1,0 +1,26 @@
+polemica decision juez federal Luis Rodriguez rechazo ayer ahora detener pedir desafuero diputado kirchnerista ex ministro Planificacion Julio Vido entender NO_riesgo NO_fuga NO_entorpecimiento NO_causa NO_Rio NO_Turbio revelaron Clarin fuentes judiciales
+adelanto ayer diario Rodriguez mantuvo criterio usado jueves tres funcionarios menores responsabilidades desvio millones pesos total millones invertidos Vido fracasada reconversion mina
+imponer secreto sumario causa Rodriguez rechazo detencion ex secretario Coordinacion cartera Roberto Baratta imputados fiscal Carlos Stornelli
+Paralelamente Stornelli apelo duros terminos decision Rodriguez conceder eximicion prision tres funcionarios menor rango sala II Camara Federal portena
+Ademas fiscal rechazo pedido eximicion prision Baratta informaron fuentes judiciales entrada vigencia secreto sumario
+criterio fiscal imputados conservan obstruir investigacion causa provoco pelea magistrado
+juez hizo lugar denuncia filtracion informacion Stornelli presidente Ciudadano Hugo Wortman Yofre puso abogados ONG disposicion fiscal defenderlo
+pedido desafuero Vido hizo Stornelli provoco diputados oposicion anunciaron intencion renunciar fueros abrieron polemica
+magistrado justifico NO_polemica NO_decision agotaron pruebas necesarias indagar sospechoso detener pedir desafuero Vido
+razon acepto serie medidas pruebas solicito fiscal realizar serie allanamientos permitir intervencion Unidad Informacion Financiera seguir ruta dinero solicitar serie informes organimos entidades privadas revelaron Clarin fuentes judiciales
+medidas ordenaron pedir AFIP intervencion NO_fundacion NO_UTN NO_Santa Cruz inspectores provengan Comodoro Rivadavia sucursal sospechada hecho vista serie facturas NO_apocrifas NO_emitidas NO_inflar NO_costos NO_contratistas
+NO_facturas NO_emitidas NO_duenos empresas aumenta sospecha usadas encubrir sobornos paso caso Skanska
+medidas deberian resueltas meses aproximadamente momento juez deberia aceptar indagatorias Vido madeja delictiva
+Rodriguez juez pasado allano casa Vido causa NO_enriquecimiento NO_ilicito NO_ex NO_funcionario
+NO_jueves resolucion Rodriguez sostenido actividad procesal desplegada vio afectada intervencion personas denunciadas dificil sostener ocurrir partir momento aceptar pedido defensa ex directivo Yacimientos Carboniferos Rio Turbio
+ayer mantuvo criterio Vido Baratta
+trata Fernando Lisse ex directivo YCRT hecho presentaciones similares directivos Miguel Larregina Marta Perez igual suerte
+martes pasado Stornelli solicito indagatoria detencion personas encabezadas Vido segundo Baratta
+ex secretario Mineria Jorge Mayoral directivos YCRT desviadocasi millones pesos debian destinarse reactivacion mina carbon Rio Turbio
+caso Vido Stornelli pidio ademas quiten fueros parlamentarios provoco arduo debate Congreso
+necesario cuenta unica justificacion constitucionalmente valida mantener privada libertad persona proceso goza presuncion inocencia existencia peligro procesal sostuvo juez
+Anadio sentido detencion deberia concretarse existencia elementos conviccion suficientes presumir intentara fugarse libertad entorpecera desarrollo investigacion
+[u'De Vido', u'Rio Turbio', u'Yacimientos Carboniferos', u'Santa Cruz', u'Roberto Baratta', u'Poder Ciudadano', u'Planificacion Julio', u'Mineria Jorge', u'Miguel Larregina', u'Marta Perez', u'Luis Rodriguez', u'Informacion Financiera', u'Hugo Wortman', u'Fernando Lisse', u'Comodoro Rivadavia', u'Carlos Stornelli', u'Camara Federal']
+[9, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[u'Planificacion Julio De', u'Mineria Jorge Mayoral', u'Hugo Wortman Yofre']
+[1, 1, 1]
